@@ -25,7 +25,7 @@
                                 fill="#F84E1D" />
                         </svg>
                     </div>
-                    <a href="tel:+919879877123">+91 987 9877 123</a>
+                    <a href="tel:9879877123">+91 9879877123</a>
                 </li>
                 <li>
                     <div class="icon">
@@ -41,7 +41,7 @@
                     </div>
                     <a
                         href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">84
-                        Valley View Streel,Monsey,NY</a>
+                        G-7, Near Water Tank, Mansarover Garden, Delhi</a>
                 </li>
             </ul>
         </div>
@@ -68,13 +68,6 @@
             <ul class="menu-list">
                 <li><a href="index.php" class="drop-down">Home</a></li>
                 <li><a href="about.php" class="drop-down">About</a></li>
-                <li class="menu-item-has-children">
-                    <a href="#" class="drop-down">Service</a><i class="bi bi-plus dropdown-icon"></i>
-                    <ul class="sub-menu">
-                        <li><a href="service.php">Service 1</a></li>
-                        <li><a href="service.php">Service 2</a></li>
-                    </ul>
-                </li>
                   <li class="menu-item-has-children">
                     <a href="#" class="drop-down">Product</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
@@ -85,7 +78,7 @@
                         <li><a href="shop-list.php">Supermart-Accessories</a></li>
                     </ul>
                 </li>
-                <li><a href="contact.php" class="drop-down">CONTACT</a></li>
+                <li><a href="contact.php" class="drop-down">Contact</a></li>
             </ul>
             <div class="btn-area d-lg-none d-flex justify-content-center">
                 <a href="#" class="header-btn">Get Quote</a>

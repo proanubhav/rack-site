@@ -25,21 +25,6 @@
   <!-- footer section start  -->
   <div class="footer-section">
     <div class="container">
-      <div class="row d-flex align-items-center justify-content-center">
-        <div class="col-lg-10">
-          <div class="submit-form">
-            <h2>Subscribe Now</h2>
-            <form>
-              <div class="from-inner">
-                <input type="email" placeholder="Enter Your Email" required />
-                <a class="primary-btn1 submit-btn-two" href="#">
-                  Submit Now
-                </a>
-              </div>
-            </form>
-          </div>
-        </div>
-      </div>
       <div class="row pb-50 g-4 justify-content-between">
         <div class="col-lg-2 col-md-6 col-sm-6 col">
           <div class="footer-widget">
@@ -62,13 +47,13 @@
                         fill="#F84E1D" />
                     </svg>
                     About Us</a></li>
-                <li><a href="service.php">
+                <li><a href="shop-list.php">
                     <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" clip-rule="evenodd"
                         d="M6.70861 12.2682H8.14828C8.32736 12.2682 8.49886 12.197 8.62545 12.0704L13.2192 7.4767C13.2818 7.41408 13.3315 7.33973 13.3654 7.25791C13.3993 7.17609 13.4168 7.08839 13.4168 6.99982C13.4168 6.91125 13.3993 6.82355 13.3654 6.74173C13.3315 6.65991 13.2818 6.58556 13.2192 6.52294L8.62545 1.9292C8.56282 1.86649 8.48843 1.81678 8.40655 1.78289C8.32467 1.74901 8.2369 1.73162 8.14828 1.73174L6.70861 1.73145C6.57529 1.73165 6.44502 1.77133 6.33422 1.84548C6.22343 1.91964 6.13708 2.02495 6.08607 2.14812C6.03506 2.2713 6.02167 2.40682 6.0476 2.5376C6.07352 2.66838 6.1376 2.78854 6.23174 2.88295L10.2842 6.93536C10.3012 6.95247 10.3108 6.97565 10.3108 6.99982C10.3108 7.02399 10.3012 7.04717 10.2842 7.06428L6.23174 11.1167C6.13745 11.211 6.07325 11.3312 6.04725 11.462C6.02124 11.5929 6.0346 11.7285 6.08564 11.8517C6.13667 11.9749 6.22309 12.0803 6.33398 12.1544C6.44486 12.2285 6.57523 12.2681 6.70861 12.2682ZM1.25795 12.2682H2.69761C2.7862 12.2682 2.87391 12.2507 2.95574 12.2168C3.03757 12.1829 3.1119 12.1331 3.17449 12.0704L7.76824 7.4767C7.83087 7.41408 7.88055 7.33973 7.91445 7.25791C7.94835 7.17609 7.9658 7.08839 7.9658 6.99982C7.9658 6.91125 7.94835 6.82355 7.91445 6.74173C7.88055 6.65991 7.83087 6.58556 7.76824 6.52294L3.17449 1.9292C3.11192 1.8665 3.03758 1.81679 2.95575 1.7829C2.87391 1.74902 2.78619 1.73163 2.69761 1.73174L1.25795 1.73145C1.12454 1.73145 0.994128 1.77101 0.8832 1.84512C0.772271 1.91923 0.685806 2.02457 0.634735 2.14781C0.583664 2.27106 0.57028 2.40668 0.596275 2.53753C0.62227 2.66838 0.686478 2.78858 0.78078 2.88295L4.8332 6.93536C4.85026 6.95247 4.85984 6.97565 4.85984 6.99982C4.85984 7.02399 4.85026 7.04717 4.8332 7.06428L0.78078 11.1167C0.686478 11.2111 0.62227 11.3313 0.596275 11.4621C0.57028 11.593 0.583664 11.7286 0.634735 11.8518C0.685806 11.9751 0.772271 12.0804 0.8832 12.1545C0.994128 12.2286 1.12454 12.2682 1.25795 12.2682Z"
                         fill="#F84E1D" />
                     </svg>
-                    Services</a></li>
+                    Products</a></li>
                 <li><a href="contact.php">
                     <svg width="14" height="14" viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
                       <path fill-rule="evenodd" clip-rule="evenodd"
@@ -158,10 +143,7 @@
                   <div class="content">
                     <a href="cdn-cgi/l/email-protection#1c75727a735c79647d716c7079327f7371"><span
                         class="__cf_email__"
-                        data-cfemail="8ce5e2eae3cce9f4ede1fce0e9a2efe3e1">[email&#160;protected]</span></a>
-                    <a href="cdn-cgi/l/email-protection#345c5158585b74514c55594458511a575b59"><span
-                        class="__cf_email__"
-                        data-cfemail="58303d343437183d20393528343d763b3735">[email&#160;protected]</span></a>
+                        data-cfemail="8ce5e2eae3cce9f4ede1fce0e9a2efe3e1">support@rack.com</span></a>
                   </div>
                 </li>
               </ul>
@@ -180,8 +162,8 @@
                 </li>
                 <li>
                   <div class="content">
-                    <a href="tel:+8801648245948">+880 164 824 5948</a><br>
-                    <a href="tel:+8801648245948">+880 164 824 5948</a>
+                    <a href="tel:9879877123">+91 9879877123</a><br>
+                    <a href="tel:1234567890">+91 1234567890</a>
                   </div>
                 </li>
               </ul>
@@ -211,7 +193,7 @@
                   <div class="content two">
                     <a
                       href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">House
-                      177, Avenue 01, Mirpur DOHS, Dhaka Bangladesh</a>
+                      G-7, Near Water Tank, Mansarover Garden, Delhi</a>
                   </div>
                 </li>
               </ul>
@@ -268,7 +250,7 @@
           <div class="col-lg-12">
             <div class="footer-bottom">
               <div class="copy-write-area">
-                <p>©Copyright 2025 Globego | Design By <a href="https://qzency.com/">Qzency</a></p>
+                <p>©Copyright 2025 Globego</p>
               </div>
               <div class="middle-logo">
                 <a href="index.php">
