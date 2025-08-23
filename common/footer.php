@@ -271,4 +271,66 @@
   </div>
   <!-- footer section end  -->
 
+  <!-- Contact Form Modal -->
+<div class="modal fade" id="contactModal" tabindex="-1" aria-labelledby="contactModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="contactModalLabel">Get a Free Quote</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <form id="contactForm">
+        <div class="modal-body">
+          <div class="mb-3">
+            <label for="cfName" class="form-label">Your Name</label>
+            <input type="text" class="form-control" id="cfName" name="name" placeholder="Enter Name" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="cfEmail" class="form-label">Email</label>
+            <input type="email" class="form-control" id="cfEmail" name="email" placeholder="Enter Email" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="cfPhone" class="form-label">Phone</label>
+            <input type="tel" class="form-control" id="cfPhone" name="phone" placeholder="Enter Phone" required>
+          </div>
+
+          <div class="mb-3">
+            <label for="cfMessage" class="form-label">Message</label>
+            <textarea class="form-control" id="cfMessage" name="message" rows="4" placeholder="Enter Message" required></textarea>
+          </div>
+
+        </div>
+
+        <div class="modal-footer">
+          <a class="primary-btn1 secondary-btn" data-bs-dismiss="modal">Close</a>
+          <a class="submit-btn four" data-text="Submit" href="#">
+                                        Submit
+                                    </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
  <?php include 'js.php'; ?>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    var modalEl = document.getElementById('contactModal');
+    var contactModal = new bootstrap.Modal(modalEl);
+    if (window.location.pathname.endsWith("index.php") || window.location.pathname === "/" ) {
+      setTimeout(function () {
+        if (!modalEl.classList.contains('show')) {
+          contactModal.show();
+        }
+      }, 1000);
+    }
+    document.getElementById('contactForm').addEventListener('submit', function (e) {
+      e.preventDefault();
+      contactModal.hide();
+      this.reset();
+    });
+  });
+</script>

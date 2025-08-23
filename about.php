@@ -42,22 +42,47 @@
     <!-- breadcrumb-section end -->
 
    <!-- about us section start -->
-<div class="about-us-section section-padding-top section-margin-bottom">
-    <div class="container position-relative">
-        <div class="row gy-md-5 g-4 align-items-center">
-            <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-                <div class="about-content">
-                    <div class="section-title">
-                        <div class="sub-title">
-                            <div class="sub-clip">
-                                <span>About Us</span>
-                            </div>
-                            <span>Your Reliable Display & Storage Rack Partner</span>
+<div class="about-us-section-three section-padding-top section-padding-bottom">
+        <div class="container position-relative">
+            <div class="row align-items-center g-xxl-0 gy-5">
+                <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
+                    <div class="about-left-area">
+                        <div class="about-big-iamge">
+                            <img src="assets/image/card-img/about-image-three-1.png" alt="">
                         </div>
-                        <h2>Your Trusted Partner for Innovative Rack Solutions</h2>
-                        <p>We specialize in designing, manufacturing, and installing high-quality display and storage racks that maximize space, enhance efficiency, and add value to your business.</p>
+                        <div class="review-wrapper-three wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
+                            <div class="review-content">
+                                <h3>The Best &amp; Most Reliable Rack Service</h3>
+                                <h5>Ranjeet Singh</h5>
+                                <div class="icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="82" height="80" viewBox="0 0 82 80" fill="none">
+                                        <path d="M135.5 88.5C135.5 115.005 113.791 136.5 87 136.5C60.2093 136.5 38.5 115.005 38.5 88.5C38.5 61.9952 60.2093 40.5 87 40.5C113.791 40.5 135.5 61.9952 135.5 88.5Z" stroke="white"></path>
+                                        <circle cx="96" cy="103" r="46.5" stroke="white"></circle>
+                                        <circle cx="78.5" cy="80.5" r="54" stroke="white"></circle>
+                                        <path d="M133.5 71.5C133.5 103.513 106.433 129.5 73 129.5C39.5668 129.5 12.5 103.513 12.5 71.5C12.5 39.487 39.5668 13.5 73 13.5C106.433 13.5 133.5 39.487 133.5 71.5Z" stroke="white"></path>
+                                        <path d="M127.5 61C127.5 94.3909 99.093 121.5 64 121.5C28.907 121.5 0.5 94.3909 0.5 61C0.5 27.6091 28.907 0.5 64 0.5C99.093 0.5 127.5 27.6091 127.5 61Z" stroke="white"></path>
+                                    </svg>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="about-small-iamge">
+                            <!-- <img src="assets/image/card-img/about-image-three-2.png" alt=""> -->
+                            <img src="assets/images-rack/about/about1.png" alt="" style='width: 373px; height: 193px'>
+                        </div>
                     </div>
-                    <ul>
+                </div>
+                <div class="col-lg-7">
+                    <div class="right-side-area">
+                        <div class="section-title-three">
+                            <div class="sub-title">
+                                <div class="sub-clip">
+                                    <span>About Us</span>
+                                </div>
+                            </div>
+                           <h2>Your Trusted Partner for Innovative Rack Solutions</h2>
+                            <p>We specialize in designing, manufacturing, and installing high-quality display and storage racks that maximize space, enhance efficiency, and add value to your business.</p>
+                        </div>
+                      <ul>
                         <li>
                           <div class="icon"> 
                     <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -123,38 +148,12 @@
                             <span>Award-Winning Rack Manufacturer</span>
                         </li>
                     </ul>
-                    <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
-                </div>
-            </div>
-            <div class="col-lg-6 wow animate fadeInRight" data-wow-delay="200ms" data-wow-duration="1500ms">
-                <div class="image-wrapper">
-                    <div class="left-wrap">
-                        <div class="image-one">
-                            <img src="assets/image/card-img/image-one.png" alt="card-img">
-                        </div>
-                        <div class="image-two">
-                            <img src="assets/image/card-img/image-two.png" alt="card-img">
-                        </div>
-                    </div>
-                    <div class="right-wrap">
-                        <div class="image-three">
-                            <img src="assets/image/card-img/image-three.png" alt="card-img">
-                        </div>
-                        <div class="image-four">
-                            <img src="assets/image/card-img/image-four.png" alt="card-img">
-                        </div>
+                        <a href="shop-list.php" class="primary-btn1 secondary-btn">Learn More</a>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="green-container-image wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-            <img src="assets/image/banner-img/green-container.php" alt="">
-        </div>
-        <div class="car-shape">
-            <img src="assets/image/banner-img/about-us-one-shape.png" alt="">
         </div>
     </div>
-</div>
 <!-- about us section end -->
 
 <!-- cta section four start -->

@@ -85,7 +85,7 @@
             </div>
         </div>
         <div class="nav-right d-flex jsutify-content-end align-items-center">
-            <a href="contact.php" class="header-btn d-lg-flex d-none">Get Quote</a>
+            <a class="header-btn d-lg-flex d-none"  data-bs-toggle="modal" data-bs-target="#contactModal">Get Quote</a>
             <div class="sidebar-button mobile-menu-btn">
                 <svg class="sidebar-toggle-button" width="25" height="25" viewBox="0 0 18 18"
                     xmlns="http://www.w3.org/2000/svg">
