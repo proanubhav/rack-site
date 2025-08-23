@@ -146,15 +146,15 @@
         <div class="image-wrapper">
           <div class="left-wrap">
             <div class="image-one magnetic-item">
-              <img src="assets/image/card-img/image-one.png" alt="card-img">
+              <img src="assets/images-rack/about/about1.png" alt="card-img" style="width: 281px; height: 270px">
             </div>
             <div class="image-two magnetic-item">
-              <img src="assets/image/card-img/image-two.png" alt="card-img">
+              <img src="assets/images-rack/about/about2.png" alt="card-img" style="width: 311px; height: 393px">
             </div>
           </div>
           <div class="right-wrap magnetic-item">
             <div class="image-three">
-              <img src="assets/image/card-img/image-three.png" alt="card-img">
+           <img src="assets/images-rack/about/about3.png" alt="card-img" style="width: 393px; height: 312px">
             </div>
             <div class="image-four">
               <img src="assets/image/card-img/image-four.png" alt="card-img">

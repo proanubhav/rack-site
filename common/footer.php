@@ -287,18 +287,18 @@
           </div>
 
           <div class="mb-3">
-            <label for="cfEmail" class="form-label">Email</label>
-            <input type="email" class="form-control" id="cfEmail" name="email" placeholder="Enter Email" required>
+            <label for="cfEmail" class="form-label">Email Address</label>
+            <input type="email" class="form-control" id="cfEmail" name="email" placeholder="Enter Email Address" required>
           </div>
 
           <div class="mb-3">
-            <label for="cfPhone" class="form-label">Phone</label>
-            <input type="tel" class="form-control" id="cfPhone" name="phone" placeholder="Enter Phone" required>
+            <label for="cfPhone" class="form-label">Phone Number</label>
+            <input type="tel" class="form-control" id="cfPhone" name="phone" placeholder="Enter Phone Number" required>
           </div>
 
           <div class="mb-3">
             <label for="cfMessage" class="form-label">Message</label>
-            <textarea class="form-control" id="cfMessage" name="message" rows="4" placeholder="Enter Message" required></textarea>
+            <textarea class="form-control" id="cfMessage" name="message" rows="4" placeholder="Write your message...." required></textarea>
           </div>
 
         </div>

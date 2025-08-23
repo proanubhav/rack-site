@@ -46,7 +46,7 @@
         <div class="container">
             <div class="row">
                 <div class="contact-area">
-                    <div class="col-lg-8">
+                    <div class="col-lg-12">
                         <div class="inquiry-form">
                             <h3>Drop us a Line</h3>
                             <p>Drop us an email and we’ll get back to you within 24hrs…</p>
@@ -55,29 +55,27 @@
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Your Name*</label>
-                                            <input placeholder="Danielle Stewart" type="text" />
+                                            <input placeholder="Enter Name" type="text" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Email Address*</label>
-                                            <input placeholder="hello@example.com" type="email" />
+                                            <input placeholder="Enter Email Address" type="email" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Phone Number</label>
-                                            <input placeholder="+1 954 393 9100" type="text" />
+                                            <input placeholder="Enter Phone Number" type="text" />
                                         </div>
                                     </div>
                                     <div class="col-md-6 mb-35">
                                         <div class="form-inner">
                                             <label>Service Type*</label>
                                             <select class="nice-select">
-                                                <option>Select type</option>
-                                                <option>Airways</option>
-                                                <option>Oceanways</option>
-                                                <option>Railways</option>
+                                                <option>Supermart</option>
+                                                <option>Retail-Shop</option>
                                             </select>
                                         </div>
                                     </div>
@@ -96,9 +94,9 @@
                             </form>
                         </div>
                     </div>
-                    <div class="contact-image">
+                    <!-- <div class="contact-image">
                         <img src="assets/image/banner-img/contact-info-girl.png" alt="girl-image">
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <div class="contact-bottom-area section-padding-top">
@@ -133,7 +131,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="tel:+990-737621432">+990-737 621 432</a>
+                                    <a href="tel:9879877123">+91 9879877123</a>
                                 </li>
                                 <li>
                                     <div class="icon">
@@ -144,7 +142,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="tel:+990-737621432">+990-737 621 500</a>
+                                    <a href="tel:1234567890">+91 1234567890</a>
                                 </li>
                             </ul>
                         </div>
@@ -173,7 +171,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="cdn-cgi/l/email-protection#abc2c5cdc4ebced3cac6dbc7ce85c8c4c6"><span class="__cf_email__" data-cfemail="3f565159507f5a475e524f535a115c5052">[email&#160;protected]</span></a>
+                                    <a href="cdn-cgi/l/email-protection#abc2c5cdc4ebced3cac6dbc7ce85c8c4c6"><span class="__cf_email__" data-cfemail="3f565159507f5a475e524f535a115c5052">support@rack.com</span></a>
                                 </li>
                                 <li>
                                     <div class="icon">
@@ -184,7 +182,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="cdn-cgi/l/email-protection#345c5158585b74514c55594458511a575b59"><span class="__cf_email__" data-cfemail="0b636e6767644b6e736a667b676e25686466">[email&#160;protected]</span></a>
+                                    <a href="cdn-cgi/l/email-protection#345c5158585b74514c55594458511a575b59"><span class="__cf_email__" data-cfemail="0b636e6767644b6e736a667b676e25686466">support@rack.in</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -217,8 +215,8 @@
                                         </svg>
                                     </div>
                                     <a class="two"
-                                        href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">House
-                                        177, Avenue 01, Mirpur DOHS, Dhaka Bangladesh</a>
+                                        href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">
+                                    House G-7, Near Water Tank, Mansarover Garden, Delhi</a>
                                 </li>
                             </ul>
                         </div>
@@ -263,18 +261,6 @@
         </div>
     </div>
     <!-- contact info section end -->
-
-    <!-- contact map section start -->
-    <div class="contact-map-section section-padding-top">
-        <div class="container-fluid">
-            <div class="contact-map">
-                <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.5647631857846!2d90.36311167605992!3d23.83407118555764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c14c8682a473%3A0xa6c74743d52adb88!2sEgens%20Lab!5e0!3m2!1sen!2sbd!4v1700138349574!5m2!1sen!2sbd"
-                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
-        </div>
-    </div>
-    <!-- contact map section end -->
 
   <?php include 'common/footer.php'; ?>
 
