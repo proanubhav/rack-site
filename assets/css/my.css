@@ -5,3 +5,10 @@
       height: 660px;
     width: 90%;
 }
+.title-anim,
+.title-anim .char {
+  font-family: 'DM Sans', sans-serif !important;
+  font-weight: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
