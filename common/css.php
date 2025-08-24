@@ -10,3 +10,4 @@
   <link rel="stylesheet" href="assets/css/style.css" />
   <title>Globego - Transportation & Logistics HTML Template</title>
   <link rel="icon" href="assets/image/svg/fav-icon.svg" />
+  <link rel="stylesheet" href="assets/css/my.css" />
