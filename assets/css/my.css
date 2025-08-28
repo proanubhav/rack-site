@@ -12,3 +12,11 @@
   font-size: inherit;
   line-height: inherit;
 }
+.about_content p{
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 20px;
+}
+.about_content p:last-child{
+  margin-bottom: 0px;
+}

@@ -24,8 +24,8 @@
       </div>
       <span>Your Trusted Racking & Storage Partner</span>
     </div>
-    <h1 class="title-anim"> Leading Rack Manufacturer in Delhi NCR</h1>
-    <p>High-quality industrial racks and storage solutions designed for durability, efficiency, and affordability. Organize your space with us today!</p>
+    <h1 class="title-anim">SuperMarket Racks Manufacturer</h1>
+    <p>Rack India is one of South India's leading manufacturers specializing in supermarket racks</p>
     <a href="shop-list.php" class="primary-btn1">Explore Racking Solutions</a>
   </div>
 
@@ -40,10 +40,7 @@
             <img src="assets/images-rack/banner2.jpg" alt="Industrial Racks">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner1.jpg" alt="Warehouse Racking System">
-          </div>
-          <div class="swiper-slide">
-            <img src="assets/images-rack/banner3.jpg" alt="Heavy Duty Racks">
+            <img src="assets/images-rack/banner3.jpg" alt="Warehouse Racking System">
           </div>
         </div>
       </div>
@@ -69,74 +66,12 @@
             </div>
             <h2 class="sec-title">Your Trusted Partner for <br> Quality Display & Storage Racks</h2>
             <div class="wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-              <p>We specialize in designing, manufacturing, and installing premium quality racks that enhance
-                space utilization, product visibility, and store efficiency.</p>
-              <ul>
-                <li>
-                  <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Precision Design & Fabrication</span>
-                </li>
-                <li>
-                <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Durable & Long-Lasting Materials</span>
-                </li>
-                <li>
-                 <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Professional Installation Team</span>
-                </li>
-                <li>
-                  <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Safe, Sturdy & Reliable Racks</span>
-                </li>
-                <li>
-                 <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Expertise in Retail & Industrial Needs</span>
-                </li>
-                <li>
-                 <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Customer-Centric Service</span>
-                </li>
-                <li>
-                 <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Innovative & Space-Saving Designs</span>
-                </li>
-                <li>
-                 <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                  <span>Trusted by Leading Retailers</span>
-                </li>
-              </ul>
+             <div class="about_content">
+               <p>Established in Chennai, Tamil Nadu, India, 2012, we are the manufacturer and supplier of the best repository Supermarket Racks, Storage Racks, Industrial Racks, billing counter, shoe rack, wood book rack, server rack or multiple Display Racks and many Retail Racks and industrial racks for your need.</p>
+           <p>These racks are made using high quality raw materials and are considered international quality standards. Our large assortment is widely used in supermarkets, department stores, food stores and many other commercial establishments.</p>
+           <p>We also offer these products in customized solutions to meet the exact needs of the large number of customers we have. There is great demand in the market for these racks because of their robustness, abrasion resistance and accuracy in dimensions, compressed size and strength.</p>
+           <p>To provide the best customer satisfaction, we provide solutions tailored to customer needs. Our customers can get these products at affordable prices.</p>
+</div>
               <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
             </div>
           </div>
@@ -146,7 +81,7 @@
         <div class="image-wrapper">
           <div class="left-wrap">
             <div class="image-one magnetic-item">
-              <img src="assets/images-rack/about/about4.jpeg" alt="card-img" style="width: 281px; height: 270px">
+              <img src="assets/images-rack/about/about8.jpg" alt="card-img" style="width: 281px; height: 270px">
             </div>
             <div class="image-two magnetic-item">
               <img src="assets/images-rack/about/about5.jpg" alt="card-img" style="width: 311px; height: 393px">
@@ -187,8 +122,8 @@
           </div>
           <span>Innovative Display & Storage Solutions</span>
         </div>
-        <h2 class="sec-title">Complete Rack & Display Solutions</h2>
-        <p>We provide high-quality, durable, and customized racking systems designed to optimize your retail and warehouse spaces. From supermarket racks to heavy-duty storage solutions, our services are tailored to meet your business needs.</p>
+        <h2 class="sec-title">Racks & Accessories</h2>
+        <p>We offer a wide range of high quality supermarket racks, display racks, industrial racks and all kinds of storage racks and display racks, racks offered by Racks Indiaa are highly recognized and manufactured.</p>
       </div>
     </div>
   </div>
@@ -202,7 +137,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                      <img src="assets/images-rack/about/about1.png" alt="service-image">
+                      <img src="assets/images-rack/product/index/supermarket-racks-550-x-650.jpg" alt="product-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -222,10 +157,10 @@
                     <div class="service-content">
   <div class="number-and-title">
     <span>01.</span>
-    <h4><a href="service-details.php">Supermarket Display Racks</a></h4>
+    <h4><a href="service-details.php">SUPERMARKET RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>Durable and stylish display racks designed to maximize retail space and enhance product visibility.</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a supermarket racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -246,7 +181,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                        <img src="assets/images-rack/about/about2.png" alt="service-image">
+                        <img src="assets/images-rack/product/index/fruits-and-vegetable-racks-550-x-650.jpg" alt="service-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -294,10 +229,10 @@
                     <div class="service-content">
   <div class="number-and-title">
     <span>02.</span>
-    <h4><a href="service-details.php">Warehouse Storage Racks</a></h4>
+    <h4><a href="service-details.php">FRUITS & VEGETABLES RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>Strong and versatile storage racks designed for efficient warehouse organization and maximum load capacity.</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a fruits and vegetable racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -318,7 +253,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                       <img src="assets/images-rack/about/about3.png" alt="service-image">
+                       <img src="assets/images-rack/product/index/medical-racks-2-550-x-650.jpg" alt="service-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -333,10 +268,10 @@
                      <div class="service-content">
   <div class="number-and-title">
     <span>03.</span>
-    <h4><a href="service-details.php">Heavy-Duty Pallet Racks</a></h4>
+    <h4><a href="service-details.php">MEDICAL STORE RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>"Durable and robust pallet racking solutions for warehouses and industrial storage."</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a medical racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -357,49 +292,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                        <img src="assets/images-rack/about/about1.png" alt="service-image">
-                      <div class="service-icon">
-                        <div class="top-icon">
-                          <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M59.5197 28.9204L57.8624 22.2911C58.3155 22.1948 58.6555 21.7928 58.6555 21.3112V20.2423C58.6555 17.9216 56.7674 16.0336 54.4468 16.0336H46.8978V13.8288C46.8978 12.6868 45.9688 11.7578 44.8268 11.7578H6.3465C5.2045 11.7578 4.2755 12.6868 4.2755 13.8288V32.0001C4.2755 32.2658 4.38108 32.5207 4.56902 32.7087C4.75695 32.8966 5.01185 33.0022 5.27763 33.0022C5.54341 33.0022 5.7983 32.8966 5.98623 32.7087C6.17417 32.5207 6.27975 32.2658 6.27975 32.0001V13.8288C6.27975 13.7919 6.30963 13.7621 6.3465 13.7621H44.8266C44.8635 13.7621 44.8934 13.7919 44.8934 13.8288V32.0003C44.8934 32.2661 44.999 32.521 45.1869 32.7089C45.3748 32.8969 45.6297 33.0024 45.8955 33.0024C46.1613 33.0024 46.4162 32.8969 46.6041 32.7089C46.792 32.521 46.8976 32.2661 46.8976 32.0003V30.8643H58.7188L58.7214 30.8646L58.7241 30.8644C60.1787 30.8654 61.4139 31.8202 61.8381 33.1358H58.7221C58.4563 33.1358 58.2015 33.2414 58.0135 33.4293C57.8256 33.6173 57.72 33.8722 57.72 34.1379V36.2757C57.72 38.0071 59.1285 39.4156 60.8599 39.4156H61.9956V43.8247H59.3754C58.5146 41.3393 56.152 39.5491 53.3776 39.5491C50.6032 39.5491 48.2405 41.3393 47.3799 43.8247H46.8974V36.2756C46.8974 36.0098 46.7918 35.7549 46.6039 35.567C46.4159 35.379 46.161 35.2734 45.8952 35.2734C45.6295 35.2734 45.3746 35.379 45.1866 35.567C44.9987 35.7549 44.8931 36.0098 44.8931 36.2756V43.8244H24.1021C23.2414 41.3391 20.8787 39.5488 18.1044 39.5488C15.33 39.5488 12.9672 41.3391 12.1066 43.8244H6.3465C6.3288 43.8244 6.31182 43.8174 6.2993 43.8049C6.28678 43.7924 6.27975 43.7754 6.27975 43.7577V41.5531H10.6221C10.8879 41.5531 11.1428 41.4475 11.3307 41.2595C11.5187 41.0716 11.6243 40.8167 11.6243 40.5509C11.6243 40.2852 11.5187 40.0303 11.3307 39.8423C11.1428 39.6544 10.8879 39.5488 10.6221 39.5488H1.00213C0.736345 39.5488 0.48145 39.6544 0.293516 39.8423C0.105581 40.0303 0 40.2852 0 40.5509C0 40.8167 0.105581 41.0716 0.293516 41.2595C0.48145 41.4475 0.736345 41.5531 1.00213 41.5531H4.27563V43.7577C4.27563 44.8997 5.20463 45.8287 6.34662 45.8287H11.7596C11.7594 45.8509 11.7579 45.8731 11.7579 45.8954C11.7579 49.3949 14.605 52.2419 18.1044 52.2419C21.6038 52.2419 24.4509 49.3949 24.4509 45.8954C24.4509 45.8729 24.4494 45.8509 24.4491 45.8287H47.0329C47.0326 45.8509 47.0311 45.8731 47.0311 45.8954C47.0311 49.3949 49.8783 52.2419 53.3776 52.2419C56.877 52.2419 59.7241 49.3949 59.7241 45.8954C59.7241 45.8729 59.7226 45.8509 59.7224 45.8287H62.9977C63.2635 45.8287 63.5184 45.7231 63.7064 45.5352C63.8943 45.3472 63.9999 45.0923 63.9999 44.8266V34.1377C64 31.4987 62.0529 29.3061 59.5197 28.9204ZM46.8978 18.0377H54.4468C55.6624 18.0377 56.6514 19.0267 56.6514 20.2423V20.3091H46.8978V18.0377ZM46.8978 28.8602V22.3132H55.8021L57.4389 28.8602H46.8978ZM18.1044 50.2381C15.71 50.2381 13.762 48.2902 13.762 45.8957C13.762 43.5012 15.71 41.5533 18.1044 41.5533C20.4988 41.5533 22.4468 43.5012 22.4468 45.8957C22.4468 48.2902 20.4988 50.2381 18.1044 50.2381ZM53.3779 50.2381C50.9835 50.2381 49.0355 48.2902 49.0355 45.8957C49.0355 43.5012 50.9835 41.5533 53.3779 41.5533C55.7723 41.5533 57.7202 43.5012 57.7202 45.8957C57.7202 48.2902 55.7723 50.2381 53.3779 50.2381ZM61.9959 37.4113H60.8601C60.2339 37.4113 59.7244 36.9018 59.7244 36.2756V35.1398H61.9958V37.4113H61.9959Z"
-                              fill="white" />
-                            <path
-                              d="M18.1043 43.8247C16.9623 43.8247 16.0333 44.7537 16.0333 45.8957C16.0333 47.0377 16.9623 47.9667 18.1043 47.9667C19.2463 47.9667 20.1753 47.0377 20.1753 45.8957C20.1753 44.7537 19.2463 43.8247 18.1043 43.8247ZM53.3778 43.8247C52.2358 43.8247 51.3068 44.7537 51.3068 45.8957C51.3068 47.0377 52.2358 47.9667 53.3778 47.9667C54.5198 47.9667 55.4488 47.0377 55.4488 45.8957C55.4488 44.7537 54.5198 43.8247 53.3778 43.8247ZM41.6199 39.5492H26.6554C26.3897 39.5492 26.1348 39.6548 25.9468 39.8427C25.7589 40.0307 25.6533 40.2856 25.6533 40.5513C25.6533 40.8171 25.7589 41.072 25.9468 41.2599C26.1348 41.4479 26.3897 41.5535 26.6554 41.5535H41.6199C41.8857 41.5535 42.1406 41.4479 42.3286 41.2599C42.5165 41.072 42.6221 40.8171 42.6221 40.5513C42.6221 40.2856 42.5165 40.0307 42.3286 39.8427C42.1406 39.6548 41.8857 39.5492 41.6199 39.5492ZM15.9666 35.2736H3.13982C2.87404 35.2736 2.61915 35.3792 2.43121 35.5671C2.24328 35.755 2.1377 36.0099 2.1377 36.2757C2.1377 36.5415 2.24328 36.7964 2.43121 36.9843C2.61915 37.1723 2.87404 37.2778 3.13982 37.2778H15.9666C16.2324 37.2778 16.4872 37.1723 16.6752 36.9843C16.8631 36.7964 16.9687 36.5415 16.9687 36.2757C16.9687 36.0099 16.8631 35.755 16.6752 35.5671C16.4872 35.3792 16.2324 35.2736 15.9666 35.2736ZM34.8463 21.6713C34.6584 21.4834 34.4035 21.3779 34.1377 21.3779C33.872 21.378 33.6171 21.4835 33.4292 21.6715L24.5177 30.5828L19.8818 25.947C19.7888 25.8539 19.6783 25.7801 19.5567 25.7297C19.4352 25.6794 19.3049 25.6534 19.1733 25.6534C19.0417 25.6534 18.9114 25.6794 18.7898 25.7297C18.6682 25.7801 18.5577 25.8539 18.4647 25.947C18.3716 26.04 18.2978 26.1505 18.2475 26.272C18.1971 26.3936 18.1712 26.5239 18.1712 26.6555C18.1712 26.7871 18.1971 26.9174 18.2475 27.039C18.2978 27.1606 18.3716 27.271 18.4647 27.3641L23.8092 32.7086C24.0048 32.9043 24.2613 33.0021 24.5177 33.0021C24.7741 33.0021 25.0307 32.9043 25.2262 32.7086L34.8462 23.0886C35.0341 22.9006 35.1397 22.6458 35.1397 22.38C35.1398 22.1142 35.0342 21.8593 34.8463 21.6713Z"
-                              fill="white" />
-                          </svg>
-
-                        </div>
-                      </div>
-                     <div class="service-content">
-  <div class="number-and-title">
-    <span>04.</span>
-    <h4><a href="service-details.php">Supermarket Display Racks</a></h4>
-  </div>
-  <div class="hidden-content">
-    <p>"Smart and stylish display racks designed to enhance product visibility in retail stores."</p>
-    <a href="service-details.php" class="view-btn-two">
-      View Details
-      <div class="icon">
-        <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
-          xmlns="http://www.w3.org/2000/svg">
-          <path
-            d="M6.6645 2.27712L0.941539 8.00008L0.00134277 7.05988L5.72364 1.33692H0.680226V0.00708008H7.99434V7.3212H6.6645V2.27712Z"
-            fill="#F84E1D" />
-        </svg>
-      </div>
-    </a>
-  </div>
-</div>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="swiper-slide">
-                  <div class="service-card">
-                    <div class="service-img-wrap">
-                       <img src="assets/images-rack/about/about2.png" alt="service-image">
+                       <img src="assets/images-rack/product/index/textile-racks-550-x-650.jpg" alt="service-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -419,11 +312,11 @@
                       </div>
                      <div class="service-content">
   <div class="number-and-title">
-    <span>01.</span>
-    <h4><a href="service-details.php">Retail Display Racks</a></h4>
+    <span>04.</span>
+    <h4><a href="service-details.php">TEXTILE & GARMENT RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>"Durable and stylish racks designed to maximize product visibility and store efficiency."</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a textile and garment racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -444,7 +337,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                        <img src="assets/images-rack/about/about3.png" alt="service-image">
+                        <img src="assets/images-rack/product/index/mediumduty-racks-550-x-650-1.jpg" alt="service-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -491,11 +384,11 @@
                       </div>
                    <div class="service-content">
   <div class="number-and-title">
-    <span>02.</span>
-    <h4><a href="service-details.php">Supermarket Racks</a></h4>
+    <span>05.</span>
+    <h4><a href="service-details.php">INDUSTRIAL RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>"Premium-quality supermarket display racks for organized and attractive product presentation."</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a industrial racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -516,7 +409,7 @@
                 <div class="swiper-slide">
                   <div class="service-card">
                     <div class="service-img-wrap">
-                        <img src="assets/images-rack/about/about1.png" alt="service-image">
+                        <img src="assets/images-rack/product/index/electronic-display-2-racks-550-x-650.jpg" alt="electronic-display-image">
                       <div class="service-icon">
                         <div class="top-icon">
                           <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -530,11 +423,11 @@
                       </div>
                     <div class="service-content">
   <div class="number-and-title">
-    <span>03.</span>
-    <h4><a href="service-details.php">Warehouse Racks</a></h4>
+    <span>06.</span>
+    <h4><a href="service-details.php">ELECTRONIC DISPLAY RACKS</a></h4>
   </div>
   <div class="hidden-content">
-    <p>"Durable and heavy-duty warehouse storage racks for maximum space utilization."</p>
+    <p>Racks Indiaa are working in the industry as the manufacturer and supplier of a electronic display racks.</p>
     <a href="service-details.php" class="view-btn-two">
       View Details
       <div class="icon">
@@ -552,43 +445,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="swiper-slide">
-                  <div class="service-card">
-                    <div class="service-img-wrap">
-                        <img src="assets/images-rack/about/about2.png" alt="service-image">
-                      <div class="service-icon">
-                        <div class="top-icon">
-                          <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
-                            xmlns="http://www.w3.org/2000/svg">
-                            <path
-                              d="M59.5197 28.9204L57.8624 22.2911C58.3155 22.1948 58.6555 21.7928 58.6555 21.3112V20.2423C58.6555 17.9216 56.7674 16.0336 54.4468 16.0336H46.8978V13.8288C46.8978 12.6868 45.9688 11.7578 44.8268 11.7578H6.3465C5.2045 11.7578 4.2755 12.6868 4.2755 13.8288V32.0001C4.2755 32.2658 4.38108 32.5207 4.56902 32.7087C4.75695 32.8966 5.01185 33.0022 5.27763 33.0022C5.54341 33.0022 5.7983 32.8966 5.98623 32.7087C6.17417 32.5207 6.27975 32.2658 6.27975 32.0001V13.8288C6.27975 13.7919 6.30963 13.7621 6.3465 13.7621H44.8266C44.8635 13.7621 44.8934 13.7919 44.8934 13.8288V32.0003C44.8934 32.2661 44.999 32.521 45.1869 32.7089C45.3748 32.8969 45.6297 33.0024 45.8955 33.0024C46.1613 33.0024 46.4162 32.8969 46.6041 32.7089C46.792 32.521 46.8976 32.2661 46.8976 32.0003V30.8643H58.7188L58.7214 30.8646L58.7241 30.8644C60.1787 30.8654 61.4139 31.8202 61.8381 33.1358H58.7221C58.4563 33.1358 58.2015 33.2414 58.0135 33.4293C57.8256 33.6173 57.72 33.8722 57.72 34.1379V36.2757C57.72 38.0071 59.1285 39.4156 60.8599 39.4156H61.9956V43.8247H59.3754C58.5146 41.3393 56.152 39.5491 53.3776 39.5491C50.6032 39.5491 48.2405 41.3393 47.3799 43.8247H46.8974V36.2756C46.8974 36.0098 46.7918 35.7549 46.6039 35.567C46.4159 35.379 46.161 35.2734 45.8952 35.2734C45.6295 35.2734 45.3746 35.379 45.1866 35.567C44.9987 35.7549 44.8931 36.0098 44.8931 36.2756V43.8244H24.1021C23.2414 41.3391 20.8787 39.5488 18.1044 39.5488C15.33 39.5488 12.9672 41.3391 12.1066 43.8244H6.3465C6.3288 43.8244 6.31182 43.8174 6.2993 43.8049C6.28678 43.7924 6.27975 43.7754 6.27975 43.7577V41.5531H10.6221C10.8879 41.5531 11.1428 41.4475 11.3307 41.2595C11.5187 41.0716 11.6243 40.8167 11.6243 40.5509C11.6243 40.2852 11.5187 40.0303 11.3307 39.8423C11.1428 39.6544 10.8879 39.5488 10.6221 39.5488H1.00213C0.736345 39.5488 0.48145 39.6544 0.293516 39.8423C0.105581 40.0303 0 40.2852 0 40.5509C0 40.8167 0.105581 41.0716 0.293516 41.2595C0.48145 41.4475 0.736345 41.5531 1.00213 41.5531H4.27563V43.7577C4.27563 44.8997 5.20463 45.8287 6.34662 45.8287H11.7596C11.7594 45.8509 11.7579 45.8731 11.7579 45.8954C11.7579 49.3949 14.605 52.2419 18.1044 52.2419C21.6038 52.2419 24.4509 49.3949 24.4509 45.8954C24.4509 45.8729 24.4494 45.8509 24.4491 45.8287H47.0329C47.0326 45.8509 47.0311 45.8731 47.0311 45.8954C47.0311 49.3949 49.8783 52.2419 53.3776 52.2419C56.877 52.2419 59.7241 49.3949 59.7241 45.8954C59.7241 45.8729 59.7226 45.8509 59.7224 45.8287H62.9977C63.2635 45.8287 63.5184 45.7231 63.7064 45.5352C63.8943 45.3472 63.9999 45.0923 63.9999 44.8266V34.1377C64 31.4987 62.0529 29.3061 59.5197 28.9204ZM46.8978 18.0377H54.4468C55.6624 18.0377 56.6514 19.0267 56.6514 20.2423V20.3091H46.8978V18.0377ZM46.8978 28.8602V22.3132H55.8021L57.4389 28.8602H46.8978ZM18.1044 50.2381C15.71 50.2381 13.762 48.2902 13.762 45.8957C13.762 43.5012 15.71 41.5533 18.1044 41.5533C20.4988 41.5533 22.4468 43.5012 22.4468 45.8957C22.4468 48.2902 20.4988 50.2381 18.1044 50.2381ZM53.3779 50.2381C50.9835 50.2381 49.0355 48.2902 49.0355 45.8957C49.0355 43.5012 50.9835 41.5533 53.3779 41.5533C55.7723 41.5533 57.7202 43.5012 57.7202 45.8957C57.7202 48.2902 55.7723 50.2381 53.3779 50.2381ZM61.9959 37.4113H60.8601C60.2339 37.4113 59.7244 36.9018 59.7244 36.2756V35.1398H61.9958V37.4113H61.9959Z"
-                              fill="white" />
-                            <path
-                              d="M18.1043 43.8247C16.9623 43.8247 16.0333 44.7537 16.0333 45.8957C16.0333 47.0377 16.9623 47.9667 18.1043 47.9667C19.2463 47.9667 20.1753 47.0377 20.1753 45.8957C20.1753 44.7537 19.2463 43.8247 18.1043 43.8247ZM53.3778 43.8247C52.2358 43.8247 51.3068 44.7537 51.3068 45.8957C51.3068 47.0377 52.2358 47.9667 53.3778 47.9667C54.5198 47.9667 55.4488 47.0377 55.4488 45.8957C55.4488 44.7537 54.5198 43.8247 53.3778 43.8247ZM41.6199 39.5492H26.6554C26.3897 39.5492 26.1348 39.6548 25.9468 39.8427C25.7589 40.0307 25.6533 40.2856 25.6533 40.5513C25.6533 40.8171 25.7589 41.072 25.9468 41.2599C26.1348 41.4479 26.3897 41.5535 26.6554 41.5535H41.6199C41.8857 41.5535 42.1406 41.4479 42.3286 41.2599C42.5165 41.072 42.6221 40.8171 42.6221 40.5513C42.6221 40.2856 42.5165 40.0307 42.3286 39.8427C42.1406 39.6548 41.8857 39.5492 41.6199 39.5492ZM15.9666 35.2736H3.13982C2.87404 35.2736 2.61915 35.3792 2.43121 35.5671C2.24328 35.755 2.1377 36.0099 2.1377 36.2757C2.1377 36.5415 2.24328 36.7964 2.43121 36.9843C2.61915 37.1723 2.87404 37.2778 3.13982 37.2778H15.9666C16.2324 37.2778 16.4872 37.1723 16.6752 36.9843C16.8631 36.7964 16.9687 36.5415 16.9687 36.2757C16.9687 36.0099 16.8631 35.755 16.6752 35.5671C16.4872 35.3792 16.2324 35.2736 15.9666 35.2736ZM34.8463 21.6713C34.6584 21.4834 34.4035 21.3779 34.1377 21.3779C33.872 21.378 33.6171 21.4835 33.4292 21.6715L24.5177 30.5828L19.8818 25.947C19.7888 25.8539 19.6783 25.7801 19.5567 25.7297C19.4352 25.6794 19.3049 25.6534 19.1733 25.6534C19.0417 25.6534 18.9114 25.6794 18.7898 25.7297C18.6682 25.7801 18.5577 25.8539 18.4647 25.947C18.3716 26.04 18.2978 26.1505 18.2475 26.272C18.1971 26.3936 18.1712 26.5239 18.1712 26.6555C18.1712 26.7871 18.1971 26.9174 18.2475 27.039C18.2978 27.1606 18.3716 27.271 18.4647 27.3641L23.8092 32.7086C24.0048 32.9043 24.2613 33.0021 24.5177 33.0021C24.7741 33.0021 25.0307 32.9043 25.2262 32.7086L34.8462 23.0886C35.0341 22.9006 35.1397 22.6458 35.1397 22.38C35.1398 22.1142 35.0342 21.8593 34.8463 21.6713Z"
-                              fill="white" />
-                          </svg>
-
-                        </div>
-                      </div>
-                     <div class="service-content">
-  <div class="number-and-title">
-    <span>04.</span>
-    <h4><a href="service-details.php">Supermarket Racks</a></h4>
-  </div>
-  <div class="hidden-content">
-    <p>"Premium quality display racks designed to organize and showcase products effectively."</p>
-    <a href="service-details.php" class="view-btn-two">
-      View Details
-      <div class="icon">
-        <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
-          xmlns="http://www.w3.org/2000/svg">
-          <path
-            d="M6.6645 2.27712L0.941539 8.00008L0.00134277 7.05988L5.72364 1.33692H0.680226V0.00708008H7.99434V7.3212H6.6645V2.27712Z"
-            fill="#F84E1D" />
-        </svg>
-      </div>
-    </a>
-  </div>
+                
 </div>
 
                     </div>
@@ -669,7 +526,7 @@
         <span>Trusted Partner in Racking & Display Solutions</span>
       </div>
       <h2 class="sec-title">Delivering Quality Racks for <br> Maximum Space & Perfect Display </h2>
-      <p>We focus on understanding your business needs, your space, your customers, and creating rack solutions that truly make an impact.</p>
+      <p>We are highly acknowledged organization engaged in presenting remarkable range of Supermarket Racks products.</p>
     </div>
     <ul class="list-item">
       <li>
@@ -679,7 +536,7 @@
                     <path d="M36.9531 36.9531H33.5156C33 36.9531 32.6562 37.2969 32.6562 37.8125C32.6562 38.3281 33 38.6719 33.5156 38.6719H36.9531C37.4688 38.6719 37.8125 38.3281 37.8125 37.8125C37.8125 37.2969 37.4688 36.9531 36.9531 36.9531ZM33.5156 36.0938H35.2344C35.75 36.0938 36.0938 35.75 36.0938 35.2344C36.0938 34.7187 35.75 34.375 35.2344 34.375H33.5156C33 34.375 32.6562 34.7187 32.6562 35.2344C32.6562 35.75 33 36.0938 33.5156 36.0938Z" fill="#F84E1D"></path>
                   </svg>
         </div>
-        <span>High-Quality & Durable Rack Systems</span>
+        <span>Compact Design</span>
       </li>
       <li>
         <div class="icon">
@@ -687,7 +544,7 @@
                     <path d="M2.97945 15.2341C2.91685 15.1402 2.87336 15.0348 2.85148 14.9241C2.82961 14.8133 2.82977 14.6993 2.85195 14.5887C2.87414 14.478 2.91792 14.3727 2.98079 14.279C3.04366 14.1852 3.12438 14.1047 3.21836 14.0422L10.9527 8.88593C11.0614 8.81307 11.1853 8.76618 11.3149 8.7489C11.4446 8.73161 11.5765 8.74439 11.7004 8.78624L16.39 10.3486L22.324 5.15624H19.7656C19.5377 5.15624 19.3191 5.0657 19.158 4.90453C18.9968 4.74337 18.9062 4.52478 18.9062 4.29686C18.9062 4.06894 18.9968 3.85036 19.158 3.68919C19.3191 3.52803 19.5377 3.43749 19.7656 3.43749H24.0625C24.2904 3.43749 24.509 3.52803 24.6702 3.68919C24.8313 3.85036 24.9219 4.06894 24.9219 4.29686V8.59374C24.9219 8.82166 24.8313 9.04024 24.6702 9.20141C24.509 9.36257 24.2904 9.45311 24.0625 9.45311C23.8346 9.45311 23.616 9.36257 23.4548 9.20141C23.2937 9.04024 23.2031 8.82166 23.2031 8.59374V6.67132L17.1514 11.9668C17.0386 12.0655 16.9018 12.1329 16.7548 12.1624C16.6078 12.1918 16.4556 12.1821 16.3135 12.1344L11.556 10.5488L4.17141 15.4722C4.07752 15.5348 3.9722 15.5784 3.86148 15.6003C3.75076 15.6222 3.63681 15.6222 3.52612 15.6001C3.41543 15.578 3.31018 15.5343 3.21639 15.4715C3.12259 15.4087 3.04208 15.328 2.97945 15.2341ZM7.73438 19.7656C7.9623 19.7656 8.18088 19.8562 8.34204 20.0173C8.50321 20.1785 8.59375 20.3971 8.59375 20.625V25.7812C8.59375 26.0092 8.50321 26.2277 8.34204 26.3889C8.18088 26.5501 7.9623 26.6406 7.73438 26.6406H4.29688C4.06895 26.6406 3.85037 26.5501 3.68921 26.3889C3.52804 26.2277 3.4375 26.0092 3.4375 25.7812V20.625C3.4375 20.3971 3.52804 20.1785 3.68921 20.0173C3.85037 19.8562 4.06895 19.7656 4.29688 19.7656H7.73438ZM6.875 21.4844H5.15625V24.9219H6.875V21.4844ZM14.6094 17.1875C14.8373 17.1875 15.0559 17.278 15.217 17.4392C15.3782 17.6004 15.4688 17.8189 15.4688 18.0469V25.7812C15.4688 26.0092 15.3782 26.2277 15.217 26.3889C15.0559 26.5501 14.8373 26.6406 14.6094 26.6406H11.1719C10.944 26.6406 10.7254 26.5501 10.5642 26.3889C10.403 26.2277 10.3125 26.0092 10.3125 25.7812V18.0469C10.3125 17.8189 10.403 17.6004 10.5642 17.4392C10.7254 17.278 10.944 17.1875 11.1719 17.1875H14.6094ZM13.75 18.9062H12.0312V24.9219H13.75V18.9062ZM21.4844 13.75C21.7123 13.75 21.9309 13.8405 22.092 14.0017C22.2532 14.1629 22.3438 14.3814 22.3438 14.6094V25.7812C22.3438 26.0092 22.2532 26.2277 22.092 26.3889C21.9309 26.5501 21.7123 26.6406 21.4844 26.6406H18.0469C17.819 26.6406 17.6004 26.5501 17.4392 26.3889C17.278 26.2277 17.1875 26.0092 17.1875 25.7812V14.6094C17.1875 14.3814 17.278 14.1629 17.4392 14.0017C17.6004 13.8405 17.819 13.75 18.0469 13.75H21.4844ZM20.625 15.4687H18.9062V24.9219H20.625V15.4687ZM38.0703 24.2103H39.7891C40.0076 24.2373 40.2108 24.3366 40.3665 24.4923C40.5221 24.648 40.6214 24.8512 40.6484 25.0697C40.624 25.2892 40.5256 25.4939 40.3695 25.6501C40.2133 25.8063 40.0086 25.9046 39.7891 25.929H37.2109C36.983 25.929 36.7644 26.0196 36.6033 26.1808C36.4421 26.3419 36.3516 26.5605 36.3516 26.7884C36.3516 27.0163 36.4421 27.2349 36.6033 27.3961C36.7644 27.5573 36.983 27.6478 37.2109 27.6478H38.0703V28.5072C38.0703 28.7351 38.1609 28.9537 38.322 29.1148C38.4832 29.276 38.7018 29.3665 38.9297 29.3665C39.1576 29.3665 39.3762 29.276 39.5374 29.1148C39.6985 28.9537 39.7891 28.7351 39.7891 28.5072V27.6478C40.4728 27.6478 41.1286 27.3762 41.6121 26.8927C42.0956 26.4092 42.3672 25.7534 42.3672 25.0697C42.3672 24.3859 42.0956 23.7302 41.6121 23.2467C41.1286 22.7632 40.4728 22.4916 39.7891 22.4916H38.0703C37.8508 22.4671 37.6461 22.3688 37.4899 22.2126C37.3337 22.0564 37.2353 21.8517 37.2109 21.6322C37.238 21.4137 37.3372 21.2105 37.4929 21.0548C37.6486 20.8991 37.8518 20.7999 38.0703 20.7728H40.6484C40.8764 20.7728 41.0949 20.6823 41.2561 20.5211C41.4173 20.3599 41.5078 20.1413 41.5078 19.9134C41.5078 19.6855 41.4173 19.4669 41.2561 19.3058C41.0949 19.1446 40.8764 19.0541 40.6484 19.0541H39.7891V18.1947C39.7891 17.9668 39.6985 17.7482 39.5374 17.587C39.3762 17.4258 39.1576 17.3353 38.9297 17.3353C38.7018 17.3353 38.4832 17.4258 38.322 17.587C38.1609 17.7482 38.0703 17.9668 38.0703 18.1947V19.0541C37.3866 19.0541 36.7308 19.3257 36.2473 19.8092C35.7638 20.2927 35.4922 20.9484 35.4922 21.6322C35.4922 22.3159 35.7638 22.9717 36.2473 23.4552C36.7308 23.9387 37.3866 24.2103 38.0703 24.2103ZM29.4766 23.3509C29.4766 21.4813 30.031 19.6536 31.0697 18.0991C32.1084 16.5445 33.5848 15.3329 35.3121 14.6174C37.0395 13.9019 38.9402 13.7147 40.7739 14.0794C42.6076 14.4442 44.292 15.3445 45.6141 16.6666C46.9361 17.9886 47.8364 19.673 48.2012 21.5067C48.5659 23.3404 48.3787 25.2411 47.6632 26.9685C46.9478 28.6958 45.7361 30.1722 44.1816 31.2109C42.627 32.2496 40.7993 32.804 38.9297 32.804C36.4234 32.8013 34.0205 31.8045 32.2483 30.0323C30.4761 28.2601 29.4793 25.8572 29.4766 23.3509ZM31.1953 23.3509C31.1953 24.8806 31.6489 26.376 32.4988 27.6479C33.3487 28.9198 34.5566 29.9112 35.9699 30.4966C37.3831 31.0819 38.9383 31.2351 40.4386 30.9367C41.9389 30.6383 43.317 29.9016 44.3987 28.82C45.4804 27.7383 46.217 26.3601 46.5154 24.8598C46.8139 23.3595 46.6607 21.8044 46.0753 20.3911C45.4899 18.9778 44.4986 17.7699 43.2267 16.92C41.9548 16.0702 40.4594 15.6166 38.9297 15.6166C36.8791 15.6188 34.9132 16.4344 33.4632 17.8844C32.0132 19.3344 31.1976 21.3003 31.1953 23.3509ZM26.0391 23.3509C26.0441 20.0838 27.289 16.9403 29.5222 14.5555C31.7554 12.1708 34.8105 10.7225 38.0703 10.5033V9.09905C37.6399 9.20229 37.1989 9.25507 36.7563 9.25632C35.8827 9.25585 35.0217 9.04759 34.2444 8.64874C33.3022 8.14189 32.4723 7.44969 31.8046 6.61379C31.1369 5.77788 30.6453 4.81554 30.3591 3.78468C30.3328 3.67363 30.3288 3.55845 30.3474 3.44584C30.366 3.33324 30.4069 3.22547 30.4676 3.12883C30.5283 3.03219 30.6077 2.94862 30.701 2.88298C30.7944 2.81734 30.8999 2.77097 31.0114 2.74655C32.9709 2.43492 34.9786 2.76151 36.7383 3.67811C37.224 3.92309 37.672 4.23652 38.0686 4.60882V2.72593C38.0686 2.498 38.1591 2.27942 38.3203 2.11826C38.4815 1.95709 38.7 1.86655 38.928 1.86655C39.1559 1.86655 39.3745 1.95709 39.5356 2.11826C39.6968 2.27942 39.7873 2.498 39.7873 2.72593V3.74858C40.1842 3.37625 40.6325 3.06282 41.1185 2.81788C43.1662 1.89423 45.4334 1.56831 47.6584 1.87772C47.7935 1.89946 47.9215 1.95317 48.0317 2.03438C48.1419 2.11559 48.2312 2.22196 48.2919 2.34462C48.3527 2.46728 48.3833 2.60269 48.3812 2.73957C48.3791 2.87645 48.3443 3.01084 48.2797 3.13155C47.18 5.0821 45.5659 6.69326 43.6133 7.78936C42.8359 8.18795 41.9749 8.39592 41.1013 8.39608C40.659 8.39477 40.2183 8.34199 39.7882 8.23882V10.5033C42.2941 10.6721 44.696 11.5697 46.6984 13.0857C48.7009 14.6016 50.2166 16.6698 51.0591 19.0358C51.9017 21.4018 52.0343 23.9625 51.4407 26.4029C50.8471 28.8433 49.5531 31.057 47.718 32.7717C45.8829 34.4864 43.5866 35.6273 41.1116 36.0542C38.6365 36.481 36.0907 36.1752 33.7873 35.1742C31.4838 34.1732 29.5231 32.5209 28.1464 30.4203C26.7696 28.3197 26.0377 25.8625 26.0391 23.3509ZM39.9541 6.51405C40.9124 6.80352 41.9455 6.71114 42.8373 6.25624C44.0779 5.57708 45.1531 4.63215 45.986 3.48905C44.5742 3.46199 43.1749 3.75737 41.8945 4.35272C40.9979 4.80214 40.3046 5.57433 39.9541 6.51405ZM37.9027 7.37428C37.5527 6.43383 36.8593 5.66093 35.9623 5.21124C34.8586 4.65171 33.6401 4.35633 32.4027 4.34843C32.95 5.53145 33.8689 6.50318 35.0195 7.11561C35.9107 7.57229 36.9445 7.66504 37.9027 7.37428ZM27.7561 23.3501C27.7561 25.5597 28.4113 27.7196 29.6389 29.5568C30.8665 31.394 32.6113 32.826 34.6527 33.6715C36.6941 34.5171 38.9404 34.7383 41.1075 34.3073C43.2746 33.8762 45.2653 32.8122 46.8277 31.2498C48.3901 29.6874 49.4541 27.6967 49.8852 25.5296C50.3162 23.3625 50.095 21.1162 49.2494 19.0748C48.4039 17.0334 46.9719 15.2886 45.1347 14.061C43.2975 12.8334 41.1376 12.1782 38.928 12.1782C35.9661 12.1816 33.1264 13.3597 31.032 15.4541C28.9376 17.5485 27.7595 20.3881 27.7561 23.3501ZM52.6496 40.7644C52.1134 41.9676 40.5127 50.2855 37.8314 51.9045C36.3981 52.7683 34.7568 53.2261 33.0834 53.2288C31.8375 53.2305 30.6053 52.9696 29.4671 52.4631L18.5866 48.149C17.0837 47.5523 15.5051 47.1679 13.8961 47.0069C13.8643 47.0037 13.8328 46.9989 13.8016 46.9923L12.0312 46.6108V48.9844C12.0312 49.2123 11.9407 49.4309 11.7795 49.592C11.6184 49.7532 11.3998 49.8437 11.1719 49.8437H2.57812C2.3502 49.8437 2.13162 49.7532 1.97046 49.592C1.80929 49.4309 1.71875 49.2123 1.71875 48.9844V29.2187C1.71875 28.9908 1.80929 28.7722 1.97046 28.6111C2.13162 28.4499 2.3502 28.3594 2.57812 28.3594H11.1719C11.3998 28.3594 11.6184 28.4499 11.7795 28.6111C11.9407 28.7722 12.0312 28.9908 12.0312 29.2187V31.5631L16.0282 30.5937C16.7367 30.3107 17.4949 30.1726 18.2577 30.1877C19.0206 30.2027 19.7726 30.3706 20.4695 30.6814L34.3707 37.7137C34.9658 37.9836 35.4873 38.3926 35.8912 38.9064C36.295 39.4202 36.5693 40.0236 36.691 40.6656C38.2362 39.936 40.7688 38.6229 42.9017 37.516C45.277 36.2837 46.7586 35.518 47.2648 35.316C48.0248 34.9791 48.8694 34.8815 49.6863 35.0361C50.5032 35.1907 51.2537 35.5901 51.8381 36.1814C52.4226 36.7726 52.8133 37.5277 52.9584 38.3463C53.1035 39.1649 52.9952 40.0083 52.6496 40.7644ZM10.3125 30.0781H3.4375V48.125H10.3125V30.0781ZM51.1328 38.1777C51.0094 37.8781 50.8268 37.6066 50.5958 37.3794C50.3648 37.1523 50.0902 36.9742 49.7886 36.8559C49.487 36.7375 49.1646 36.6814 48.8407 36.6909C48.5169 36.7004 48.1983 36.7752 47.9041 36.911C47.4495 37.0932 45.6251 38.0394 43.6932 39.0414C41.0609 40.4078 38.1193 41.9323 36.673 42.5614C36.5571 43.235 36.2829 43.8714 35.8729 44.4182C35.4629 44.965 34.9289 45.4067 34.3148 45.7067C33.7444 45.9841 33.1187 46.1295 32.4844 46.1321C32.0094 46.1317 31.5382 46.0479 31.0922 45.8846L22.5397 42.7582C22.3256 42.6799 22.1513 42.5197 22.0552 42.313C21.9592 42.1062 21.9492 41.8697 22.0275 41.6556C22.1058 41.4415 22.2659 41.2672 22.4727 41.1712C22.6795 41.0751 22.9159 41.0651 23.1301 41.1434L31.6826 44.2698C31.9871 44.3787 32.3103 44.4253 32.6332 44.4069C32.9561 44.3884 33.2719 44.3053 33.562 44.1624C34.1707 43.858 34.639 43.3313 34.87 42.6912C34.9465 42.4145 35.0014 42.1324 35.0341 41.8472C35.1109 41.3233 35.0159 40.7885 34.7634 40.323C34.5109 39.8575 34.1144 39.4863 33.6334 39.2648L19.7312 32.2334C19.24 32.0195 18.7105 31.9072 18.1747 31.9032C17.6389 31.8992 17.1078 32.0036 16.6134 32.2102C16.5743 32.226 16.5341 32.2389 16.4931 32.2489L12.0312 33.3317V44.8525L14.117 45.3019C15.8678 45.4815 17.5856 45.9016 19.2216 46.5506L30.1348 50.8793C31.2221 51.359 32.4091 51.5689 33.5949 51.4911C34.7807 51.4133 35.9302 51.0501 36.9454 50.4324C40.3829 48.3562 50.2055 41.0437 51.1096 39.9996C51.2341 39.7126 51.3002 39.4038 51.3042 39.091C51.3082 38.7782 51.2499 38.4678 51.1328 38.1777Z" fill="#F84E1D"></path>
                   </svg>
         </div>
-        <span>Custom Designs to Suit Your Space</span>
+        <span>Best Quality</span>
       </li>
       <li>
         <div class="icon">
@@ -697,7 +554,7 @@
                     <path d="M34.8334 12.833H36.6658V14.6663H34.8334V12.833Z" fill="#F84E1D"></path>
                   </svg>
         </div>
-        <span>Affordable Solutions with Maximum Value</span>
+        <span>Highly Durable</span>
       </li>
       <li>
         <div class="icon">
@@ -706,7 +563,7 @@
                     <path d="M48.9853 30.2934C52.7183 27.7785 55 23.5405 55 19.0047C55 16.849 54.5096 14.7862 53.5423 12.874C53.4446 12.6855 53.2765 12.5432 53.0745 12.478C52.8724 12.4128 52.6528 12.4299 52.4634 12.5257C52.274 12.6215 52.13 12.7882 52.0628 12.9896C51.9956 13.191 52.0105 13.4107 52.1044 13.6011C52.9565 15.2859 53.3887 17.104 53.3887 19.0047C53.3887 23.084 51.2946 26.8898 47.8846 29.0888L43.194 23.956C42.9236 23.6607 42.5948 23.4247 42.2284 23.2632C41.862 23.1017 41.466 23.0181 41.0656 23.0177H30.0971C29.64 21.7321 29.408 20.3847 29.408 19.0047C29.408 12.3932 34.7869 7.01452 41.3984 7.01452C44.8279 7.01452 48.1005 8.48878 50.377 11.0593C50.4471 11.1385 50.5322 11.2031 50.6273 11.2494C50.7224 11.2958 50.8257 11.3229 50.9313 11.3293C51.037 11.3357 51.1428 11.3213 51.2428 11.2868C51.3428 11.2523 51.4351 11.1984 51.5143 11.1282C51.5935 11.0581 51.6581 10.973 51.7044 10.8779C51.7508 10.7828 51.7779 10.6795 51.7843 10.5739C51.7907 10.4683 51.7763 10.3624 51.7418 10.2624C51.7073 10.1624 51.6534 10.0702 51.5832 9.99097C50.4122 8.66925 48.9952 7.58801 47.4112 6.80752V4.0789C47.4112 3.08739 46.6046 2.28076 45.613 2.28076H37.1838C36.1923 2.28076 35.3856 3.08739 35.3856 4.0789V6.80677C30.8933 9.03019 27.7967 13.6622 27.7967 19.0047C27.7967 20.378 27.9999 21.7229 28.4001 23.0177H7.85555C6.82784 23.0177 5.98361 23.8122 5.90122 24.8192H2.9541C2.50916 24.8192 2.14844 25.1798 2.14844 25.6248C2.14844 26.0699 2.50916 26.4305 2.9541 26.4305H5.89306V34.2177H0.805664C0.360723 34.2177 0 34.5783 0 35.0234C0 35.4684 0.360723 35.829 0.805664 35.829H5.89306V38.1856C5.68272 38.1904 5.48263 38.2774 5.33558 38.4279C5.18854 38.5784 5.10621 38.7804 5.10621 38.9908C5.10621 39.2012 5.18854 39.4032 5.33558 39.5537C5.48263 39.7042 5.68272 39.7912 5.89306 39.796V45.495C5.89306 46.3408 6.5812 47.0289 7.42693 47.0289H9.5946V47.5897H7.08093C6.63599 47.5897 6.27526 47.9503 6.27526 48.3954C6.27526 48.8404 6.63599 49.201 7.08093 49.201H10.4003C10.6139 49.201 10.8189 49.1161 10.97 48.9651C11.121 48.814 11.2059 48.609 11.2059 48.3954V47.0289H11.941C12.1967 50.209 14.8645 52.719 18.1093 52.719C19.1809 52.7188 20.2342 52.4404 21.166 51.9111C21.2579 51.8587 21.3387 51.7888 21.4036 51.7053C21.4686 51.6217 21.5164 51.5262 21.5444 51.4242C21.5725 51.3222 21.5801 51.2156 21.567 51.1106C21.5538 51.0056 21.5201 50.9043 21.4678 50.8123C21.4154 50.7203 21.3455 50.6396 21.262 50.5747C21.1784 50.5097 21.0829 50.4619 20.9809 50.4338C20.8789 50.4058 20.7723 50.3982 20.6673 50.4113C20.5623 50.4245 20.461 50.4582 20.369 50.5105C19.6802 50.9018 18.9015 51.1076 18.1093 51.1077C15.5846 51.1077 13.5304 49.0536 13.5304 46.5288C13.5304 44.004 15.5846 41.9499 18.1093 41.9499C20.634 41.9499 22.6881 44.004 22.6881 46.5288C22.6881 47.2172 22.5389 47.8792 22.2446 48.4966C22.1988 48.5921 22.1722 48.6957 22.1665 48.8016C22.1608 48.9074 22.176 49.0133 22.2113 49.1132C22.2465 49.2131 22.3012 49.3051 22.372 49.3839C22.4429 49.4627 22.5286 49.5267 22.6243 49.5723C22.7199 49.6179 22.8236 49.6442 22.9295 49.6497C23.0353 49.6551 23.1412 49.6396 23.241 49.6041C23.3409 49.5686 23.4327 49.5137 23.5113 49.4427C23.5899 49.3716 23.6537 49.2857 23.6991 49.19C24.023 48.5112 24.219 47.7786 24.2773 47.0289H38.7636C39.0193 50.209 41.6871 52.719 44.9319 52.719C48.1767 52.719 50.8444 50.209 51.1002 47.0289H52.7586C53.9945 47.0289 55 46.0234 55 44.7875V37.9909C55.0007 37.2727 54.732 36.5804 54.247 36.0507L48.9853 30.2934ZM36.997 4.0789C36.997 3.97588 37.0807 3.89209 37.1838 3.89209H45.613C45.7161 3.89209 45.7999 3.97588 45.7999 4.0789V6.13774C44.3832 5.65194 42.896 5.40377 41.3984 5.4033C39.8587 5.4033 38.3781 5.6609 36.9968 6.13452L36.997 4.0789ZM42.0046 25.0431L50.3889 34.2177H44.379C43.9339 34.2177 43.5733 34.5783 43.5733 35.0234C43.5733 35.4684 43.9339 35.829 44.379 35.829H51.8615L53.0576 37.138C53.5453 37.6717 53.3403 38.2508 53.3887 38.8653H52.7676C52.3225 38.8653 51.9619 39.2259 51.9619 39.671C51.9619 40.116 52.3225 40.4767 52.7676 40.4767H53.3887V41.6688H48.7587C47.7047 40.8371 46.3757 40.3388 44.932 40.3388C43.4882 40.3388 42.1593 40.8371 41.1053 41.6688H32.3271V24.6291H35.8019V34.2076C35.8019 35.1017 36.5292 35.8292 37.4233 35.8292H41.158C41.6031 35.8292 41.9637 35.4685 41.9637 35.0235C41.9637 34.5784 41.6031 34.2178 41.158 34.2178H37.4233C37.4206 34.2178 37.4181 34.2167 37.4162 34.2148C37.4143 34.2129 37.4132 34.2103 37.4132 34.2076V24.6291H41.0658C41.2424 24.6293 41.4171 24.6663 41.5787 24.7375C41.7403 24.8088 41.8854 24.9129 42.0046 25.0431ZM38.8435 45.4177H32.3269V43.2801H39.6657C39.2602 43.9349 38.9813 44.66 38.8435 45.4177ZM23.3753 43.2801H30.7156V45.4177H24.1975C24.0597 44.66 23.7808 43.9349 23.3753 43.2801ZM7.50438 43.2801H12.843C12.4375 43.9349 12.1586 44.66 12.0208 45.4177H7.50438V43.2801ZM14.2825 41.6688H7.50438V39.7966H10.9956C11.4405 39.7966 11.8013 39.436 11.8013 38.9909C11.8013 38.5459 11.4405 38.1852 10.9956 38.1852H7.50438V35.829H10.9956C11.4405 35.829 11.8013 35.4684 11.8013 35.0234C11.8013 34.5783 11.4405 34.2177 10.9956 34.2177H7.50438V24.9803C7.50447 24.8872 7.54149 24.7979 7.60733 24.732C7.67316 24.6662 7.76243 24.6291 7.85555 24.629H30.7156V41.6687H21.936C20.882 40.8369 19.553 40.3387 18.1093 40.3387C16.6655 40.3387 15.3366 40.8371 14.2825 41.6688ZM44.9319 51.1079C42.407 51.1079 40.353 49.0539 40.353 46.529C40.353 44.0042 42.407 41.9502 44.9319 41.9502C47.4567 41.9502 49.5107 44.0042 49.5107 46.529C49.5107 49.0539 47.4567 51.1079 44.9319 51.1079ZM52.7585 45.4177H51.0201C50.8823 44.66 50.6034 43.9349 50.1979 43.2801H53.3887V44.7877C53.3885 44.9548 53.322 45.1149 53.2039 45.233C53.0857 45.3511 52.9256 45.4176 52.7585 45.4177Z" fill="#F84E1D"></path>
                   </svg>
         </div>
-        <span>Timely Delivery & Professional Installation</span>
+        <span>Quick Delivery</span>
       </li>
     </ul>
   </div>

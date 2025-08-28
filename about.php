@@ -48,7 +48,7 @@
                 <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
                     <div class="about-left-area">
                         <div class="about-big-iamge">
-                            <img src="assets/image/card-img/about-image-three-1.png" alt="">
+                            <img src="assets/images-rack/about/about-us-550-x-650-2-400x472-1.jpg" alt="" style="width: 648px; height: 751px">
                         </div>
                         <div class="review-wrapper-three wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
                             <div class="review-content">
@@ -80,78 +80,25 @@
                                 </div>
                             </div>
                            <h2>Your Trusted Partner for Innovative Rack Solutions</h2>
-                            <p>We specialize in designing, manufacturing, and installing high-quality display and storage racks that maximize space, enhance efficiency, and add value to your business.</p>
+                          
+                           <div class="about_content">
+                            <p>
+Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa are working in the industry as the manufacturer and supplier of a faultless array of Storage Rack, Billing Counter, Shoe Rack, Wooden Book Rack, Server Rack, Display Rack and others.</p>
+<p>These racks are produced using high quality raw material and in perfect consideration to the international quality standards. Our large assortment is widely used in Supermarkets, Departmental stores, food stores and in many other commercial establishments.</p>
+<p>To fulfill the exact requirements of plentiful customers that we have, we present these goods in personalized solutions also. These racks have giant demand in the marketplace due to their features like great sturdiness, abrasion resistance, and accuracy in dimensions, compressed size and robustness.</p>
+<p>To offer supreme client satisfaction, we offer tailored solutions as per the needs of the customers. Our clientele can get these products at affordable prices.</p>
+</div>
+
                         </div>
-                      <ul>
-                        <li>
-                          <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Premium Quality Materials</span>
-                        </li>
-                        <li>
-                       <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>100% Customer Satisfaction</span>
-                        </li>
-                        <li>
-                           <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Professional & Skilled Team</span>
-                        </li>
-                        <li>
-                         <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Durable & Reliable Racks</span>
-                        </li>
-                        <li>
-                       <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Expertise in Custom Designs</span>
-                        </li>
-                        <li>
-                         <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Customer-Centric Approach</span>
-                        </li>
-                        <li>
-                           <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Dedicated & Energetic Team</span>
-                        </li>
-                        <li>
-                          <div class="icon"> 
-                    <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M2.59654 7.87087C2.30314 7.8717 2.01597 7.95557 1.76825 8.11279C1.52053 8.27001 1.32239 8.49415 1.19675 8.75929C1.0711 9.02442 1.02309 9.31971 1.05827 9.61099C1.09344 9.90228 1.21037 10.1776 1.39552 10.4052L5.34246 15.2402C5.48319 15.415 5.66358 15.5536 5.86865 15.6447C6.07372 15.7357 6.29755 15.7765 6.52154 15.7636C7.00062 15.7379 7.43313 15.4816 7.70889 15.0602L15.9077 1.85608C15.9091 1.85387 15.9104 1.85169 15.9119 1.84954C15.9888 1.73142 15.9639 1.49734 15.8051 1.35029C15.7615 1.30991 15.71 1.27889 15.654 1.25913C15.5979 1.23938 15.5384 1.23131 15.4791 1.23542C15.4198 1.23953 15.362 1.25574 15.3092 1.28305C15.2564 1.31036 15.2097 1.34818 15.1721 1.3942C15.1691 1.39782 15.1661 1.40138 15.163 1.40489L6.8944 10.7472C6.86294 10.7827 6.82472 10.8117 6.78198 10.8323C6.73923 10.853 6.69281 10.8649 6.64541 10.8675C6.598 10.8701 6.55056 10.8632 6.50584 10.8473C6.46111 10.8313 6.42 10.8067 6.38489 10.7747L3.6407 8.2775C3.35569 8.01624 2.98317 7.87117 2.59654 7.87087Z" fill="#354F59"></path>
-                      </svg>
-                  </div>
-                            <span>Award-Winning Rack Manufacturer</span>
-                        </li>
-                    </ul>
                         <a href="shop-list.php" class="primary-btn1 secondary-btn">Learn More</a>
                     </div>
                 </div>
             </div>
+            <div class="about_content mt-4">
+                <p>To work out the complete business operations and activities with high precision and concern, we have hired a team of accomplished professionals. Our professionals put their efforts in close closeness with the clientele to understand their accurate requirements and offer them products that exactly match their needs. We are also assisted by a large distribution network to provide the finished products to the customers in predefined time frame.</p>
+                <p>Our professionals keep high level of transparency in our work and aid us in attaining a reputed place in the marketplace. We work day and night to guarantee that our products are produced in compliance with the requirements put forward by the clientele. Under the leadership of our Director we have attained a strong grip in the industry. We have created a highly modern infrastructural unit that is well equipped with latest machinery and tools.</p>
+                <p>Our infrastructural unit is divided into various parts including procurement, production, quality checks, sales and marketing and other. In order to work in a hassle free manner, all these operations are supervised by our expert team. This highly developed infrastructural unit assists us to produce these racks as per the requirements of our customers. To add to this, we frequently upgrade our unit to perform our easy manufacturing process.</p>
+</div>
         </div>
     </div>
 <!-- about us section end -->
