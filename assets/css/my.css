@@ -20,3 +20,9 @@
 .about_content p:last-child{
   margin-bottom: 0px;
 }
+header.style-1 .main-menu>ul>li ul.sub-menu>li>a{
+  padding: 5px 15px;
+}
+.product-card-wrap .product-content h2 a{
+  font-size: 18px !important;
+}

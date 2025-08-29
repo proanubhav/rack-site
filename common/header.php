@@ -69,13 +69,30 @@
                 <li><a href="index.php" class="drop-down">Home</a></li>
                 <li><a href="about.php" class="drop-down">About</a></li>
                   <li class="menu-item-has-children">
-                    <a href="#" class="drop-down">Product</a><i class="bi bi-plus dropdown-icon"></i>
+                    <a href="#" class="drop-down">Retail Racks</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="shop-list.php">Supermart</a></li>
-                        <li><a href="shop-list.php">Retail-Shop</a></li>
-                        <li><a href="shop-list.php">Bespoke</a></li>
-                        <li><a href="shop-list.php">Retial-Store-Accessories</a></li>
-                        <li><a href="shop-list.php">Supermart-Accessories</a></li>
+                        <li><a href="shop-list.php">Supermarket Racks</a></li>
+                        <li><a href="shop-list.php">Hypermarket Racks</a></li>
+                        <li><a href="shop-list.php">Display Racks</a></li>
+                        <li><a href="shop-list.php">Fruits &amp; Vegetable Racks</a></li>
+                        <li><a href="shop-list.php">Billing Counter</a></li>
+                        <li><a href="shop-list.php">Racks &amp; Accessories</a></li>
+                        <li><a href="shop-list.php">Glass Counter</a></li>
+                        <li><a href="shop-list.php">Fancy Store Racks</a></li>
+                        <li><a href="shop-list.php">Medical Store Racks</a></li>
+                        <li><a href="shop-list.php">Electronic Display Racks</a></li>
+                        <li><a href="shop-list.php">Textile &amp; Garment Racks</a></li>
+                        <li><a href="shop-list.php">Books &amp; Library Racks</a></li>
+                        <li><a href="shop-list.php">Bag Racks</a></li>
+                        <li><a href="shop-list.php">Footwear Racks</a></li>
+                        <li><a href="shop-list.php">Departmental Store Racks</a></li>
+                    </ul>
+                </li>
+                <li class="menu-item-has-children">
+                    <a href="#" class="drop-down">Industrial Racks</a><i class="bi bi-plus dropdown-icon"></i>
+                    <ul class="sub-menu">
+                        <li><a href="heavy-duty-racks.php">Heavy Duty Racks</a></li>
+                        <li><a href="medium-duty-racks.php">Medium Duty Racks</a></li>
                     </ul>
                 </li>
                 <li><a href="contact.php" class="drop-down">Contact</a></li>
