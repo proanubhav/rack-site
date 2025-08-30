@@ -71,21 +71,21 @@
                   <li class="menu-item-has-children">
                     <a href="#" class="drop-down">Retail Racks</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="shop-list.php">Supermarket Racks</a></li>
-                        <li><a href="shop-list.php">Hypermarket Racks</a></li>
-                        <li><a href="shop-list.php">Display Racks</a></li>
-                        <li><a href="shop-list.php">Fruits &amp; Vegetable Racks</a></li>
-                        <li><a href="shop-list.php">Billing Counter</a></li>
-                        <li><a href="shop-list.php">Racks &amp; Accessories</a></li>
-                        <li><a href="shop-list.php">Glass Counter</a></li>
-                        <li><a href="shop-list.php">Fancy Store Racks</a></li>
-                        <li><a href="shop-list.php">Medical Store Racks</a></li>
-                        <li><a href="shop-list.php">Electronic Display Racks</a></li>
-                        <li><a href="shop-list.php">Textile &amp; Garment Racks</a></li>
-                        <li><a href="shop-list.php">Books &amp; Library Racks</a></li>
-                        <li><a href="shop-list.php">Bag Racks</a></li>
-                        <li><a href="shop-list.php">Footwear Racks</a></li>
-                        <li><a href="shop-list.php">Departmental Store Racks</a></li>
+                        <li><a href="supermarket-racks.php">Supermarket Racks</a></li>
+                        <li><a href="supermarket-racks.php">Hypermarket Racks</a></li>
+                        <li><a href="supermarket-racks.php">Display Racks</a></li>
+                        <li><a href="supermarket-racks.php">Fruits &amp; Vegetable Racks</a></li>
+                        <li><a href="supermarket-racks.php">Billing Counter</a></li>
+                        <li><a href="supermarket-racks.php">Racks &amp; Accessories</a></li>
+                        <li><a href="supermarket-racks.php">Glass Counter</a></li>
+                        <li><a href="supermarket-racks.php">Fancy Store Racks</a></li>
+                        <li><a href="supermarket-racks.php">Medical Store Racks</a></li>
+                        <li><a href="supermarket-racks.php">Electronic Display Racks</a></li>
+                        <li><a href="supermarket-racks.php">Textile &amp; Garment Racks</a></li>
+                        <li><a href="supermarket-racks.php">Books &amp; Library Racks</a></li>
+                        <li><a href="supermarket-racks.php">Bag Racks</a></li>
+                        <li><a href="supermarket-racks.php">Footwear Racks</a></li>
+                        <li><a href="supermarket-racks.php">Departmental Store Racks</a></li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
