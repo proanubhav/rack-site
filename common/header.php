@@ -72,7 +72,7 @@
                     <a href="#" class="drop-down">Retail Racks</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
                         <li><a href="supermarket-racks.php">Supermarket Racks</a></li>
-                        <li><a href="supermarket-racks.php">Hypermarket Racks</a></li>
+                        <li><a href="hypermarket-racks.php">Hypermarket Racks</a></li>
                         <li><a href="supermarket-racks.php">Display Racks</a></li>
                         <li><a href="supermarket-racks.php">Fruits &amp; Vegetable Racks</a></li>
                         <li><a href="supermarket-racks.php">Billing Counter</a></li>
