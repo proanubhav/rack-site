@@ -84,7 +84,7 @@
                         <li><a href="textile-and-garment-racks.php">Textile &amp; Garment Racks</a></li>
                         <li><a href="books-and-library-racks.php">Books &amp; Library Racks</a></li>
                         <li><a href="bag-racks.php">Bag Racks</a></li>
-                        <li><a href="supermarket-racks.php">Footwear Racks</a></li>
+                        <li><a href="footwear-racks.php">Footwear Racks</a></li>
                         <li><a href="supermarket-racks.php">Departmental Store Racks</a></li>
                     </ul>
                 </li>
