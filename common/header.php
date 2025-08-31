@@ -79,7 +79,7 @@
                         <li><a href="racks-and-accessories.php">Racks &amp; Accessories</a></li>
                         <li><a href="glass-counter.php">Glass Counter</a></li>
                         <li><a href="fancy-store-racks.php">Fancy Store Racks</a></li>
-                        <li><a href="supermarket-racks.php">Medical Store Racks</a></li>
+                        <li><a href="medical-store-racks.php">Medical Store Racks</a></li>
                         <li><a href="supermarket-racks.php">Electronic Display Racks</a></li>
                         <li><a href="supermarket-racks.php">Textile &amp; Garment Racks</a></li>
                         <li><a href="supermarket-racks.php">Books &amp; Library Racks</a></li>
