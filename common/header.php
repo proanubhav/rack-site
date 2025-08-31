@@ -77,7 +77,7 @@
                         <li><a href="fruits-and-vegetable-racks.php">Fruits &amp; Vegetable Racks</a></li>
                         <li><a href="billing-counter.php">Billing Counter</a></li>
                         <li><a href="racks-and-accessories.php">Racks &amp; Accessories</a></li>
-                        <li><a href="supermarket-racks.php">Glass Counter</a></li>
+                        <li><a href="glass-counter.php">Glass Counter</a></li>
                         <li><a href="supermarket-racks.php">Fancy Store Racks</a></li>
                         <li><a href="supermarket-racks.php">Medical Store Racks</a></li>
                         <li><a href="supermarket-racks.php">Electronic Display Racks</a></li>
