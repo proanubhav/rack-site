@@ -70,7 +70,7 @@
                <p>Established in Chennai, Tamil Nadu, India, 2012, we are the manufacturer and supplier of the best repository Supermarket Racks, Storage Racks, Industrial Racks, billing counter, shoe rack, wood book rack, server rack or multiple Display Racks and many Retail Racks and industrial racks for your need.</p>
            <p>These racks are made using high quality raw materials and are considered international quality standards. Our large assortment is widely used in supermarkets, department stores, food stores and many other commercial establishments.</p>
            <p>We also offer these products in customized solutions to meet the exact needs of the large number of customers we have. There is great demand in the market for these racks because of their robustness, abrasion resistance and accuracy in dimensions, compressed size and strength.</p>
-           <p>To provide the best customer satisfaction, we provide solutions tailored to customer needs. Our customers can get these products at affordable prices.</p>
+           <p class="mb-4">To provide the best customer satisfaction, we provide solutions tailored to customer needs. Our customers can get these products at affordable prices.</p>
 </div>
               <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
             </div>
@@ -160,12 +160,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>01.</span>
-                                                    <h4><a href="service-details.php">SUPERMARKET RACKS</a></h4>
+                                                    <h4><a href="supermarket-racks.php">SUPERMARKET RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a supermarket racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="supermarket-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -234,12 +234,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>02.</span>
-                                                    <h4><a href="service-details.php">FRUITS & VEGETABLES RACKS</a></h4>
+                                                    <h4><a href="fruits-and-vegetable-racks.php">FRUITS & VEGETABLES RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a fruits and vegetable racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="fruits-and-vegetable-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -275,12 +275,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>03.</span>
-                                                    <h4><a href="service-details.php">MEDICAL STORE RACKS</a></h4>
+                                                    <h4><a href="medical-store-racks.php">MEDICAL STORE RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a medical racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="medical-store-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -322,12 +322,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>04.</span>
-                                                    <h4><a href="service-details.php">TEXTILE & GARMENT RACKS</a></h4>
+                                                    <h4><a href="textile-and-garment-racks.php">TEXTILE & GARMENT RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a textile and garment racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="textile-and-garment-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -396,12 +396,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>05.</span>
-                                                    <h4><a href="service-details.php">INDUSTRIAL RACKS</a></h4>
+                                                    <h4><a href="heavy-duty-racks.php">INDUSTRIAL RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a industrial racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="heavy-duty-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -437,12 +437,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>06.</span>
-                                                    <h4><a href="service-details.php">ELECTRONIC DISPLAY RACKS</a></h4>
+                                                    <h4><a href="electronic-display-racks.php">ELECTRONIC DISPLAY RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a electronic display racks.</p>
-                                                    <a href="service-details.php" class="view-btn-two">
+                                                    <a href="electronic-display-racks.php" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"

@@ -26,3 +26,43 @@ header.style-1 .main-menu>ul>li ul.sub-menu>li>a{
 .product-card-wrap .product-content h2 a{
   font-size: 18px !important;
 }
+
+.breadcrumb-section{
+   background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/supermarket-racks-banner.jpg);
+}
+.about_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/about.jpg);
+}
+.billing_counter_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/billing-counter-banner.jpg);
+}
+.glass_counter_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/glass-counter-banner.jpg);
+}
+.medical_store_racks_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/medical-store-racks-banner.jpg);
+}
+.electronic_display_racks_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/electronic-display-racks-banner.jpg);
+}
+.textile_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/textile-and-garment-racks-banner.jpg);
+}
+.book_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/books-and-library-racks-banner.jpg);
+}
+.bag_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/bag-racks-banner.jpg);
+}
+.footwear_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/footwear-racks-banner.jpg);
+}
+.departmental_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/departmental-store-banner.jpg);
+}
+.heavy_duty_breadcrumb, .contact_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/heavy-duty-racks.jpg);
+}
+.medium_duty_breadcrumb {
+    background-image: linear-gradient(180deg, rgba(3, 35, 48, 0.7) 0%, rgba(3, 35, 48, 0.7) 100%), url(../images-rack/breadcrumb/mediumduty-racks-banner.jpg);
+}

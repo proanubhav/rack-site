@@ -14,7 +14,7 @@
      <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
-    <div class="breadcrumb-section">
+    <div class="breadcrumb-section medical_store_racks_breadcrumb">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
