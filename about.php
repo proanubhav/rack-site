@@ -147,131 +147,120 @@ Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa a
                             <div class="sub-clip">
                                 <span>Work Process</span>
                             </div>
-                            <span>Driving Excellence in Transport & Logistics</span>
+                            <span>Delivering Smart Storage & Rack Solutions</span>
                         </div>
-                        <h2>How We Deliver Seamless Logistics Solutions</h2>
-                        <p>We strive to understand their journey, their needs and their budgets</p>
+                       <h2>How We Design & Deliver High-Quality Racks</h2>
+                <p>From concept to installation, we provide end-to-end storage solutions tailored to meet your business needs with precision and reliability.</p>
                     </div>
                 </div>
             </div>
-            <div class="row g-4">
-                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-                    <div class="work-process-card">
-                        <div class="image-and-number">
-                            <img src="assets/image/card-img/work-process-two-image-1.png" alt="">
-                            <a class="video-area">
-                                <div class="icon">
-                                    <h4>01</h4>
-                                    <div class="wrapper">
-                                        <div class="waves-block">
-                                            <div class="waves wave-1"></div>
-                                            <div class="waves wave-2"></div>
-                                            <div class="waves wave-3"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3>Order Processing</h3>
-                            <p>The logistics journey starts the moment we receive the customer's...</p>
-                        </div>
-                        <div class="process-arrow">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M11.5005 21.0313H13.9685C14.2755 21.0313 14.5695 20.9093 14.7865 20.6923L22.6615 12.8173C22.7688 12.7099 22.854 12.5825 22.9121 12.4422C22.9702 12.3019 23.0001 12.1516 23.0001 11.9998C23.0001 11.8479 22.9702 11.6976 22.9121 11.5573C22.854 11.4171 22.7688 11.2896 22.6615 11.1823L14.7865 3.30726C14.6791 3.19977 14.5516 3.11454 14.4112 3.05645C14.2708 2.99837 14.1204 2.96856 13.9685 2.96876L11.5005 2.96826C11.2719 2.96861 11.0486 3.03663 10.8587 3.16376C10.6687 3.29088 10.5207 3.47141 10.4332 3.68257C10.3458 3.89373 10.3228 4.12605 10.3673 4.35024C10.4117 4.57443 10.5216 4.78043 10.683 4.94226L17.63 11.8893C17.6592 11.9186 17.6756 11.9583 17.6756 11.9998C17.6756 12.0412 17.6592 12.0809 17.63 12.1103L10.683 19.0573C10.5213 19.219 10.4113 19.425 10.3667 19.6493C10.3221 19.8736 10.345 20.106 10.4325 20.3173C10.52 20.5285 10.6681 20.7091 10.8582 20.8362C11.0483 20.9633 11.2718 21.0312 11.5005 21.0313ZM2.15646 21.0313H4.62446C4.77632 21.0313 4.92669 21.0013 5.06697 20.9432C5.20725 20.885 5.33467 20.7997 5.44196 20.6923L13.317 12.8173C13.4243 12.7099 13.5095 12.5825 13.5676 12.4422C13.6257 12.3019 13.6556 12.1516 13.6556 11.9998C13.6556 11.8479 13.6257 11.6976 13.5676 11.5573C13.5095 11.4171 13.4243 11.2896 13.317 11.1823L5.44196 3.30726C5.3347 3.19979 5.20727 3.11456 5.06698 3.05647C4.92669 2.99838 4.7763 2.96858 4.62446 2.96876L2.15646 2.96826C1.92776 2.96827 1.7042 3.03608 1.51404 3.16313C1.32388 3.29018 1.17565 3.47075 1.0881 3.68203C1.00055 3.89331 0.977605 4.1258 1.02217 4.35011C1.06673 4.57443 1.1768 4.78049 1.33846 4.94226L8.28546 11.8893C8.31471 11.9186 8.33114 11.9583 8.33114 11.9998C8.33114 12.0412 8.31471 12.0809 8.28546 12.1103L1.33846 19.0573C1.1768 19.219 1.06673 19.4251 1.02217 19.6494C0.977605 19.8737 1.00055 20.1062 1.0881 20.3175C1.17565 20.5288 1.32388 20.7093 1.51404 20.8364C1.7042 20.9634 1.92776 21.0313 2.15646 21.0313Z"
-                                    fill="#F84E1D" />
-                            </svg>
+         <div class="row g-4">
+    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+        <div class="work-process-card">
+            <div class="image-and-number">
+                <img src="assets/image/card-img/work-process-two-image-1.png" alt="Rack Order Placement">
+                <a class="video-area">
+                    <div class="icon">
+                        <h4>01</h4>
+                        <div class="wrapper">
+                            <div class="waves-block">
+                                <div class="waves wave-1"></div>
+                                <div class="waves wave-2"></div>
+                                <div class="waves wave-3"></div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
-                    <div class="work-process-card style-2">
-                        <div class="image-and-number">
-                            <img src="assets/image/card-img/work-process-two-image-2.png" alt="">
-                            <a class="video-area">
-                                <div class="icon">
-                                    <h4>02</h4>
-                                    <div class="wrapper">
-                                        <div class="waves-block">
-                                            <div class="waves wave-1"></div>
-                                            <div class="waves wave-2"></div>
-                                            <div class="waves wave-3"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3>Warehousing</h3>
-                            <p>The logistics journey starts the moment we receive the customer's...</p>
-                        </div>
-                        <div class="process-arrow">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M11.5005 21.0313H13.9685C14.2755 21.0313 14.5695 20.9093 14.7865 20.6923L22.6615 12.8173C22.7688 12.7099 22.854 12.5825 22.9121 12.4422C22.9702 12.3019 23.0001 12.1516 23.0001 11.9998C23.0001 11.8479 22.9702 11.6976 22.9121 11.5573C22.854 11.4171 22.7688 11.2896 22.6615 11.1823L14.7865 3.30726C14.6791 3.19977 14.5516 3.11454 14.4112 3.05645C14.2708 2.99837 14.1204 2.96856 13.9685 2.96876L11.5005 2.96826C11.2719 2.96861 11.0486 3.03663 10.8587 3.16376C10.6687 3.29088 10.5207 3.47141 10.4332 3.68257C10.3458 3.89373 10.3228 4.12605 10.3673 4.35024C10.4117 4.57443 10.5216 4.78043 10.683 4.94226L17.63 11.8893C17.6592 11.9186 17.6756 11.9583 17.6756 11.9998C17.6756 12.0412 17.6592 12.0809 17.63 12.1103L10.683 19.0573C10.5213 19.219 10.4113 19.425 10.3667 19.6493C10.3221 19.8736 10.345 20.106 10.4325 20.3173C10.52 20.5285 10.6681 20.7091 10.8582 20.8362C11.0483 20.9633 11.2718 21.0312 11.5005 21.0313ZM2.15646 21.0313H4.62446C4.77632 21.0313 4.92669 21.0013 5.06697 20.9432C5.20725 20.885 5.33467 20.7997 5.44196 20.6923L13.317 12.8173C13.4243 12.7099 13.5095 12.5825 13.5676 12.4422C13.6257 12.3019 13.6556 12.1516 13.6556 11.9998C13.6556 11.8479 13.6257 11.6976 13.5676 11.5573C13.5095 11.4171 13.4243 11.2896 13.317 11.1823L5.44196 3.30726C5.3347 3.19979 5.20727 3.11456 5.06698 3.05647C4.92669 2.99838 4.7763 2.96858 4.62446 2.96876L2.15646 2.96826C1.92776 2.96827 1.7042 3.03608 1.51404 3.16313C1.32388 3.29018 1.17565 3.47075 1.0881 3.68203C1.00055 3.89331 0.977605 4.1258 1.02217 4.35011C1.06673 4.57443 1.1768 4.78049 1.33846 4.94226L8.28546 11.8893C8.31471 11.9186 8.33114 11.9583 8.33114 11.9998C8.33114 12.0412 8.31471 12.0809 8.28546 12.1103L1.33846 19.0573C1.1768 19.219 1.06673 19.4251 1.02217 19.6494C0.977605 19.8737 1.00055 20.1062 1.0881 20.3175C1.17565 20.5288 1.32388 20.7093 1.51404 20.8364C1.7042 20.9634 1.92776 21.0313 2.15646 21.0313Z"
-                                    fill="#F84E1D" />
-                            </svg>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-                    <div class="work-process-card style-3">
-                        <div class="image-and-number">
-                            <img src="assets/image/card-img/work-process-two-image-3.png" alt="">
-                            <a class="video-area">
-                                <div class="icon">
-                                    <h4>03</h4>
-                                    <div class="wrapper">
-                                        <div class="waves-block">
-                                            <div class="waves wave-1"></div>
-                                            <div class="waves wave-2"></div>
-                                            <div class="waves wave-3"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3>Order Tracking</h3>
-                            <p>The logistics journey starts the moment we receive the customer's...</p>
-                        </div>
-                        <div class="process-arrow">
-                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                xmlns="http://www.w3.org/2000/svg">
-                                <path fill-rule="evenodd" clip-rule="evenodd"
-                                    d="M11.5005 21.0313H13.9685C14.2755 21.0313 14.5695 20.9093 14.7865 20.6923L22.6615 12.8173C22.7688 12.7099 22.854 12.5825 22.9121 12.4422C22.9702 12.3019 23.0001 12.1516 23.0001 11.9998C23.0001 11.8479 22.9702 11.6976 22.9121 11.5573C22.854 11.4171 22.7688 11.2896 22.6615 11.1823L14.7865 3.30726C14.6791 3.19977 14.5516 3.11454 14.4112 3.05645C14.2708 2.99837 14.1204 2.96856 13.9685 2.96876L11.5005 2.96826C11.2719 2.96861 11.0486 3.03663 10.8587 3.16376C10.6687 3.29088 10.5207 3.47141 10.4332 3.68257C10.3458 3.89373 10.3228 4.12605 10.3673 4.35024C10.4117 4.57443 10.5216 4.78043 10.683 4.94226L17.63 11.8893C17.6592 11.9186 17.6756 11.9583 17.6756 11.9998C17.6756 12.0412 17.6592 12.0809 17.63 12.1103L10.683 19.0573C10.5213 19.219 10.4113 19.425 10.3667 19.6493C10.3221 19.8736 10.345 20.106 10.4325 20.3173C10.52 20.5285 10.6681 20.7091 10.8582 20.8362C11.0483 20.9633 11.2718 21.0312 11.5005 21.0313ZM2.15646 21.0313H4.62446C4.77632 21.0313 4.92669 21.0013 5.06697 20.9432C5.20725 20.885 5.33467 20.7997 5.44196 20.6923L13.317 12.8173C13.4243 12.7099 13.5095 12.5825 13.5676 12.4422C13.6257 12.3019 13.6556 12.1516 13.6556 11.9998C13.6556 11.8479 13.6257 11.6976 13.5676 11.5573C13.5095 11.4171 13.4243 11.2896 13.317 11.1823L5.44196 3.30726C5.3347 3.19979 5.20727 3.11456 5.06698 3.05647C4.92669 2.99838 4.7763 2.96858 4.62446 2.96876L2.15646 2.96826C1.92776 2.96827 1.7042 3.03608 1.51404 3.16313C1.32388 3.29018 1.17565 3.47075 1.0881 3.68203C1.00055 3.89331 0.977605 4.1258 1.02217 4.35011C1.06673 4.57443 1.1768 4.78049 1.33846 4.94226L8.28546 11.8893C8.31471 11.9186 8.33114 11.9583 8.33114 11.9998C8.33114 12.0412 8.31471 12.0809 8.28546 12.1103L1.33846 19.0573C1.1768 19.219 1.06673 19.4251 1.02217 19.6494C0.977605 19.8737 1.00055 20.1062 1.0881 20.3175C1.17565 20.5288 1.32388 20.7093 1.51404 20.8364C1.7042 20.9634 1.92776 21.0313 2.15646 21.0313Z"
-                                    fill="#F84E1D" />
-                            </svg>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="800ms" data-wow-duration="1500ms">
-                    <div class="work-process-card style-4">
-                        <div class="image-and-number">
-                            <img src="assets/image/card-img/work-process-two-image-4.png" alt="">
-                            <a class="video-area">
-                                <div class="icon">
-                                    <h4>04</h4>
-                                    <div class="wrapper">
-                                        <div class="waves-block">
-                                            <div class="waves wave-1"></div>
-                                            <div class="waves wave-2"></div>
-                                            <div class="waves wave-3"></div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                        <div class="content">
-                            <h3>Product Delivery</h3>
-                            <p>The logistics journey starts the moment we receive the customer's...</p>
-                        </div>
-                    </div>
-                </div>
+                </a>
             </div>
+            <div class="content">
+                <h3>Order Processing</h3>
+              <p>We analyze your storage needs and space limits to deliver the ideal racking solution quickly and efficiently.</p>
+            </div>
+            <div class="process-arrow">
+                <!-- SVG arrow remains same -->
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
+        <div class="work-process-card style-2">
+            <div class="image-and-number">
+                <img src="assets/image/card-img/work-process-two-image-2.png" alt="Rack Design & Planning">
+                <a class="video-area">
+                    <div class="icon">
+                        <h4>02</h4>
+                        <div class="wrapper">
+                            <div class="waves-block">
+                                <div class="waves wave-1"></div>
+                                <div class="waves wave-2"></div>
+                                <div class="waves wave-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="content">
+                <h3>Warehousing</h3>
+                  <p>We provide smart warehousing solutions with optimized layouts and durable racks for maximum space efficiency.</p>
+            </div>
+            <div class="process-arrow">
+                <!-- SVG arrow remains same -->
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+        <div class="work-process-card style-3">
+            <div class="image-and-number">
+                <img src="assets/image/card-img/work-process-two-image-3.png" alt="Rack Manufacturing Process">
+                <a class="video-area">
+                    <div class="icon">
+                        <h4>03</h4>
+                        <div class="wrapper">
+                            <div class="waves-block">
+                                <div class="waves wave-1"></div>
+                                <div class="waves wave-2"></div>
+                                <div class="waves wave-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="content">
+                <h3>Order Tracking</h3>
+               <p>Real-time order tracking ensures timely updates and smooth delivery management.</p>
+            </div>
+            <div class="process-arrow">
+                <!-- SVG arrow remains same -->
+            </div>
+        </div>
+    </div>
+
+    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="800ms" data-wow-duration="1500ms">
+        <div class="work-process-card style-4">
+            <div class="image-and-number">
+                <img src="assets/image/card-img/work-process-two-image-4.png" alt="Rack Delivery & Installation">
+                <a class="video-area">
+                    <div class="icon">
+                        <h4>04</h4>
+                        <div class="wrapper">
+                            <div class="waves-block">
+                                <div class="waves wave-1"></div>
+                                <div class="waves wave-2"></div>
+                                <div class="waves wave-3"></div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="content">
+                <h3>Delivery & Installation</h3>
+                <p>We ensure on-time delivery and professional installation, giving you a ready-to-use racking system without any hassle.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
         </div>
     </div>
     <!-- work process section six end -->
