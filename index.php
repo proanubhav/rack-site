@@ -34,13 +34,13 @@
       <div class="swiper banner-img-slider">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner1.jpg" alt="Rack Storage Solutions">
+            <img src="assets/images-rack/banner1.jpg" alt="Rack Storage Solutions" class="mainBannerImg">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner2.jpg" alt="Industrial Racks">
+            <img src="assets/images-rack/banner2.jpg" alt="Industrial Racks" class="mainBannerImg">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner3.jpg" alt="Warehouse Racking System">
+            <img src="assets/images-rack/banner3.jpg" alt="Warehouse Racking System" class="mainBannerImg">
           </div>
         </div>
       </div>
