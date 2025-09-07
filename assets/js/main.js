@@ -39,7 +39,85 @@
 
 // text animation start
 
-  function titleAnimation() {
+//   function titleAnimation() {
+//     const visibleSlowlyRight = document.querySelectorAll('.sec-title, .title-anim');
+
+//     const setInitialStyles = (chars, animationType) => {
+//         chars.forEach((char) => {
+//             char.style.display = 'inline-block';
+//             char.style.opacity = '0';
+//             char.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+
+//             switch (animationType) {
+//                 case 'slide-down':
+//                     char.style.transform = 'translateY(-20px)';
+//                     break;
+//                 case 'rotate':
+//                     char.style.transform = 'rotate(-90deg)';
+//                     break;
+//                 case 'zoom-in':
+//                     char.style.transform = 'scale(0)';
+//                     break;
+//                 case 'fade-up':
+//                     char.style.transform = 'translateY(20px)';
+//                     break;
+//                 case 'bounce-in':
+//                     char.style.transform = 'scale(0.5)';
+//                     break;
+//                 case 'flip':
+//                     char.style.transform = 'rotateY(90deg)';
+//                     break;
+//                 default: // slide-right
+//                     char.style.transform = 'translateX(20px)';
+//             }
+//         });
+//     };
+
+
+//     const revealChars = (element, animationType) => {
+//       const splitChar = new SplitType(element, {
+//           types: 'chars'
+//       });
+//       setInitialStyles(splitChar.chars, animationType);
+
+//       splitChar.chars.forEach((char, index) => {
+//           setTimeout(() => {
+//               char.style.opacity = '1';
+//               char.style.transform =
+//                   animationType === 'rotate' ? 'rotate(0deg)' :
+//                   animationType === 'zoom-in' ? 'scale(1)' :
+//                   animationType === 'fade-up' ? 'translateY(0)' :
+//                   animationType === 'bounce-in' ? 'scale(1)' :
+//                   animationType === 'flip' ? 'rotateY(0deg)' :
+//                   'translateX(0)';
+//           }, index * 30);
+//       });
+//   };
+
+//   const observer = new IntersectionObserver((entries) => {
+//     entries.forEach(entry => {
+//         if (entry.isIntersecting) {
+//             const animationType = entry.target.getAttribute('data-animation') || 'slide-right';
+//             revealChars(entry.target, animationType);
+//         } else {
+//             const splitChar = new SplitType(entry.target, {
+//                 types: 'chars'
+//             });
+//             setInitialStyles(splitChar.chars, entry.target.getAttribute('data-animation') || 'slide-right');
+//         }
+//     });
+// }, {
+//     threshold: 0.1
+// });
+
+// visibleSlowlyRight.forEach((element) => {
+//     observer.observe(element);
+// });
+// }
+
+
+
+function titleAnimation() {
     const visibleSlowlyRight = document.querySelectorAll('.sec-title, .title-anim');
 
     const setInitialStyles = (chars, animationType) => {
@@ -47,6 +125,7 @@
             char.style.display = 'inline-block';
             char.style.opacity = '0';
             char.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+            char.style.willChange = 'transform, opacity'; // smoother animation
 
             switch (animationType) {
                 case 'slide-down':
@@ -73,47 +152,43 @@
         });
     };
 
-
     const revealChars = (element, animationType) => {
-      const splitChar = new SplitType(element, {
-          types: 'chars'
-      });
-      setInitialStyles(splitChar.chars, animationType);
+        if (element.dataset.animated) return; // prevent repeat animation
+        const splitChar = new SplitType(element, { types: 'chars' });
+        setInitialStyles(splitChar.chars, animationType);
 
-      splitChar.chars.forEach((char, index) => {
-          setTimeout(() => {
-              char.style.opacity = '1';
-              char.style.transform =
-                  animationType === 'rotate' ? 'rotate(0deg)' :
-                  animationType === 'zoom-in' ? 'scale(1)' :
-                  animationType === 'fade-up' ? 'translateY(0)' :
-                  animationType === 'bounce-in' ? 'scale(1)' :
-                  animationType === 'flip' ? 'rotateY(0deg)' :
-                  'translateX(0)';
-          }, index * 30);
-      });
-  };
+        splitChar.chars.forEach((char, index) => {
+            setTimeout(() => {
+                char.style.opacity = '1';
+                char.style.transform =
+                    animationType === 'rotate' ? 'rotate(0deg)' :
+                    animationType === 'zoom-in' ? 'scale(1)' :
+                    animationType === 'fade-up' ? 'translateY(0)' :
+                    animationType === 'bounce-in' ? 'scale(1)' :
+                    animationType === 'flip' ? 'rotateY(0deg)' :
+                    'translateX(0)';
+            }, index * 40); // smoother delay
+        });
 
-  const observer = new IntersectionObserver((entries) => {
-    entries.forEach(entry => {
-        if (entry.isIntersecting) {
-            const animationType = entry.target.getAttribute('data-animation') || 'slide-right';
-            revealChars(entry.target, animationType);
-        } else {
-            const splitChar = new SplitType(entry.target, {
-                types: 'chars'
-            });
-            setInitialStyles(splitChar.chars, entry.target.getAttribute('data-animation') || 'slide-right');
-        }
+        element.dataset.animated = "true"; // mark animated
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                const animationType = entry.target.getAttribute('data-animation') || 'slide-right';
+                revealChars(entry.target, animationType);
+            }
+        });
+    }, { threshold: 0.2 });
+
+    visibleSlowlyRight.forEach((element) => {
+        observer.observe(element);
     });
-}, {
-    threshold: 0.1
-});
-
-visibleSlowlyRight.forEach((element) => {
-    observer.observe(element);
-});
 }
+
+
+
 
 // text animation end
 
