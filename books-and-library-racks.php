@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section book_breadcrumb">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Organise your reading spaces efficiently with <b>Books and Library Racks</b> designed for both durability and visual appeal. Perfect for schools, colleges, bookstores, and libraries, these racks feature adjustable shelves and anti-rust finishes. Their modular design ensures easy rearrangement and space optimisation while maintaining an elegant look. Built to hold weight and withstand daily use, they make book organisation simple and long-lasting.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Book-Display-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Book-Display-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Book Display Rack</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-and-Magazine-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-and-Magazine-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Books and Magazine Rack</a></h2>
@@ -77,17 +85,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-Display-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-Display-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Books Display racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Books racks</a></h2>
@@ -100,7 +110,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

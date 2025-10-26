@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section medical_store_racks_breadcrumb">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Our <b>Medical Store Racks</b> are designed to ensure precision, hygiene, and efficient organisation. Each unit features corrosion-resistant coating, easy-access shelving, and secure storage for pharmaceuticals and healthcare products. Tailored for pharmacies, hospitals, and clinics, these racks promote cleanliness and space efficiency while supporting regulatory standards. Durable and dependable, they simplify day-to-day operations for medical retailers.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-mini-bin-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-mini-bin-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Medical Mini Bin Rack</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-store-display-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-store-display-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Medical store display rack</a></h2>
@@ -77,47 +85,52 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-Store-display-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-Store-display-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Medical Store display Racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/medical-store-racks/Metal-Pharmacy-Display-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Metal-Pharmacy-Display-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Metal Pharmacy Display Racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/medical-store-racks/pegboard-pharmacy-glass-display-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/pegboard-pharmacy-glass-display-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>pegboard pharmacy glass display rack</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-bin-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-bin-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharmacy Bin Rack</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/medical-store-racks/Pharmacy-store-dipslay-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Pharmacy-store-dipslay-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharmacy store dipslay racks</a></h2>
@@ -130,7 +143,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

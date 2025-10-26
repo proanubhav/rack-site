@@ -53,6 +53,11 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>At Globego, we design <b>Supermarket Racks</b> that bring efficiency and elegance to every retail space. Each unit is engineered to handle heavy loads while maintaining a clean, modern look that highlights your products. Adjustable shelves, corrosion-resistant finish, and modular build make them ideal for supermarkets and convenience stores. Whether you’re expanding your store or upgrading your layout, our supermarket racks help maximise display space and improve customer flow — giving your products the attention they deserve.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">

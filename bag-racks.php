@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section bag_breadcrumb">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Display your collection effortlessly with <b>Bag Racks</b> that bring structure and style to your retail space. These racks are tailored for showrooms, fashion stores, and accessory outlets, offering flexible shelving and strong frame support. Each design highlights your product’s aesthetic while keeping the layout organised and inviting. Choose from multiple sizes and finishes to match your store’s theme and product range.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/bag-racks/Bag-display-racks-new.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/bag-racks/Bag-display-racks-new.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Bag display racks</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/bag-racks/Wall-mounted-display-racks-for-bags.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/bag-racks/Wall-mounted-display-racks-for-bags.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>display racks for bags</a></h2>
@@ -77,27 +85,30 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/bag-racks/Glass-display-racks-1.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/bag-racks/Glass-display-racks-1.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Glass display racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/bag-racks/Hanging-Display-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/bag-racks/Hanging-Display-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Hanging Display Rack</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/bag-racks/Hanging-Garments-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/bag-racks/Hanging-Garments-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Hanging Garments Racks</a></h2>
@@ -110,7 +121,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Keep your produce fresh and inviting with our <b>Fruits and Vegetable Racks</b>. Built with ventilated trays and rust-proof frames, they promote airflow and reduce spoilage. Each unit is designed for easy cleaning, durability, and smooth customer access. Ideal for supermarkets, grocery stores, and organic markets, these racks offer both hygiene and style — helping you maintain freshness from shelf to sale.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Glass-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Glass-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit & Vegetable Display Racks</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit and vegetable racks</a></h2>
@@ -77,17 +85,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruit-Display-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruit-Display-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit Display Rack</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks-2.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks-2.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Display Racks</a></h2>
@@ -97,7 +107,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Display Racks</a></h2>
@@ -107,7 +118,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks-2.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks-2.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Racks</a></h2>
@@ -117,7 +129,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Racks</a></h2>
@@ -127,7 +140,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Display-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Display-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits and Vegetable Display Racks</a></h2>
@@ -137,7 +151,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-2.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-2.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks</a></h2>
@@ -147,7 +162,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Racks-For-Supermarket.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Racks-For-Supermarket.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks</a></h2>
@@ -157,7 +173,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-For-Supermarket-1.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-For-Supermarket-1.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits and Vegetable Racks, For Supermarket</a></h2>
@@ -167,7 +184,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks, For Supermarket</a></h2>
@@ -177,7 +195,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetables-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetables-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetables Racks</a></h2>
@@ -187,7 +206,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack-center-type.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack-center-type.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Vegetable center display racks</a></h2>
@@ -200,7 +220,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

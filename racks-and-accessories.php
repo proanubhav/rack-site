@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Complete your retail setup with our <b>Racks & Accessories</b> that bring versatility to your store design. From mesh panels and shelf dividers to signage holders and end caps, every accessory is crafted to enhance functionality and visual order. They are compatible with all Globego rack systems, allowing you to expand, modify, or restyle your space with ease. It’s the perfect combination of practicality and polish for your retail environment.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/bowl-and-plates.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/bowl-and-plates.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>bowl and plates</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Compartment-Storage-Locker.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Compartment-Storage-Locker.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Compartment Storage Locker</a></h2>
@@ -77,17 +85,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Glass-Door-Almirah.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Glass-Door-Almirah.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Glass Door Almirah</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Impulse-Bin-Books-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Impulse-Bin-Books-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Impulse Bin Books Rack</a></h2>
@@ -97,7 +107,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Looking-Smart-Type-Aligator-Bin.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Looking-Smart-Type-Aligator-Bin.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Looking Smart Type Aligator Bin</a></h2>
@@ -107,7 +118,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Multi-chamber-almirah.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Multi-chamber-almirah.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Multi chamber almirah</a></h2>
@@ -117,7 +129,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Office-Glass-Door-Almirah.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Office-Glass-Door-Almirah.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Office Glass Door Almirah</a></h2>
@@ -127,7 +140,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Pharmacy-cabinet.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Pharmacy-cabinet.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharmacy cabinet</a></h2>
@@ -137,7 +151,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plastic-shopping-basket.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plastic-shopping-basket.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Plastic shopping basket</a></h2>
@@ -147,7 +162,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plates-holder.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plates-holder.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Plates holder</a></h2>
@@ -157,7 +173,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Shopping-trolley.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Shopping-trolley.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Shopping trolley</a></h2>
@@ -167,7 +184,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Stainless-Steel-Rice-Bin.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Stainless-Steel-Rice-Bin.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Stainless Steel Rice Bin</a></h2>
@@ -177,7 +195,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Standard-Display-File-Almirah.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Standard-Display-File-Almirah.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Standard Display File Almirah</a></h2>
@@ -187,7 +206,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Stall-Floor-Bin.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Stall-Floor-Bin.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Steel Stall Floor Bin</a></h2>
@@ -197,7 +217,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Storage-Locker-2.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Storage-Locker-2.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Steel Storage Locker</a></h2>
@@ -207,7 +228,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Transparent-Two-Side-Display.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Transparent-Two-Side-Display.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Transparent Two Side Display</a></h2>
@@ -217,7 +239,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/racks-and-accessories/White-Broom-stand.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/White-Broom-stand.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>White Broom stand</a></h2>
@@ -230,7 +253,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

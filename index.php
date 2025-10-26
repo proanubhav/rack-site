@@ -22,10 +22,12 @@
       <div class="sub-clip">
         <span>Globego</span>
       </div>
-      <span>Your Trusted Racking & Storage Partner</span>
+      <span>Supermarket Racks Manufacturer & Logistics Partner</span>
     </div>
-    <h1 class="title-anim">SuperMarket Racks Manufacturer</h1>
-    <p>Rack India is one of South India's leading manufacturers specializing in supermarket racks</p>
+    <h1 class="title-anim">Premium Supermarket Racks & Retail Storage Solutions</h1>
+    <p>Globego delivers durable, space-saving supermarket racks and retail storage solutions designed for modern stores.</p>
+    <p>Globego brings you high-quality supermarket racks built for strength, style, and smarter merchandising.</p>
+    <p>South India’s trusted supermarket racks manufacturer for durable and modern storage solutions.</p>
     <a href="shop-list.php" class="primary-btn1">Explore Racking Solutions</a>
   </div>
 
@@ -62,15 +64,15 @@
               <div class="sub-clip">
                 <span>About Us</span>
               </div>
-              <span>Shaping Spaces with Innovative Rack Solutions</span>
+              <span>Your Trusted Partner for Supermarket Racks & Storage Solutions</span>
             </div>
-            <h2 class="sec-title">Your Trusted Partner for <br> Quality Display & Storage Racks</h2>
+            <h2 class="sec-title"> Shaping retail spaces with durable, customised display and storage racks.</h2>
             <div class="wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
              <div class="about_content">
-               <p>Established in Chennai, Tamil Nadu, India, 2012, we are the manufacturer and supplier of the best repository Supermarket Racks, Storage Racks, Industrial Racks, billing counter, shoe rack, wood book rack, server rack or multiple Display Racks and many Retail Racks and industrial racks for your need.</p>
-           <p>These racks are made using high quality raw materials and are considered international quality standards. Our large assortment is widely used in supermarkets, department stores, food stores and many other commercial establishments.</p>
-           <p>We also offer these products in customized solutions to meet the exact needs of the large number of customers we have. There is great demand in the market for these racks because of their robustness, abrasion resistance and accuracy in dimensions, compressed size and strength.</p>
-           <p class="mb-4">To provide the best customer satisfaction, we provide solutions tailored to customer needs. Our customers can get these products at affordable prices.</p>
+               <p>Founded in 2012 in Chennai, Tamil Nadu, Globego has grown into one of South India’s leading manufacturers and suppliers of high-quality supermarket racks, display racks, and storage solutions. Our wide range includes supermarket shelving, industrial racks, billing counters, shoe racks, book racks, server racks, and customised retail display systems crafted to meet the needs of modern businesses.</p>
+           <p>Each rack is built with premium raw materials and follows international quality standards, ensuring durability, strength, and long-lasting performance. Our solutions are widely used across supermarkets, department stores, food outlets, warehouses, and other commercial establishments.</p>
+           <p>At Globego, we understand that no two businesses are the same. That’s why we offer customised racking solutions—designed to maximise space, improve product visibility, and enhance your store’s efficiency. With a focus on affordability, robustness, and precision, we deliver storage systems that help businesses organise better and grow faster.</p>
+           
 </div>
               <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
             </div>
@@ -539,8 +541,8 @@
         </div>
         <span>Trusted Partner in Racking & Display Solutions</span>
       </div>
-      <h2 class="sec-title">Delivering Quality Racks for <br> Maximum Space & Perfect Display </h2>
-      <p>We are highly acknowledged organization engaged in presenting remarkable range of Supermarket Racks products.</p>
+      <h2 class="sec-title"> Delivering Supermarket Racks<br>that Maximise Space & Boost Display</h2>
+      <p>Globego is known for delivering supermarket racks and retail shelving solutions in South India that blend functionality, strength, and modern design—helping retailers stay efficient and organised.</p>
     </div>
     <ul class="list-item">
       <li>
@@ -603,8 +605,8 @@
             </div>
             <span>Trusted Experts in Rack & Display Solutions</span>
           </div>
-          <h2 class="sec-title">Your Questions About <br> Racks & Storage Answered</h2>
-          <p>We aim to provide clarity on our products, services, installation, and customization options so you can choose the best rack solutions for your business.</p>
+          <h2 class="sec-title">Your queries about<br>Supermarket & Storage<br>Racks answered</h2>
+          <p><strong>At Globego</strong>, we understand that choosing the right <strong>supermarket racksupermarket racks and storage solutions</strong> requires clarity. Here are answers to common questions about our products, customisation, installation, and delivery, so you can make the best decision for your business.</p>
         </div>
         <div class="faq-content">
           <div class="accordion" id="accordionGeneral">
@@ -741,11 +743,11 @@
             <div class="sub-clip">
               <span>Work Process</span>
             </div>
-            <span>Delivering Excellence in Rack Solutions</span>
+            <span>Delivering Excellence in Supermarket & Storage Rack Solutions</span>
           </div>
-          <h2 class="sec-title">How We Build and Deliver Quality Racks</h2>
+          <h2 class="sec-title">How We Design, Manufacture, and Deliver Quality Racks</h2>
           <div class="wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-            <p>From design to installation, we ensure every rack system is built with precision, durability, and safety in mind for our clients.</p>
+            <p><strong>At Globego</strong>, we follow a step-by-step process to ensure every <strong>supermarket rack and storage system</strong> meets the highest standards of design, durability, and safety. From planning to handover, we focus on building racks that maximise display space and withstand everyday retail use.</p>
           </div>
         </div>
         <div class="work-process-boy">
@@ -775,7 +777,7 @@
             </div>
             <div class="content">
               <h5>Rack Design</h5>
-              <p>We begin by understanding your storage needs and creating a customized rack design.</p>
+              <p>We start by understanding your store layout and storage needs. Our team creates <strong>custom rack designs</strong> that improve product visibility and enhance your retail environment.</p>
             </div>
             <div class="order-img">
               <img src="assets/images-rack/about/about1.png" alt="img" />
@@ -787,7 +789,7 @@
             </div>
             <div class="content">
               <h5>Manufacturing</h5>
-              <p>Racks are manufactured with high-quality materials ensuring strength and durability.</p>
+              <p>Every rack is manufactured using <strong>premium high-quality steel and premium finishes</strong>, ensuring long-lasting strength, stability, and durability.</p>
             </div>
             <div class="order-img">
             <img src="assets/images-rack/about/about2.png" alt="img" />
@@ -799,7 +801,7 @@
             </div>
             <div class="content">
               <h5>Installation</h5>
-              <p>Our expert team installs racks safely and efficiently at your location.</p>
+              <p>Our expert technicians handle the <strong>complexinstallation of supermarket racks</strong> with precision, ensuring quick setup and maximum safety at your location.</p>
             </div>
             <div class="order-img">
             <img src="assets/images-rack/about/about3.png" alt="img" />
@@ -811,7 +813,7 @@
             </div>
             <div class="content">
               <h5>Inspection & Handover</h5>
-              <p>Final quality checks are conducted before handing over strong, ready-to-use racks.</p>
+              <p>Before delivery, we run <strong>extensive strict quality inspections</strong> so you receive sturdy, ready-to-use racks that meet global retail standards.</p>
             </div>
             <div class="order-img">
               <img src="assets/images-rack/about/about1.png" alt="img" />

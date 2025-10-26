@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section heavy_duty_breadcrumb">
@@ -53,11 +54,19 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Heavy-duty racks are built to deliver unmatched strength and reliability for demanding industrial environments. Made from high-quality steel, these racks are designed to handle heavy loads with stability and safety. They are widely used in warehouses, logistics centres, and manufacturing units where large or bulky goods need systematic storage.</p>
+                    <p>Each rack is crafted with precision, featuring adjustable shelves and a robust frame that ensures long-term performance. The powder-coated finish prevents rust and corrosion, even in tough working conditions. Heavy-duty racks not only maximise floor space but also enhance workflow efficiency and inventory management.</p>
+                    <p>If you’re looking for a heavy-duty storage solution that combines durability, functionality, and easy maintenance, this rack system is an ideal choice for any industrial setup.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-42-min.jpg" alt="Heavy Duty Rack">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-42-min.jpg"
+                                alt="Heavy Duty Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Rack</a></h2>
@@ -67,7 +76,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-43-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-43-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy duty racks</a></h2>
@@ -77,17 +87,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-44-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-44-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Racks Pallet Racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-41-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-41-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy duty slotted angle racks</a></h2>
@@ -97,7 +109,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-40-min-1-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-40-min-1-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Warehouse Pallet Rack</a></h2>
@@ -107,7 +120,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-45-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-45-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy-Duty Pallet Racks</a></h2>
@@ -117,7 +131,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-47-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-47-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy-Duty Racks</a></h2>
@@ -127,7 +142,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-46-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-46-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Metal steel Heavy Duty Slotted Angle Rack</a></h2>
@@ -137,7 +153,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-39-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-39-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>Mould Storage Display Rack</a></h2>
@@ -149,7 +166,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

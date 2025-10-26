@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section billing_counter_breadcrumb">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Our <b>Billing Counters</b> combine function with design to create efficient checkout zones. Each counter is ergonomically built for staff comfort and customer convenience. With ample storage, smooth surface finishes, and sturdy build, they streamline your billing process while complementing your store’s overall design. Choose from a range of customisable sizes and finishes that fit your retail layout perfectly.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Billing-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Billing-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Billing Counter</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Cash-Desk-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Cash-Desk-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Cash Desk Counter</a></h2>
@@ -77,17 +85,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/billing-counter/Reception-Table-Cash-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Reception-Table-Cash-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Reception Table Cash Counter</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/billing-counter/Rectangular-Cash-Desk-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Rectangular-Cash-Desk-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Rectangular Cash Desk Counter</a></h2>
@@ -97,7 +107,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Showroom-Cash-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Showroom-Cash-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Showroom Cash Counter</a></h2>
@@ -107,7 +118,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Cash Counter</a></h2>
@@ -117,7 +129,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Desk-Counter.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Desk-Counter.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Cash Desk Counter</a></h2>
@@ -130,7 +143,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section">
@@ -53,11 +54,17 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Highlight your bestsellers with <b>Display Racks</b> designed to attract attention. Crafted for aesthetic impact and everyday durability, these racks work beautifully in showrooms, retail stores, and exhibitions. Their modular structure allows easy rearrangement, while the premium finish enhances brand presence. From electronics and apparel to FMCG goods, our display racks ensure your products always stand out.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/DISPLAY-RACKS.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/DISPLAY-RACKS.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Custom Display Rack</a></h2>
@@ -67,7 +74,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Departmental Store Rack</a></h2>
@@ -77,17 +85,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Store-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Store-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Departmental store racks</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Display-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Display-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Glass display rack</a></h2>
@@ -97,7 +107,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Racks-for-Retail-Stores.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Racks-for-Retail-Stores.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Glass Display Rack</a></h2>
@@ -107,7 +118,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/HYPERMARKET-RACKS.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/HYPERMARKET-RACKS.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Grocery Store Display Rack, For Supermarket</a></h2>
@@ -117,7 +129,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Books-and-Magazine-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Books-and-Magazine-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Library display racks</a></h2>
@@ -127,7 +140,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/hanging-hypermarket-display-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/hanging-hypermarket-display-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Mild Steel Wall Mount Racks</a></h2>
@@ -137,7 +151,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Pharmacy-store-dipslay-racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Pharmacy-store-dipslay-racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Retail Pharmacy Racks</a></h2>
@@ -147,7 +162,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/footwear-rack-1.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/footwear-rack-1.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Shoe Display Racks</a></h2>
@@ -157,7 +173,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-11-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-11-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Super market wall mounted racks</a></h2>
@@ -167,7 +184,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Group-65-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-65-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Center Display rack</a></h2>
@@ -177,7 +195,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-5-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-5-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Center Display Rack</a></h2>
@@ -187,7 +206,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-6-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-6-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Display Rack</a></h2>
@@ -197,7 +217,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-12-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-12-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket display Rack</a></h2>
@@ -207,7 +228,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Fruits-And-Vegetables-Racks.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Fruits-And-Vegetables-Racks.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket display Racks</a></h2>
@@ -217,7 +239,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/H-Type-Supermarket-Rack.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/H-Type-Supermarket-Rack.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket display Racks</a></h2>
@@ -227,7 +250,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Hypermarket-Display-racks-2.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Hypermarket-Display-racks-2.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket display Racks</a></h2>
@@ -237,7 +261,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-14-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-14-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Display Wall Mount Rack</a></h2>
@@ -247,7 +272,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/Group-15-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-15-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Glass Display Rack</a></h2>
@@ -257,7 +283,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-2-600x524.jpg" alt="supermarket Rack">
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-2-600x524.jpg"
+                                alt="supermarket Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>Wall Supermarket Display Racks</a></h2>
@@ -270,7 +297,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>

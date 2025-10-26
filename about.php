@@ -3,6 +3,7 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:14 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +12,7 @@
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section about_breadcrumb">
@@ -41,26 +42,37 @@
     </div>
     <!-- breadcrumb-section end -->
 
-   <!-- about us section start -->
-<div class="about-us-section-three section-padding-top section-padding-bottom">
+    <!-- about us section start -->
+    <div class="about-us-section-three section-padding-top section-padding-bottom">
         <div class="container position-relative">
             <div class="row align-items-center g-xxl-0 gy-5">
-                <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
+                <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms"
+                    style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
                     <div class="about-left-area">
                         <div class="about-big-iamge">
-                            <img src="assets/images-rack/about/about-us-550-x-650-2-400x472-1.jpg" alt="" style="width: 648px; height: 751px">
+                            <img src="assets/images-rack/about/about-us-550-x-650-2-400x472-1.jpg" alt=""
+                                style="width: 648px; height: 751px">
                         </div>
-                        <div class="review-wrapper-three wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
+                        <div class="review-wrapper-three wow animate fadeInUp" data-wow-delay="200ms"
+                            data-wow-duration="1500ms"
+                            style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
                             <div class="review-content">
                                 <h3>The Best &amp; Most Reliable Rack Service</h3>
                                 <h5>Ranjeet Singh</h5>
                                 <div class="icon">
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="82" height="80" viewBox="0 0 82 80" fill="none">
-                                        <path d="M135.5 88.5C135.5 115.005 113.791 136.5 87 136.5C60.2093 136.5 38.5 115.005 38.5 88.5C38.5 61.9952 60.2093 40.5 87 40.5C113.791 40.5 135.5 61.9952 135.5 88.5Z" stroke="white"></path>
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="82" height="80" viewBox="0 0 82 80"
+                                        fill="none">
+                                        <path
+                                            d="M135.5 88.5C135.5 115.005 113.791 136.5 87 136.5C60.2093 136.5 38.5 115.005 38.5 88.5C38.5 61.9952 60.2093 40.5 87 40.5C113.791 40.5 135.5 61.9952 135.5 88.5Z"
+                                            stroke="white"></path>
                                         <circle cx="96" cy="103" r="46.5" stroke="white"></circle>
                                         <circle cx="78.5" cy="80.5" r="54" stroke="white"></circle>
-                                        <path d="M133.5 71.5C133.5 103.513 106.433 129.5 73 129.5C39.5668 129.5 12.5 103.513 12.5 71.5C12.5 39.487 39.5668 13.5 73 13.5C106.433 13.5 133.5 39.487 133.5 71.5Z" stroke="white"></path>
-                                        <path d="M127.5 61C127.5 94.3909 99.093 121.5 64 121.5C28.907 121.5 0.5 94.3909 0.5 61C0.5 27.6091 28.907 0.5 64 0.5C99.093 0.5 127.5 27.6091 127.5 61Z" stroke="white"></path>
+                                        <path
+                                            d="M133.5 71.5C133.5 103.513 106.433 129.5 73 129.5C39.5668 129.5 12.5 103.513 12.5 71.5C12.5 39.487 39.5668 13.5 73 13.5C106.433 13.5 133.5 39.487 133.5 71.5Z"
+                                            stroke="white"></path>
+                                        <path
+                                            d="M127.5 61C127.5 94.3909 99.093 121.5 64 121.5C28.907 121.5 0.5 94.3909 0.5 61C0.5 27.6091 28.907 0.5 64 0.5C99.093 0.5 127.5 27.6091 127.5 61Z"
+                                            stroke="white"></path>
                                     </svg>
                                 </div>
                             </div>
@@ -79,15 +91,29 @@
                                     <span>About Us</span>
                                 </div>
                             </div>
-                           <h2>Your Trusted Partner for Innovative Rack Solutions</h2>
-                          
-                           <div class="about_content">
-                            <p>
-Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa are working in the industry as the manufacturer and supplier of a faultless array of Storage Rack, Billing Counter, Shoe Rack, Wooden Book Rack, Server Rack, Display Rack and others.</p>
-<p>These racks are produced using high quality raw material and in perfect consideration to the international quality standards. Our large assortment is widely used in Supermarkets, Departmental stores, food stores and in many other commercial establishments.</p>
-<p>To fulfill the exact requirements of plentiful customers that we have, we present these goods in personalized solutions also. These racks have giant demand in the marketplace due to their features like great sturdiness, abrasion resistance, and accuracy in dimensions, compressed size and robustness.</p>
-<p>To offer supreme client satisfaction, we offer tailored solutions as per the needs of the customers. Our clientele can get these products at affordable prices.</p>
-</div>
+                            <h2>Your Reliable Partner for Supermarket & Retail Rack Solutions</h2>
+
+                            <div class="about_content">
+                                <p>
+                                    At <strong>Globego</strong>, we believe that every retail space deserves racks that combine strength,
+                                    style, and smart design. Based in <strong>Chennai, Tamil Nadu</strong>, we are among South India’s
+                                    most trusted manufacturers of <strong>supermarket racks, storage shelves, and retail display
+                                    systems</strong>.</p>
+                                <p>Since our inception, our mission has been simple: to create racks that not only
+                                    organise but also <strong>elevate the shopping experience</strong>. From compact corner racks to
+                                    large-format supermarket shelving, each product is built with <strong>premium materials,
+                                    modern engineering, and strict quality control</strong>.</p>
+                                <p>What sets us apart is our <strong>customised approach</strong>. We work closely with businesses —
+                                    whether it’s a local store, supermarket chain, or enterprise client — to design
+                                    racks that match their layout, optimise floor space, and enhance product visibility.
+                                    Our racks are known for their <strong>durability, space efficiency, and easy installation</strong>,
+                                    making them a reliable choice for retailers who demand both performance and
+                                    aesthetics.</p>
+                                <p>With a skilled team, a modern manufacturing unit, and a strong supply network,
+                                    Globego ensures <strong>on-time delivery and long-lasting solutions</strong> for every client. Over
+                                    the years, we’ve built our reputation on <strong>trust, innovation, and customer
+                                    satisfaction</strong>.</p>
+                            </div>
 
                         </div>
                         <a href="shop-list.php" class="primary-btn1 secondary-btn">Learn More</a>
@@ -95,46 +121,59 @@ Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa a
                 </div>
             </div>
             <div class="about_content mt-4">
-                <p>To work out the complete business operations and activities with high precision and concern, we have hired a team of accomplished professionals. Our professionals put their efforts in close closeness with the clientele to understand their accurate requirements and offer them products that exactly match their needs. We are also assisted by a large distribution network to provide the finished products to the customers in predefined time frame.</p>
-                <p>Our professionals keep high level of transparency in our work and aid us in attaining a reputed place in the marketplace. We work day and night to guarantee that our products are produced in compliance with the requirements put forward by the clientele. Under the leadership of our Director we have attained a strong grip in the industry. We have created a highly modern infrastructural unit that is well equipped with latest machinery and tools.</p>
-                <p>Our infrastructural unit is divided into various parts including procurement, production, quality checks, sales and marketing and other. In order to work in a hassle free manner, all these operations are supervised by our expert team. This highly developed infrastructural unit assists us to produce these racks as per the requirements of our customers. To add to this, we frequently upgrade our unit to perform our easy manufacturing process.</p>
-</div>
+                <p>Delivering reliable storage and display solutions requires more than just manufacturing racks—it
+                    demands precision, planning, and a team that understands client needs inside out. That’s why every
+                    project begins with close collaboration, ensuring that the <strong>supermarket racks, retail display units,
+                    and storage systems</strong> we create perfectly align with store layouts, product categories, and
+                    merchandising goals. A strong distribution network further guarantees that products reach customers
+                    within committed timelines.</p>
+                <p>Commitment to transparency and quality has helped us earn a trusted position in the marketplace. Each
+                    rack goes through rigorous quality checks, meeting international standards of durability, load
+                    capacity, and design accuracy. Backed by experienced leadership, our team operates from a
+                    <strong>state-of-the-art facility equipped with advanced machinery and technology</strong>, enabling us to produce
+                    racks that balance strength, aesthetics, and cost efficiency.</p>
+                <p>Operations are structured across specialised departments covering procurement, production,
+                    inspection, sales, and logistics. This systematic approach ensures a seamless flow—from sourcing
+                    premium raw materials to <strong>manufacturing and installing retail racks</strong> on-site. To keep up with changing
+                    retail trends, our processes and infrastructure are regularly upgraded, allowing us to deliver
+                    <strong>customised, modern, and long-lasting rack solutions</strong> that enhance every retail environment.</p>
+            </div>
         </div>
     </div>
-<!-- about us section end -->
+    <!-- about us section end -->
 
-<!-- cta section four start -->
-<div class="cta-section-six ">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 ">
-                <div class="cta-content ">
-                    <h2 class="sec-title">Smart Storage and Display Solutions for Every Industry</h2>
-                    <div class="videa-wrapper">
-                        <a class="video-area video-player" href="https://www.youtube.com/watch?v=LLvGY51ueXw">
-                            <div class="icon">
-                                <svg class="video-icon" width="19" height="23" viewBox="0 0 19 23" fill="none"
-                                    xmlns="http://www.w3.org/2000/svg">
-                                    <path d="M19 11.5L0.250001 22.3253L0.250002 0.674682L19 11.5Z" fill="#F84E1D" />
-                                </svg>
+    <!-- cta section four start -->
+    <div class="cta-section-six ">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12 ">
+                    <div class="cta-content ">
+                        <h2 class="sec-title">Smart Storage and Display Solutions for Every Industry</h2>
+                        <div class="videa-wrapper">
+                            <a class="video-area video-player" href="https://www.youtube.com/watch?v=LLvGY51ueXw">
+                                <div class="icon">
+                                    <svg class="video-icon" width="19" height="23" viewBox="0 0 19 23" fill="none"
+                                        xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M19 11.5L0.250001 22.3253L0.250002 0.674682L19 11.5Z" fill="#F84E1D" />
+                                    </svg>
 
-                                <div class="wrapper">
-                                    <div class="waves-block">
-                                        <div class="waves wave-1"></div>
-                                        <div class="waves wave-2"></div>
-                                        <div class="waves wave-3"></div>
+                                    <div class="wrapper">
+                                        <div class="waves-block">
+                                            <div class="waves wave-1"></div>
+                                            <div class="waves wave-2"></div>
+                                            <div class="waves wave-3"></div>
+                                        </div>
                                     </div>
                                 </div>
-                            </div>
-                        </a>
-                        <span>Company <br> Intro</span>
+                            </a>
+                            <span>Company <br> Intro</span>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
-<!-- cta section four end -->
+    <!-- cta section four end -->
 
 
     <!-- work process section six start -->
@@ -149,117 +188,119 @@ Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa a
                             </div>
                             <span>Delivering Smart Storage & Rack Solutions</span>
                         </div>
-                       <h2>How We Design & Deliver High-Quality Racks</h2>
-                <p>From concept to installation, we provide end-to-end storage solutions tailored to meet your business needs with precision and reliability.</p>
+                        <h2>How We Deliver Seamless Logistics Solutions</h2>
+                        <p>We understand that logistics is more than just moving goods; it’s about building trust through speed, accuracy, and reliability. </p>
                     </div>
                 </div>
             </div>
-         <div class="row g-4">
-    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-        <div class="work-process-card">
-            <div class="image-and-number">
-                <img src="assets/image/card-img/work-process-two-image-1.png" alt="Rack Order Placement">
-                <a class="video-area">
-                    <div class="icon">
-                        <h4>01</h4>
-                        <div class="wrapper">
-                            <div class="waves-block">
-                                <div class="waves wave-1"></div>
-                                <div class="waves wave-2"></div>
-                                <div class="waves wave-3"></div>
-                            </div>
+            <div class="row g-4">
+                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
+                    <div class="work-process-card">
+                        <div class="image-and-number">
+                            <img src="assets/image/card-img/work-process-two-image-1.png" alt="Rack Order Placement">
+                            <a class="video-area">
+                                <div class="icon">
+                                    <h4>01</h4>
+                                    <div class="wrapper">
+                                        <div class="waves-block">
+                                            <div class="waves wave-1"></div>
+                                            <div class="waves wave-2"></div>
+                                            <div class="waves wave-3"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>Order Processing</h3>
+                            <p>We begin by carefully verifying every order, ensuring accurate details and error-free documentation for smooth logistics.</p>
+                        </div>
+                        <div class="process-arrow">
+                            <!-- SVG arrow remains same -->
                         </div>
                     </div>
-                </a>
-            </div>
-            <div class="content">
-                <h3>Order Processing</h3>
-              <p>We analyze your storage needs and space limits to deliver the ideal racking solution quickly and efficiently.</p>
-            </div>
-            <div class="process-arrow">
-                <!-- SVG arrow remains same -->
-            </div>
-        </div>
-    </div>
+                </div>
 
-    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
-        <div class="work-process-card style-2">
-            <div class="image-and-number">
-                <img src="assets/image/card-img/work-process-two-image-2.png" alt="Rack Design & Planning">
-                <a class="video-area">
-                    <div class="icon">
-                        <h4>02</h4>
-                        <div class="wrapper">
-                            <div class="waves-block">
-                                <div class="waves wave-1"></div>
-                                <div class="waves wave-2"></div>
-                                <div class="waves wave-3"></div>
-                            </div>
+                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
+                    <div class="work-process-card style-2">
+                        <div class="image-and-number">
+                            <img src="assets/image/card-img/work-process-two-image-2.png" alt="Rack Design & Planning">
+                            <a class="video-area">
+                                <div class="icon">
+                                    <h4>02</h4>
+                                    <div class="wrapper">
+                                        <div class="waves-block">
+                                            <div class="waves wave-1"></div>
+                                            <div class="waves wave-2"></div>
+                                            <div class="waves wave-3"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>Warehousing</h3>
+                            <p>Goods are stored in our secure, well-structured warehouses that allow safe storage and faster dispatch.</p>
+                        </div>
+                        <div class="process-arrow">
+                            <!-- SVG arrow remains same -->
                         </div>
                     </div>
-                </a>
-            </div>
-            <div class="content">
-                <h3>Warehousing</h3>
-                  <p>We provide smart warehousing solutions with optimized layouts and durable racks for maximum space efficiency.</p>
-            </div>
-            <div class="process-arrow">
-                <!-- SVG arrow remains same -->
-            </div>
-        </div>
-    </div>
+                </div>
 
-    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
-        <div class="work-process-card style-3">
-            <div class="image-and-number">
-                <img src="assets/image/card-img/work-process-two-image-3.png" alt="Rack Manufacturing Process">
-                <a class="video-area">
-                    <div class="icon">
-                        <h4>03</h4>
-                        <div class="wrapper">
-                            <div class="waves-block">
-                                <div class="waves wave-1"></div>
-                                <div class="waves wave-2"></div>
-                                <div class="waves wave-3"></div>
-                            </div>
+                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
+                    <div class="work-process-card style-3">
+                        <div class="image-and-number">
+                            <img src="assets/image/card-img/work-process-two-image-3.png"
+                                alt="Rack Manufacturing Process">
+                            <a class="video-area">
+                                <div class="icon">
+                                    <h4>03</h4>
+                                    <div class="wrapper">
+                                        <div class="waves-block">
+                                            <div class="waves wave-1"></div>
+                                            <div class="waves wave-2"></div>
+                                            <div class="waves wave-3"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>Order Tracking</h3>
+                            <p>Clients get real-time updates, making the entire process transparent and easy to monitor.</p>
+                        </div>
+                        <div class="process-arrow">
+                            <!-- SVG arrow remains same -->
                         </div>
                     </div>
-                </a>
-            </div>
-            <div class="content">
-                <h3>Order Tracking</h3>
-               <p>Real-time order tracking ensures timely updates and smooth delivery management.</p>
-            </div>
-            <div class="process-arrow">
-                <!-- SVG arrow remains same -->
-            </div>
-        </div>
-    </div>
+                </div>
 
-    <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="800ms" data-wow-duration="1500ms">
-        <div class="work-process-card style-4">
-            <div class="image-and-number">
-                <img src="assets/image/card-img/work-process-two-image-4.png" alt="Rack Delivery & Installation">
-                <a class="video-area">
-                    <div class="icon">
-                        <h4>04</h4>
-                        <div class="wrapper">
-                            <div class="waves-block">
-                                <div class="waves wave-1"></div>
-                                <div class="waves wave-2"></div>
-                                <div class="waves wave-3"></div>
-                            </div>
+                <div class="col-lg-3 col-md-6 wow animate fadeInLeft" data-wow-delay="800ms" data-wow-duration="1500ms">
+                    <div class="work-process-card style-4">
+                        <div class="image-and-number">
+                            <img src="assets/image/card-img/work-process-two-image-4.png"
+                                alt="Rack Delivery & Installation">
+                            <a class="video-area">
+                                <div class="icon">
+                                    <h4>04</h4>
+                                    <div class="wrapper">
+                                        <div class="waves-block">
+                                            <div class="waves wave-1"></div>
+                                            <div class="waves wave-2"></div>
+                                            <div class="waves wave-3"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </a>
+                        </div>
+                        <div class="content">
+                            <h3>Delivery & Installation</h3>
+                            <p>Our strong delivery network ensures products reach safely, on time, and in perfect condition.</p>
                         </div>
                     </div>
-                </a>
+                </div>
             </div>
-            <div class="content">
-                <h3>Delivery & Installation</h3>
-                <p>We ensure on-time delivery and professional installation, giving you a ready-to-use racking system without any hassle.</p>
-            </div>
-        </div>
-    </div>
-</div>
 
         </div>
     </div>
@@ -406,4 +447,5 @@ Incorporated in the year 2012, at Chennai, (Tamil Nadu, India) we Racks Indiaa a
     <?php include 'common/footer.php'; ?>
 
 </body>
+
 </html>

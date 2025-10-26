@@ -3,15 +3,16 @@
 
 
 <!-- Mirrored from demo.qzency.com/html/globego/preview/shop-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:34:01 GMT -->
+
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <?php include 'common/css.php'; ?>
+    <?php include 'common/css.php'; ?>
 </head>
 
 <body class="tt-magic-cursor">
 
-     <?php include 'common/header.php'; ?>
+    <?php include 'common/header.php'; ?>
 
     <!-- breadcrumb-section start -->
     <div class="breadcrumb-section medium_duty_breadcrumb">
@@ -53,11 +54,19 @@
     <!-- shop list section start -->
     <div class="shop-list-section section-padding-top">
         <div class="container">
+            <div class="row">
+                <div class="col-md-12 mb-100">
+                    <p>Medium-duty racks are designed for spaces that require both flexibility and load-bearing capacity. Suitable for retail backrooms, small warehouses, workshops, and distribution centres, these racks help keep materials neatly organised while ensuring easy accessibility.</p>
+                    <p>Built from sturdy materials, each rack provides excellent strength with a lighter frame that allows for quick installation and reconfiguration. The adjustable shelves make it easy to store cartons, spare parts, or equipment of varying sizes.</p>
+                    <p>Medium-duty racks are the go-to option for businesses seeking a balance between efficiency and cost-effectiveness. They make inventory management smoother and help maintain a clean, professional workspace without compromising on quality.</p>
+                </div>
+            </div>
             <div class="row gy-5">
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-51-min.jpg" alt="Heavy Duty Rack">
+                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-51-min.jpg"
+                                alt="Heavy Duty Rack">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty longspan rack</a></h2>
@@ -67,7 +76,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-49-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-49-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty pallet rack</a></h2>
@@ -77,17 +87,19 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-48-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-48-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty pallet rack</a></h2>
                         </div>
                     </div>
                 </div>
-                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
+                <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-53-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-53-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty rack</a></h2>
@@ -97,7 +109,8 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-52-min-600x524.jpg" alt="Heavy duty racks">
+                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-52-min-600x524.jpg"
+                                alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty racks</a></h2>
@@ -109,7 +122,7 @@
     </div>
     <!-- shop list section end -->
 
-      <?php include 'common/footer.php'; ?>
+    <?php include 'common/footer.php'; ?>
 </body>
 
 </html>
