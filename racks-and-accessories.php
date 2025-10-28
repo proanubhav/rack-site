@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/bowl-and-plates.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/bowl-and-plates.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Compartment-Storage-Locker.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Compartment-Storage-Locker.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Glass-Door-Almirah.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Glass-Door-Almirah.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Impulse-Bin-Books-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Impulse-Bin-Books-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -107,7 +107,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Looking-Smart-Type-Aligator-Bin.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Looking-Smart-Type-Aligator-Bin.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Multi-chamber-almirah.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Multi-chamber-almirah.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -129,7 +129,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Office-Glass-Door-Almirah.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Office-Glass-Door-Almirah.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -140,7 +140,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Pharmacy-cabinet.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Pharmacy-cabinet.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -151,7 +151,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plastic-shopping-basket.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plastic-shopping-basket.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -162,7 +162,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plates-holder.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Plates-holder.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -173,7 +173,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Shopping-trolley.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Shopping-trolley.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -184,7 +184,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Stainless-Steel-Rice-Bin.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Stainless-Steel-Rice-Bin.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -195,7 +195,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Standard-Display-File-Almirah.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Standard-Display-File-Almirah.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -206,7 +206,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Stall-Floor-Bin.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Stall-Floor-Bin.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Storage-Locker-2.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Steel-Storage-Locker-2.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -228,7 +228,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Transparent-Two-Side-Display.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/Transparent-Two-Side-Display.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -239,7 +239,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/White-Broom-stand.jpg"
+                            <img src="assets/images-rack/product/retail-racks/racks-and-accessories/White-Broom-stand.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

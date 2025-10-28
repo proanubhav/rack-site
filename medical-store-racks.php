@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-mini-bin-rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-mini-bin-rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-store-display-rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-store-display-rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-Store-display-Racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-Store-display-Racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Metal-Pharmacy-Display-Racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Metal-Pharmacy-Display-Racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -107,7 +107,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/pegboard-pharmacy-glass-display-rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/pegboard-pharmacy-glass-display-rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-bin-rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-bin-rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -129,7 +129,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Pharmacy-store-dipslay-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Pharmacy-store-dipslay-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

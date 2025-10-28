@@ -58,7 +58,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/rack2.jpg" alt="car">
+                            <img src="assets/images-rack/product/rack2.webp" alt="car">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharma Rack</a></h2>
@@ -78,7 +78,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/rack2.jpg" alt="car">
+                            <img src="assets/images-rack/product/rack2.webp" alt="car">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharma Rack</a></h2>
@@ -98,7 +98,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/rack2.jpg" alt="car">
+                            <img src="assets/images-rack/product/rack2.webp" alt="car">
                         </div>
                         <div class="product-content">
                             <h2><a>Pharma Rack</a></h2>

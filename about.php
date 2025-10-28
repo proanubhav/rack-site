@@ -50,7 +50,7 @@
                     style="visibility: visible; animation-duration: 1500ms; animation-delay: 200ms;">
                     <div class="about-left-area">
                         <div class="about-big-iamge">
-                            <img src="assets/images-rack/about/about-us-550-x-650-2-400x472-1.jpg" alt=""
+                            <img src="assets/images-rack/about/about-us-550-x-650-2-400x472-1.webp" alt=""
                                 style="width: 648px; height: 751px">
                         </div>
                         <div class="review-wrapper-three wow animate fadeInUp" data-wow-delay="200ms"

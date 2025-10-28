@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Billing-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Billing-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Cash-Desk-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Cash-Desk-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Reception-Table-Cash-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Reception-Table-Cash-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Rectangular-Cash-Desk-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Rectangular-Cash-Desk-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -107,7 +107,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Showroom-Cash-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Showroom-Cash-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -129,7 +129,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Desk-Counter.jpg"
+                            <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Desk-Counter.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

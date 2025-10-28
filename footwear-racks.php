@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/footwear-racks/footwear-rack-1.jpg"
+                            <img src="assets/images-rack/product/retail-racks/footwear-racks/footwear-rack-1.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/footwear-racks/footwear-rack-2.jpg"
+                            <img src="assets/images-rack/product/retail-racks/footwear-racks/footwear-rack-2.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

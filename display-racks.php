@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/DISPLAY-RACKS.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/DISPLAY-RACKS.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Store-Racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Departmental-Display-Store-Racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Display-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Display-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -107,7 +107,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Racks-for-Retail-Stores.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Glass-Racks-for-Retail-Stores.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -118,7 +118,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/HYPERMARKET-RACKS.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/HYPERMARKET-RACKS.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -129,7 +129,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Books-and-Magazine-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Books-and-Magazine-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -140,7 +140,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/hanging-hypermarket-display-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/hanging-hypermarket-display-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -151,7 +151,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Pharmacy-store-dipslay-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Pharmacy-store-dipslay-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -162,7 +162,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/footwear-rack-1.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/footwear-rack-1.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -173,7 +173,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-11-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-11-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -184,7 +184,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-65-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-65-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -195,7 +195,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-5-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-5-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -206,7 +206,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-6-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-6-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -217,7 +217,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-12-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-12-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -228,7 +228,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Fruits-And-Vegetables-Racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Fruits-And-Vegetables-Racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -239,7 +239,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/H-Type-Supermarket-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/H-Type-Supermarket-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -250,7 +250,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Hypermarket-Display-racks-2.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Hypermarket-Display-racks-2.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -261,7 +261,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-14-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-14-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -272,7 +272,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-15-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/Group-15-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -283,7 +283,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-2-600x524.jpg"
+                            <img src="assets/images-rack/product/retail-racks/display-racks/SUPER-MARKET-IMG-2-600x524.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

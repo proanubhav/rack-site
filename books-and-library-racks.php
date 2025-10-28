@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Book-Display-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Book-Display-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-and-Magazine-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-and-Magazine-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-Display-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-Display-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/books-and-library-racks/Books-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">

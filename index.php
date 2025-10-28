@@ -36,13 +36,13 @@
       <div class="swiper banner-img-slider">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner6.jpg" alt="Rack Storage Solutions">
+            <img src="assets/images-rack/banner6.webp" alt="Rack Storage Solutions">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner5.jpg" alt="Industrial Racks">
+            <img src="assets/images-rack/banner5.webp" alt="Industrial Racks">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner4.jpg" alt="Warehouse Racking System">
+            <img src="assets/images-rack/banner4.webp" alt="Warehouse Racking System">
           </div>
         </div>
       </div>
@@ -83,18 +83,18 @@
         <div class="image-wrapper">
           <div class="left-wrap">
             <div class="image-one magnetic-item">
-              <img src="assets/images-rack/about/about8.jpg" alt="card-img" style="width: 281px; height: 270px">
+              <img src="assets/images-rack/about/about8.webp" alt="card-img" style="width: 281px; height: 270px">
             </div>
             <div class="image-two magnetic-item">
-              <img src="assets/images-rack/about/about5.jpg" alt="card-img" style="width: 311px; height: 393px">
+              <img src="assets/images-rack/about/about5.webp" alt="card-img" style="width: 311px; height: 393px">
             </div>
           </div>
           <div class="right-wrap magnetic-item">
             <div class="image-three">
-           <img src="assets/images-rack/about/about6.jpg" alt="card-img" style="width: 393px; height: 312px">
+           <img src="assets/images-rack/about/about6.webp" alt="card-img" style="width: 393px; height: 312px">
             </div>
             <div class="image-four">
-                <img src="assets/images-rack/about/about7.jpg" alt="card-img" style="width: 200px; height: 189px">
+                <img src="assets/images-rack/about/about7.webp" alt="card-img" style="width: 200px; height: 189px">
             </div>
           </div>
         </div>
@@ -141,7 +141,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/supermarket-racks-550-x-650.jpg"
+                                            <img src="assets/images-rack/product/index/supermarket-racks-550-x-650.webp"
                                                 alt="product-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -187,7 +187,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/fruits-and-vegetable-racks-550-x-650.jpg"
+                                            <img src="assets/images-rack/product/index/fruits-and-vegetable-racks-550-x-650.webp"
                                                 alt="service-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -261,7 +261,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/medical-racks-2-550-x-650.jpg"
+                                            <img src="assets/images-rack/product/index/medical-racks-2-550-x-650.webp"
                                                 alt="service-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -302,7 +302,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/textile-racks-550-x-650.jpg"
+                                            <img src="assets/images-rack/product/index/textile-racks-550-x-650.webp"
                                                 alt="service-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -349,7 +349,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/mediumduty-racks-550-x-650-1.jpg"
+                                            <img src="assets/images-rack/product/index/mediumduty-racks-550-x-650-1.webp"
                                                 alt="service-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -423,7 +423,7 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/electronic-display-2-racks-550-x-650.jpg"
+                                            <img src="assets/images-rack/product/index/electronic-display-2-racks-550-x-650.webp"
                                                 alt="electronic-display-image">
                                             <div class="service-icon">
                                                 <div class="top-icon">
@@ -751,7 +751,7 @@
           </div>
         </div>
         <div class="work-process-boy">
-          <img src="assets/images-rack/banner2.jpg" alt="">
+          <img src="assets/images-rack/banner2.webp" alt="">
         </div>
         <div class="review-wrapper wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <div class="review-content">

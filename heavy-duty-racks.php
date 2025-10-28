@@ -65,7 +65,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-42-min.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-42-min.webp"
                                 alt="Heavy Duty Rack">
                         </div>
                         <div class="product-content">
@@ -76,7 +76,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-43-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-43-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -87,7 +87,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-44-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-44-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -98,7 +98,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-41-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-41-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -109,7 +109,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-40-min-1-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-40-min-1-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -120,7 +120,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-45-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-45-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -131,7 +131,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-47-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-47-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -142,7 +142,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-46-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-46-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">
@@ -153,7 +153,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-39-min-600x524.jpg"
+                            <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-39-min-600x524.webp"
                                 alt="Heavy duty racks">
                         </div>
                         <div class="product-content">

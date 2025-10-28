@@ -63,7 +63,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/glass-counter/Display-Table.jpg"
+                            <img src="assets/images-rack/product/retail-racks/glass-counter/Display-Table.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -74,7 +74,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/glass-counter/Glass-Display-racks.jpg"
+                            <img src="assets/images-rack/product/retail-racks/glass-counter/Glass-Display-racks.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -85,7 +85,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/glass-counter/Glass-Racks-for-Retail-Stores.jpg"
+                            <img src="assets/images-rack/product/retail-racks/glass-counter/Glass-Racks-for-Retail-Stores.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
@@ -96,7 +96,7 @@
                 <div class="col-lg-4 col-md-6 wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="product-card-wrap">
                         <div class="product-image">
-                            <img src="assets/images-rack/product/retail-racks/glass-counter/Pink-Supermarket-Store-Rack.jpg"
+                            <img src="assets/images-rack/product/retail-racks/glass-counter/Pink-Supermarket-Store-Rack.webp"
                                 alt="supermarket Rack">
                         </div>
                         <div class="product-content">
