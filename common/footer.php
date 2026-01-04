@@ -13,7 +13,7 @@
                             <a href="contact.php" class="primary-btn1 white">Contact Now</a>
                         </div>
                         <div class="delivery-car">
-                            <img src="assets/images-rack/deliver.png" alt="car">
+                            <img src="assets/images-rack/deliver.webp" alt="car">
                         </div>
                     </div>
                 </div>
@@ -254,7 +254,7 @@
               </div>
               <div class="middle-logo">
                 <a href="index.php">
-                  <img src="assets/image/svg/logo-white-color.svg" alt="">
+                  <img src="assets/image/svg/globego-logo.svg" alt="">
                 </a>
               </div>
               <div class="footer-right">
@@ -281,22 +281,22 @@
       </div>
       <form id="contactForm">
         <div class="modal-body">
-          <div class="mb-3">
+          <div class="mb-2">
             <label for="cfName" class="form-label">Your Name</label>
             <input type="text" class="form-control" id="cfName" name="name" placeholder="Enter Name" required>
           </div>
 
-          <div class="mb-3">
+          <div class="mb-2">
             <label for="cfEmail" class="form-label">Email Address</label>
             <input type="email" class="form-control" id="cfEmail" name="email" placeholder="Enter Email Address" required>
           </div>
 
-          <div class="mb-3">
+          <div class="mb-2">
             <label for="cfPhone" class="form-label">Phone Number</label>
             <input type="tel" class="form-control" id="cfPhone" name="phone" placeholder="Enter Phone Number" required>
           </div>
 
-          <div class="mb-3">
+          <div class="mb-2">
             <label for="cfMessage" class="form-label">Message</label>
             <textarea class="form-control" id="cfMessage" name="message" rows="4" placeholder="Write your message...." required></textarea>
           </div>
@@ -314,7 +314,7 @@
   </div>
 </div>
 
- <?php include 'js.php'; ?>
+ <?php include 'common/js.php'; ?>
 
 <script>
   document.addEventListener('DOMContentLoaded', function () {

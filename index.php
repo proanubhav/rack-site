@@ -7,6 +7,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preload" as="image" fetchpriority="high" href="assets/images-rack/banner6.webp" />
   <?php include 'common/css.php'; ?>
 </head>
 
@@ -36,13 +37,13 @@
       <div class="swiper banner-img-slider">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner6.webp" alt="Rack Storage Solutions">
+            <img src="assets/images-rack/banner6.webp" alt="Rack Storage Solutions" loading="eager" fetchpriority="high" decoding="async">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner5.webp" alt="Industrial Racks">
+            <img src="assets/images-rack/banner5.webp" alt="Industrial Racks" loading="lazy" decoding="async">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner4.webp" alt="Warehouse Racking System">
+            <img src="assets/images-rack/banner4.webp" alt="Warehouse Racking System" loading="lazy" decoding="async">
           </div>
         </div>
       </div>
@@ -83,28 +84,28 @@
         <div class="image-wrapper">
           <div class="left-wrap">
             <div class="image-one magnetic-item">
-              <img src="assets/images-rack/about/about8.webp" alt="card-img" style="width: 281px; height: 270px">
+              <img src="assets/images-rack/about/about8.webp" alt="card-img" style="width: 281px; height: 270px" loading="lazy" decoding="async">
             </div>
             <div class="image-two magnetic-item">
-              <img src="assets/images-rack/about/about5.webp" alt="card-img" style="width: 311px; height: 393px">
+              <img src="assets/images-rack/about/about5.webp" alt="card-img" style="width: 311px; height: 393px" loading="lazy" decoding="async">
             </div>
           </div>
           <div class="right-wrap magnetic-item">
             <div class="image-three">
-           <img src="assets/images-rack/about/about6.webp" alt="card-img" style="width: 393px; height: 312px">
+           <img src="assets/images-rack/about/about6.webp" alt="card-img" style="width: 393px; height: 312px" loading="lazy" decoding="async">
             </div>
             <div class="image-four">
-                <img src="assets/images-rack/about/about7.webp" alt="card-img" style="width: 200px; height: 189px">
+                <img src="assets/images-rack/about/about7.webp" alt="card-img" style="width: 200px; height: 189px" loading="lazy" decoding="async">
             </div>
           </div>
         </div>
       </div>
     </div>
     <div class="green-container-image wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-      <img src="assets/image/banner-img/green-container.php" alt="">
+      <img src="assets/image/banner-img/banner-bg-one.webp" alt="" loading="lazy" decoding="async">
     </div>
     <div class="car-shape">
-      <img src="assets/image/banner-img/about-us-one-shape.png" alt="">
+      <img src="assets/image/banner-img/about-us-one-shape.png" alt="" loading="lazy" decoding="async">
     </div>
   </div>
 </div>
@@ -141,8 +142,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/supermarket-racks-550-x-650.webp"
-                                                alt="product-image">
+                                            <img src="assets/images-rack/product/retail-racks/supermarket-racks/Group-16.webp"
+                                                alt="product-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -187,8 +188,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/fruits-and-vegetable-racks-550-x-650.webp"
-                                                alt="service-image">
+                                            <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Glass-rack.webp"
+                                                alt="service-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -261,8 +262,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/medical-racks-2-550-x-650.webp"
-                                                alt="service-image">
+                                            <img src="assets/images-rack/product/retail-racks/medical-store-racks/Medical-mini-bin-rack.webp"
+                                                alt="service-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -302,8 +303,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/textile-racks-550-x-650.webp"
-                                                alt="service-image">
+                                            <img src="assets/images-rack/product/retail-racks/textile-and-garment-racks/Wall-mounted-display-racks-2.webp"
+                                                alt="service-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -349,8 +350,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/mediumduty-racks-550-x-650-1.webp"
-                                                alt="service-image">
+                                            <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-52-min-600x524.webp"
+                                                alt="service-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -423,8 +424,8 @@
                                 <div class="swiper-slide">
                                     <div class="service-card">
                                         <div class="service-img-wrap">
-                                            <img src="assets/images-rack/product/index/electronic-display-2-racks-550-x-650.webp"
-                                                alt="electronic-display-image">
+                                            <img src="assets/images-rack/product/retail-racks/electronic-display-racks/Showroom-AC-Display-Rack.webp"
+                                                alt="electronic-display-image" loading="lazy" decoding="async" width="500" height="600">
                                             <div class="service-icon">
                                                 <div class="top-icon">
                                                     <svg width="64" height="64" viewBox="0 0 64 64" fill="none"
@@ -508,7 +509,7 @@
         <div class="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
           <div class="customer-and-counter magnetic-item">
             <div class="customer-image">
-              <img src="assets/images-rack/why-choose.png" alt="customer-image" class="why_choose_img">
+              <img src="assets/images-rack/why-choose.webp" alt="customer-image" class="why_choose_img" loading="lazy" decoding="async">
             </div>
             <ul>
               <li class="single-card">
@@ -587,7 +588,7 @@
 
       </div>
       <div class="world-map">
-        <img src="assets/image/banner-img/worldmap-white.png" alt="">
+        <img src="assets/image/banner-img/worldmap-white.png" alt="" loading="lazy" decoding="async">
       </div>
     </div>
   </div>
@@ -751,7 +752,7 @@
           </div>
         </div>
         <div class="work-process-boy">
-          <img src="assets/images-rack/banner2.webp" alt="">
+          <img src="assets/images-rack/banner2.webp" alt="" loading="lazy" decoding="async">
         </div>
         <div class="review-wrapper wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
           <div class="review-content">
@@ -780,7 +781,7 @@
               <p>We start by understanding your store layout and storage needs. Our team creates <strong>custom rack designs</strong> that improve product visibility and enhance your retail environment.</p>
             </div>
             <div class="order-img">
-              <img src="assets/images-rack/about/about1.png" alt="img" />
+              <img src="assets/images-rack/about/about1.png" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order two wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
@@ -792,7 +793,7 @@
               <p>Every rack is manufactured using <strong>premium high-quality steel and premium finishes</strong>, ensuring long-lasting strength, stability, and durability.</p>
             </div>
             <div class="order-img">
-            <img src="assets/images-rack/about/about2.png" alt="img" />
+            <img src="assets/images-rack/about/about2.png" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
@@ -804,7 +805,7 @@
               <p>Our expert technicians handle the <strong>complexinstallation of supermarket racks</strong> with precision, ensuring quick setup and maximum safety at your location.</p>
             </div>
             <div class="order-img">
-            <img src="assets/images-rack/about/about3.png" alt="img" />
+            <img src="assets/images-rack/about/about3.png" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order three wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -816,11 +817,11 @@
               <p>Before delivery, we run <strong>extensive strict quality inspections</strong> so you receive sturdy, ready-to-use racks that meet global retail standards.</p>
             </div>
             <div class="order-img">
-              <img src="assets/images-rack/about/about1.png" alt="img" />
+              <img src="assets/images-rack/about/about1.png" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="dashed-line">
-            <img src="assets/image/banner-img/dashed-line.png" alt="">
+            <img src="assets/image/banner-img/dashed-line.png" alt="" loading="lazy" decoding="async">
           </div>
           <div class="red-waves-one">
             <a class="video-area video-player">
@@ -852,10 +853,10 @@
       </div>
     </div>
     <div class="work-process-car wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-      <img src="assets/image/banner-img/work-bg-red-car.png" alt="car">
+      <img src="assets/image/banner-img/work-bg-red-car.png" alt="car" loading="lazy" decoding="async">
     </div>
     <div class="work-process-map">
-      <img src="assets/image/banner-img/work-porcess-map.png" alt="">
+      <img src="assets/image/banner-img/work-porcess-map.png" alt="" loading="lazy" decoding="async">
     </div>
   </div>
 </div>
@@ -865,3 +866,4 @@
 </body>
 
 </html>
+

@@ -64,7 +64,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Billing-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Billing Counter</a></h2>
@@ -75,7 +75,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Cash-Desk-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Cash Desk Counter</a></h2>
@@ -86,7 +86,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Reception-Table-Cash-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Reception Table Cash Counter</a></h2>
@@ -97,7 +97,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Rectangular-Cash-Desk-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Rectangular Cash Desk Counter</a></h2>
@@ -108,7 +108,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Showroom-Cash-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Showroom Cash Counter</a></h2>
@@ -119,7 +119,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Cash Counter</a></h2>
@@ -130,7 +130,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/billing-counter/Supermarket-Cash-Desk-Counter.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Supermarket Cash Desk Counter</a></h2>

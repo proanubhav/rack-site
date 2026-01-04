@@ -66,7 +66,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-42-min.webp"
-                                alt="Heavy Duty Rack">
+                                alt="Heavy Duty Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Rack</a></h2>
@@ -77,7 +77,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-43-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy duty racks</a></h2>
@@ -88,7 +88,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-44-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Racks Pallet Racks</a></h2>
@@ -99,7 +99,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-41-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy duty slotted angle racks</a></h2>
@@ -110,7 +110,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-40-min-1-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy Duty Warehouse Pallet Rack</a></h2>
@@ -121,7 +121,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-45-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy-Duty Pallet Racks</a></h2>
@@ -132,7 +132,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-47-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Heavy-Duty Racks</a></h2>
@@ -143,7 +143,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-46-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Metal steel Heavy Duty Slotted Angle Rack</a></h2>
@@ -154,7 +154,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/heavy-duty-racks/Group-39-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Mould Storage Display Rack</a></h2>

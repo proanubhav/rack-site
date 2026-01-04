@@ -66,7 +66,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-51-min.webp"
-                                alt="Heavy Duty Rack">
+                                alt="Heavy Duty Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty longspan rack</a></h2>
@@ -77,7 +77,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-49-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty pallet rack</a></h2>
@@ -88,7 +88,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-48-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty pallet rack</a></h2>
@@ -99,7 +99,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-53-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty rack</a></h2>
@@ -110,7 +110,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/industrial-racks/medium-duty-racks/Group-52-min-600x524.webp"
-                                alt="Heavy duty racks">
+                                alt="Heavy duty racks" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>medium duty racks</a></h2>

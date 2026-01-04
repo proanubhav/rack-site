@@ -64,7 +64,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/H-Type-Supermarket-Rack.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>H Type Supermarket Rack</a></h2>
@@ -75,7 +75,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/hanging-hypermarket-display-racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>hanging hypermarket display racks</a></h2>
@@ -86,7 +86,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/Hypermarket-Display-Racks-new.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Hypermarket Display Racks</a></h2>
@@ -97,7 +97,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/Hypermarket-Display-racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Hypermarket Display racks</a></h2>
@@ -108,7 +108,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/Hypermarket-Display-racks-2.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Hypermarket Display Round racks</a></h2>
@@ -119,7 +119,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/hypermarket-glass-display-racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>hypermarket glass display racks</a></h2>
@@ -130,7 +130,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/hypermarket-racks/Mild-Steel-Free-Standing-Unit-H-TYPE-SUPERMARKET-RACK.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Mild Steel Free Standing Unit H TYPE SUPERMARKET RACK</a></h2>

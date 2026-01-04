@@ -64,7 +64,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Glass-rack.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit & Vegetable Display Racks</a></h2>
@@ -75,7 +75,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit and vegetable racks</a></h2>
@@ -86,7 +86,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruit-Display-Rack.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruit Display Rack</a></h2>
@@ -97,7 +97,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks-2.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Display Racks</a></h2>
@@ -108,7 +108,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Display-Racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Display Racks</a></h2>
@@ -119,7 +119,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks-2.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Racks</a></h2>
@@ -130,7 +130,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-Vegetable-Racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits & Vegetable Racks</a></h2>
@@ -141,7 +141,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Display-Racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits and Vegetable Display Racks</a></h2>
@@ -152,7 +152,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-2.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks</a></h2>
@@ -163,7 +163,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-and-Vegetable-Racks-For-Supermarket.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks</a></h2>
@@ -174,7 +174,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks-For-Supermarket-1.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits and Vegetable Racks, For Supermarket</a></h2>
@@ -185,7 +185,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetable-Racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetable Racks, For Supermarket</a></h2>
@@ -196,7 +196,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Fruits-And-Vegetables-Racks.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Fruits And Vegetables Racks</a></h2>
@@ -207,7 +207,7 @@
                     <div class="product-card-wrap">
                         <div class="product-image">
                             <img src="assets/images-rack/product/retail-racks/fruits-and-vegetable-racks/Veg-rack-center-type.webp"
-                                alt="supermarket Rack">
+                                alt="supermarket Rack" loading="lazy" decoding="async">
                         </div>
                         <div class="product-content">
                             <h2><a>Vegetable center display racks</a></h2>
