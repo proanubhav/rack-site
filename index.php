@@ -105,7 +105,7 @@
       <img src="assets/image/banner-img/banner-bg-one.webp" alt="" loading="lazy" decoding="async">
     </div>
     <div class="car-shape">
-      <img src="assets/image/banner-img/about-us-one-shape.png" alt="" loading="lazy" decoding="async">
+      <img src="assets/image/banner-img/about-us-one-shape.webp" alt="" loading="lazy" decoding="async">
     </div>
   </div>
 </div>
@@ -588,7 +588,7 @@
 
       </div>
       <div class="world-map">
-        <img src="assets/image/banner-img/worldmap-white.png" alt="" loading="lazy" decoding="async">
+        <img src="assets/image/banner-img/worldmap-white.webp" alt="" loading="lazy" decoding="async">
       </div>
     </div>
   </div>
@@ -781,7 +781,7 @@
               <p>We start by understanding your store layout and storage needs. Our team creates <strong>custom rack designs</strong> that improve product visibility and enhance your retail environment.</p>
             </div>
             <div class="order-img">
-              <img src="assets/images-rack/about/about1.png" alt="img" loading="lazy" decoding="async" />
+              <img src="assets/images-rack/about/about1.webp" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order two wow animate fadeInDown" data-wow-delay="400ms" data-wow-duration="1500ms">
@@ -793,7 +793,7 @@
               <p>Every rack is manufactured using <strong>premium high-quality steel and premium finishes</strong>, ensuring long-lasting strength, stability, and durability.</p>
             </div>
             <div class="order-img">
-            <img src="assets/images-rack/about/about2.png" alt="img" loading="lazy" decoding="async" />
+            <img src="assets/images-rack/about/about2.webp" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order wow animate fadeInDown" data-wow-delay="600ms" data-wow-duration="1500ms">
@@ -805,7 +805,7 @@
               <p>Our expert technicians handle the <strong>complexinstallation of supermarket racks</strong> with precision, ensuring quick setup and maximum safety at your location.</p>
             </div>
             <div class="order-img">
-            <img src="assets/images-rack/about/about3.png" alt="img" loading="lazy" decoding="async" />
+            <img src="assets/images-rack/about/about3.webp" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="single-order three wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -817,11 +817,11 @@
               <p>Before delivery, we run <strong>extensive strict quality inspections</strong> so you receive sturdy, ready-to-use racks that meet global retail standards.</p>
             </div>
             <div class="order-img">
-              <img src="assets/images-rack/about/about1.png" alt="img" loading="lazy" decoding="async" />
+              <img src="assets/images-rack/about/about1.webp" alt="img" loading="lazy" decoding="async" />
             </div>
           </div>
           <div class="dashed-line">
-            <img src="assets/image/banner-img/dashed-line.png" alt="" loading="lazy" decoding="async">
+            <img src="assets/image/svg/sub-title-shape.svg" alt="" loading="lazy" decoding="async">
           </div>
           <div class="red-waves-one">
             <a class="video-area video-player">
@@ -853,10 +853,10 @@
       </div>
     </div>
     <div class="work-process-car wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
-      <img src="assets/image/banner-img/work-bg-red-car.png" alt="car" loading="lazy" decoding="async">
+      <img src="assets/image/work-process-two-image-1.webp" alt="car" loading="lazy" decoding="async">
     </div>
     <div class="work-process-map">
-      <img src="assets/image/banner-img/work-porcess-map.png" alt="" loading="lazy" decoding="async">
+      <img src="assets/image/banner-img/work-porcess-map.webp" alt="" loading="lazy" decoding="async">
     </div>
   </div>
 </div>
