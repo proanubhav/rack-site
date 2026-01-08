@@ -9,7 +9,7 @@
                         </div>
                         <div class="delivery-content">
                             <h2>Want To Deliver Your Goods?</h2>
-                            <p>Globego is your fastest & safest Delivery partner</p>
+                            <p>Kirana Racks is your fastest & safest Delivery partner</p>
                             <a href="contact.php" class="primary-btn1 white">Contact Now</a>
                         </div>
                         <div class="delivery-car">
@@ -143,7 +143,7 @@
                   <div class="content">
                     <a href="cdn-cgi/l/email-protection#1c75727a735c79647d716c7079327f7371"><span
                         class="__cf_email__"
-                        data-cfemail="8ce5e2eae3cce9f4ede1fce0e9a2efe3e1">support@rack.com</span></a>
+                        data-cfemail="8ce5e2eae3cce9f4ede1fce0e9a2efe3e1">support@kiranaracks.com</span></a>
                   </div>
                 </li>
               </ul>
@@ -250,7 +250,7 @@
           <div class="col-lg-12">
             <div class="footer-bottom">
               <div class="copy-write-area">
-                <p>©Copyright 2025 Globego</p>
+                <p>©Copyright 2026 Kirana Racks</p>
               </div>
               <div class="middle-logo">
                 <a href="index.php">

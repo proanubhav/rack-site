@@ -18,13 +18,13 @@
   <div class="banner-content">
     <div class="sub-title">
       <div class="sub-clip">
-        <span>Globego</span>
+        <span>Kirana Racks</span>
       </div>
       <span>Supermarket Racks Manufacturer & Logistics Partner</span>
     </div>
     <h1 class="title-anim">Premium Supermarket Racks & Retail Storage Solutions</h1>
-    <p>Globego delivers durable, space-saving supermarket racks and retail storage solutions designed for modern stores.</p>
-    <p>Globego brings you high-quality supermarket racks built for strength, style, and smarter merchandising.</p>
+    <p>Kirana Racks delivers durable, space-saving supermarket racks and retail storage solutions designed for modern stores.</p>
+    <p>Kirana Racks brings you high-quality supermarket racks built for strength, style, and smarter merchandising.</p>
     <p>South India’s trusted supermarket racks manufacturer for durable and modern storage solutions.</p>
     <a href="shop-list.php" class="primary-btn1">Explore Racking Solutions</a>
   </div>
@@ -67,9 +67,9 @@
             <h2 class="sec-title"> Shaping retail spaces with durable, customised display and storage racks.</h2>
             <div class="wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
              <div class="about_content">
-               <p>Founded in 2012 in Chennai, Tamil Nadu, Globego has grown into one of South India’s leading manufacturers and suppliers of high-quality supermarket racks, display racks, and storage solutions. Our wide range includes supermarket shelving, industrial racks, billing counters, shoe racks, book racks, server racks, and customised retail display systems crafted to meet the needs of modern businesses.</p>
+               <p>Founded in 2012 in Chennai, Tamil Nadu, Kirana Racks has grown into one of South India’s leading manufacturers and suppliers of high-quality supermarket racks, display racks, and storage solutions. Our wide range includes supermarket shelving, industrial racks, billing counters, shoe racks, book racks, server racks, and customised retail display systems crafted to meet the needs of modern businesses.</p>
            <p>Each rack is built with premium raw materials and follows international quality standards, ensuring durability, strength, and long-lasting performance. Our solutions are widely used across supermarkets, department stores, food outlets, warehouses, and other commercial establishments.</p>
-           <p>At Globego, we understand that no two businesses are the same. That’s why we offer customised racking solutions—designed to maximise space, improve product visibility, and enhance your store’s efficiency. With a focus on affordability, robustness, and precision, we deliver storage systems that help businesses organise better and grow faster.</p>
+           <p>At Kirana Racks, we understand that no two businesses are the same. That’s why we offer customised racking solutions—designed to maximise space, improve product visibility, and enhance your store’s efficiency. With a focus on affordability, robustness, and precision, we deliver storage systems that help businesses organise better and grow faster.</p>
            
 </div>
               <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
@@ -540,7 +540,7 @@
         <span>Trusted Partner in Racking & Display Solutions</span>
       </div>
       <h2 class="sec-title"> Delivering Supermarket Racks<br>that Maximise Space & Boost Display</h2>
-      <p>Globego is known for delivering supermarket racks and retail shelving solutions in South India that blend functionality, strength, and modern design—helping retailers stay efficient and organised.</p>
+      <p>Kirana Racks is known for delivering supermarket racks and retail shelving solutions in South India that blend functionality, strength, and modern design—helping retailers stay efficient and organised.</p>
     </div>
     <ul class="list-item">
       <li>
@@ -604,7 +604,7 @@
             <span>Trusted Experts in Rack & Display Solutions</span>
           </div>
           <h2 class="sec-title">Your queries about<br>Supermarket & Storage<br>Racks answered</h2>
-          <p><strong>At Globego</strong>, we understand that choosing the right <strong>supermarket racksupermarket racks and storage solutions</strong> requires clarity. Here are answers to common questions about our products, customisation, installation, and delivery, so you can make the best decision for your business.</p>
+          <p><strong>At Kirana Racks</strong>, we understand that choosing the right <strong>supermarket racksupermarket racks and storage solutions</strong> requires clarity. Here are answers to common questions about our products, customisation, installation, and delivery, so you can make the best decision for your business.</p>
         </div>
         <div class="faq-content">
           <div class="accordion" id="accordionGeneral">
@@ -745,7 +745,7 @@
           </div>
           <h2 class="sec-title">How We Design, Manufacture, and Deliver Quality Racks</h2>
           <div class="wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-            <p><strong>At Globego</strong>, we follow a step-by-step process to ensure every <strong>supermarket rack and storage system</strong> meets the highest standards of design, durability, and safety. From planning to handover, we focus on building racks that maximise display space and withstand everyday retail use.</p>
+            <p><strong>At Kirana Racks</strong>, we follow a step-by-step process to ensure every <strong>supermarket rack and storage system</strong> meets the highest standards of design, durability, and safety. From planning to handover, we focus on building racks that maximise display space and withstand everyday retail use.</p>
           </div>
         </div>
         <div class="work-process-boy">

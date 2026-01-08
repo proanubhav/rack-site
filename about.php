@@ -93,7 +93,7 @@
 
                             <div class="about_content">
                                 <p>
-                                    At <strong>Globego</strong>, we believe that every retail space deserves racks that combine strength,
+                                    At <strong>Kirana Racks</strong>, we believe that every retail space deserves racks that combine strength,
                                     style, and smart design. Based in <strong>Chennai, Tamil Nadu</strong>, we are among South India’s
                                     most trusted manufacturers of <strong>supermarket racks, storage shelves, and retail display
                                     systems</strong>.</p>
@@ -108,7 +108,7 @@
                                     making them a reliable choice for retailers who demand both performance and
                                     aesthetics.</p>
                                 <p>With a skilled team, a modern manufacturing unit, and a strong supply network,
-                                    Globego ensures <strong>on-time delivery and long-lasting solutions</strong> for every client. Over
+                                    Kirana Racks ensures <strong>on-time delivery and long-lasting solutions</strong> for every client. Over
                                     the years, we’ve built our reputation on <strong>trust, innovation, and customer
                                     satisfaction</strong>.</p>
                             </div>

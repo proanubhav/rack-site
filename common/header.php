@@ -53,7 +53,7 @@
 <header class="header-area style-1">
     <div class="container-fluid p-0 container-custom d-flex flex-nowrap align-items-center justify-content-between">
         <div class="header-logo">
-            <a href="index.php"><img alt="image" class="img-fluid" src="assets/image/svg/globego-logo.svg" /></a>
+            <a href="index.php"><img alt="image" class="img-fluid" src="assets/image/kirana-racks-logo.svg" /></a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between">

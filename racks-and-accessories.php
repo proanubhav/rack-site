@@ -54,7 +54,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 mb-100">
-                    <p>Complete your retail setup with our <b>Racks & Accessories</b> that bring versatility to your store design. From mesh panels and shelf dividers to signage holders and end caps, every accessory is crafted to enhance functionality and visual order. They are compatible with all Globego rack systems, allowing you to expand, modify, or restyle your space with ease. It’s the perfect combination of practicality and polish for your retail environment.</p>
+                    <p>Complete your retail setup with our <b>Racks & Accessories</b> that bring versatility to your store design. From mesh panels and shelf dividers to signage holders and end caps, every accessory is crafted to enhance functionality and visual order. They are compatible with all Kirana Racks rack systems, allowing you to expand, modify, or restyle your space with ease. It’s the perfect combination of practicality and polish for your retail environment.</p>
                 </div>
             </div>
             <div class="row gy-5">
