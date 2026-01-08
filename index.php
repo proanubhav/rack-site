@@ -2,8 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from demo.qzency.com/html/globego/preview/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 15 Aug 2025 17:33:27 GMT -->
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />

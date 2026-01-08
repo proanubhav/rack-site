@@ -59,7 +59,7 @@
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between">
                 <div class="mobile-logo-wrap">
                     <a href="index.php"><img alt="image" class="img-fluid"
-                            src="assets/image/svg/globego-logo.svg" /></a>
+                            src="./assets/image/kirana-racks-logo.svg" /></a>
                 </div>
                 <div class="menu-close-btn">
                     <i class="bi bi-x"></i>
