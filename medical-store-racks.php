@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Heavy store Rack by Kirana Racks | High-Capacity Shelving</title>
+  <title>Medical Store Kirana Racks | Pharmacy Shelving Solutions</title>
   <meta name="description"
     content="meta description">
   <meta name="keywords"
@@ -13,7 +13,7 @@
 
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="Heavy store Rack by Kirana Racks | High-Capacity Shelving">
+  <meta property="og:title" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
     content="meta description">
@@ -22,12 +22,12 @@
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com">
-  <meta name="twitter:title" content="Heavy store Rack by Kirana Racks | High-Capacity Shelving">
+  <meta name="twitter:title" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
     content="meta description">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <meta itemprop="name" content="Heavy store Rack by Kirana Racks | High-Capacity Shelving">
+  <meta itemprop="name" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
     content="meta description">

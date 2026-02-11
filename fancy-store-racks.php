@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>meta title</title>
+  <title>Custom Fancy Store Kirana Racks | Elegant Retail Display India</title>
   <meta name="description"
     content="meta description">
   <meta name="keywords"
@@ -13,7 +13,7 @@
 
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="meta title">
+  <meta property="og:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
     content="meta description">
@@ -22,12 +22,12 @@
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com">
-  <meta name="twitter:title" content="meta title">
+  <meta name="twitter:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
     content="meta description">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <meta itemprop="name" content="meta title">
+  <meta itemprop="name" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
     content="meta description">
