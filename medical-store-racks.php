@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
-  <meta property="og:url" content="https://.kiranaracks.com/medical-store-racks">
+  <meta property="og:url" content="https://kiranaracks.com/medical-store-racks">
   <meta property="og:description"
     content="Explore medical store racks  — strong, space efficient racks designed to organize medicines, supplies and healthcare items. Browse designs at Kirana Racks.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -23,16 +23,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/medical-store-racks">
   <meta name="twitter:title" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
-  <meta name="twitter:url" content="https://.kiranaracks.com/medical-store-racks">
+  <meta name="twitter:url" content="https://kiranaracks.com/medical-store-racks">
   <meta name="twitter:description"
     content="Explore medical store racks  — strong, space efficient racks designed to organize medicines, supplies and healthcare items. Browse designs at Kirana Racks.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Medical Store Kirana Racks | Pharmacy Shelving Solutions">
-  <meta itemprop="url" content="https://.kiranaracks.com/medical-store-racks">
+  <meta itemprop="url" content="https://kiranaracks.com/medical-store-racks">
   <meta itemprop="description"
     content="Explore medical store racks  — strong, space efficient racks designed to organize medicines, supplies and healthcare items. Browse designs at Kirana Racks.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://.kiranaracks.com/medical-store-racks">
+  <link rel="canonical" href="https://kiranaracks.com/medical-store-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Shoe Display & Footwear Kirana Racks | Organized Shelving">
-  <meta property="og:url" content="https://.kiranaracks.com/footwear-racks">
+  <meta property="og:url" content="https://kiranaracks.com/footwear-racks">
   <meta property="og:description"
     content="Shop custom footwear racks — high-quality shelving used to display shoes in a spectacular fashion. Contact Kirana Racks for a quote and customized options.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/footwear-racks">
   <meta name="twitter:title" content="Shoe Display & Footwear Kirana Racks | Organized Shelving">
-  <meta name="twitter:url" content="https://.kiranaracks.com/footwear-racks">
+  <meta name="twitter:url" content="https://kiranaracks.com/footwear-racks">
   <meta name="twitter:description"
     content="Shop custom footwear racks — high-quality shelving used to display shoes in a spectacular fashion. Contact Kirana Racks for a quote and customized options.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Shoe Display & Footwear Kirana Racks | Organized Shelving">
-  <meta itemprop="url" content="https://.kiranaracks.com/footwear-racks">
+  <meta itemprop="url" content="https://kiranaracks.com/footwear-racks">
   <meta itemprop="description"
     content="Shop custom footwear racks — high-quality shelving used to display shoes in a spectacular fashion. Contact Kirana Racks for a quote and customized options.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://.kiranaracks.com/footwear-racks">
+  <link rel="canonical" href="https://kiranaracks.com/footwear-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

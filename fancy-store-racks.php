@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
-  <meta property="og:url" content="https://.kiranaracks.com/fancy-store-racks">
+  <meta property="og:url" content="https://kiranaracks.com/fancy-store-racks">
   <meta property="og:description"
     content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -23,16 +23,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/fancy-store-racks">
   <meta name="twitter:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
-  <meta name="twitter:url" content="https://.kiranaracks.com/fancy-store-racks">
+  <meta name="twitter:url" content="https://kiranaracks.com/fancy-store-racks">
   <meta name="twitter:description"
     content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
-  <meta itemprop="url" content="https://.kiranaracks.com/fancy-store-racks">
+  <meta itemprop="url" content="https://kiranaracks.com/fancy-store-racks">
   <meta itemprop="description"
     content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://.kiranaracks.com/fancy-store-racks">
+  <link rel="canonical" href="https://kiranaracks.com/fancy-store-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

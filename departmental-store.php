@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Departmental Store Shelving | Smart Display by Kirana Racks">
-  <meta property="og:url" content="https://.kiranaracks.com/departmental-store">
+  <meta property="og:url" content="https://kiranaracks.com/departmental-store">
   <meta property="og:description"
     content="Discover departmental store racks - durable, space saving and display shelving that will promote store layout and product visibility. Visit Kirana Racks now.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/departmental-store">
   <meta name="twitter:title" content="Departmental Store Shelving | Smart Display by Kirana Racks">
-  <meta name="twitter:url" content="https://.kiranaracks.com/departmental-store">
+  <meta name="twitter:url" content="https://kiranaracks.com/departmental-store">
   <meta name="twitter:description"
     content="Discover departmental store racks - durable, space saving and display shelving that will promote store layout and product visibility. Visit Kirana Racks now.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Departmental Store Shelving | Smart Display by Kirana Racks">
-  <meta itemprop="url" content="https://.kiranaracks.com/departmental-store">
+  <meta itemprop="url" content="https://kiranaracks.com/departmental-store">
   <meta itemprop="description"
     content="Discover departmental store racks - durable, space saving and display shelving that will promote store layout and product visibility. Visit Kirana Racks now.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://.kiranaracks.com/departmental-store">
+  <link rel="canonical" href="https://kiranaracks.com/departmental-store">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

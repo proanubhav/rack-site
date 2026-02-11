@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Custom Display Racks | High-Quality Shelving by Kirana Racks">
-  <meta property="og:url" content="https://.kiranaracks.com/display-racks">
+  <meta property="og:url" content="https://kiranaracks.com/display-racks">
   <meta property="og:description"
     content="Browse retail display racks - flexible yet durable shelves designed to display products and improve store experience. Contact Kirana Racks for suitable options.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/display-racks">
   <meta name="twitter:title" content="Custom Display Racks | High-Quality Shelving by Kirana Racks">
-  <meta name="twitter:url" content="https://.kiranaracks.com/display-racks">
+  <meta name="twitter:url" content="https://kiranaracks.com/display-racks">
   <meta name="twitter:description"
     content="Browse retail display racks - flexible yet durable shelves designed to display products and improve store experience. Contact Kirana Racks for suitable options.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Custom Display Racks | High-Quality Shelving by Kirana Racks">
-  <meta itemprop="url" content="https://.kiranaracks.com/display-racks">
+  <meta itemprop="url" content="https://kiranaracks.com/display-racks">
   <meta itemprop="description"
     content="Browse retail display racks - flexible yet durable shelves designed to display products and improve store experience. Contact Kirana Racks for suitable options.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://.kiranaracks.com/display-racks">
+  <link rel="canonical" href="https://kiranaracks.com/display-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
