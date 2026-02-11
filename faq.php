@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Kirana Racks Frequently Asked Questions | Customer Support">
-  <meta property="og:url" content="https://www.kiranaracks.com/faq">
+  <meta property="og:url" content="https://.kiranaracks.com/faq">
   <meta property="og:description"
     content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/faq">
   <meta name="twitter:title" content="Kirana Racks Frequently Asked Questions | Customer Support">
-  <meta name="twitter:url" content="https://www.kiranaracks.com/faq">
+  <meta name="twitter:url" content="https://.kiranaracks.com/faq">
   <meta name="twitter:description"
     content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Kirana Racks Frequently Asked Questions | Customer Support">
-  <meta itemprop="url" content="https://www.kiranaracks.com/faq">
+  <meta itemprop="url" content="https://.kiranaracks.com/faq">
   <meta itemprop="description"
     content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com/faq">
+  <link rel="canonical" href="https://.kiranaracks.com/faq">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

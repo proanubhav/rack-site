@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Quality Supermarket & Retail Racks | Kirana Racks India">
-  <meta property="og:url" content="https://www.kiranaracks.com">
+  <meta property="og:url" content="https://.kiranaracks.com">
   <meta property="og:description"
     content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -23,16 +23,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com">
   <meta name="twitter:title" content="Quality Supermarket & Retail Racks | Kirana Racks India">
-  <meta name="twitter:url" content="https://www.kiranaracks.com">
+  <meta name="twitter:url" content="https://.kiranaracks.com">
   <meta name="twitter:description"
     content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Quality Supermarket & Retail Racks | Kirana Racks India">
-  <meta itemprop="url" content="https://www.kiranaracks.com">
+  <meta itemprop="url" content="https://.kiranaracks.com">
   <meta itemprop="description"
     content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com">
+  <link rel="canonical" href="https://.kiranaracks.com">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

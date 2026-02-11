@@ -12,7 +12,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Supermarket Display Racks | Kirana Racks Solutions">
-  <meta property="og:url" content="https://www.kiranaracks.com/supermarket-racks">
+  <meta property="og:url" content="https://.kiranaracks.com/supermarket-racks">
   <meta property="og:description"
     content="In need for supermarket display racks - bespoke solutions for both grocery and retail outlets. Connect with Kirana Racks to improve your store layout.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -21,16 +21,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/supermarket-racks">
   <meta name="twitter:title" content="Supermarket Display Racks | Kirana Racks Solutions">
-  <meta name="twitter:url" content="https://www.kiranaracks.com/supermarket-racks">
+  <meta name="twitter:url" content="https://.kiranaracks.com/supermarket-racks">
   <meta name="twitter:description"
     content="In need for supermarket display racks - bespoke solutions for both grocery and retail outlets. Connect with Kirana Racks to improve your store layout.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Supermarket Display Racks | Kirana Racks Solutions">
-  <meta itemprop="url" content="https://www.kiranaracks.com/supermarket-racks">
+  <meta itemprop="url" content="https://.kiranaracks.com/supermarket-racks">
   <meta itemprop="description"
     content="In need for supermarket display racks - bespoke solutions for both grocery and retail outlets. Connect with Kirana Racks to improve your store layout.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com/supermarket-racks">
+  <link rel="canonical" href="https://.kiranaracks.com/supermarket-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

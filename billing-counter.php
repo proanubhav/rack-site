@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Retail Billing Counters & Checkout Units | Kirana Racks">
-  <meta property="og:url" content="https://www.kiranaracks.com/billing-counter">
+  <meta property="og:url" content="https://.kiranaracks.com/billing-counter">
   <meta property="og:description"
     content="Find retail billing counters - optimizing space, lifespan and checkout at supermarkets and kirana stores. Contact Kirana Racks today for customized solutions.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/billing-counter">
   <meta name="twitter:title" content="Retail Billing Counters & Checkout Units | Kirana Racks">
-  <meta name="twitter:url" content="https://www.kiranaracks.com/billing-counter">
+  <meta name="twitter:url" content="https://.kiranaracks.com/billing-counter">
   <meta name="twitter:description"
     content="Find retail billing counters - optimizing space, lifespan and checkout at supermarkets and kirana stores. Contact Kirana Racks today for customized solutions.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Retail Billing Counters & Checkout Units | Kirana Racks">
-  <meta itemprop="url" content="https://www.kiranaracks.com/billing-counter">
+  <meta itemprop="url" content="https://.kiranaracks.com/billing-counter">
   <meta itemprop="description"
     content="Find retail billing counters - optimizing space, lifespan and checkout at supermarkets and kirana stores. Contact Kirana Racks today for customized solutions.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com/billing-counter">
+  <link rel="canonical" href="https://.kiranaracks.com/billing-counter">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

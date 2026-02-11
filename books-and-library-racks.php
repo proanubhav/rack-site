@@ -13,7 +13,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Library Shelving & Book Display Kirana Racks | Durable Units">
-  <meta property="og:url" content="https://www.kiranaracks.com/books-and-library-racks">
+  <meta property="og:url" content="https://.kiranaracks.com/books-and-library-racks">
   <meta property="og:description"
     content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -22,16 +22,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/books-and-library-racks">
   <meta name="twitter:title" content="Library Shelving & Book Display Kirana Racks | Durable Units">
-  <meta name="twitter:url" content="https://www.kiranaracks.com/books-and-library-racks">
+  <meta name="twitter:url" content="https://.kiranaracks.com/books-and-library-racks">
   <meta name="twitter:description"
     content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Library Shelving & Book Display Kirana Racks | Durable Units">
-  <meta itemprop="url" content="https://www.kiranaracks.com/books-and-library-racks">
+  <meta itemprop="url" content="https://.kiranaracks.com/books-and-library-racks">
   <meta itemprop="description"
     content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com/books-and-library-racks">
+  <link rel="canonical" href="https://.kiranaracks.com/books-and-library-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

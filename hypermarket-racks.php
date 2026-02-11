@@ -14,7 +14,7 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
-  <meta property="og:url" content="https://www.kiranaracks.com/hypermarket-racks">
+  <meta property="og:url" content="https://.kiranaracks.com/hypermarket-racks">
   <meta property="og:description"
     content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
@@ -23,16 +23,16 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com/hypermarket-racks">
   <meta name="twitter:title" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
-  <meta name="twitter:url" content="https://www.kiranaracks.com/hypermarket-racks">
+  <meta name="twitter:url" content="https://.kiranaracks.com/hypermarket-racks">
   <meta name="twitter:description"
     content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
-  <meta itemprop="url" content="https://www.kiranaracks.com/hypermarket-racks">
+  <meta itemprop="url" content="https://.kiranaracks.com/hypermarket-racks">
   <meta itemprop="description"
     content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com/hypermarket-racks">
+  <link rel="canonical" href="https://.kiranaracks.com/hypermarket-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
