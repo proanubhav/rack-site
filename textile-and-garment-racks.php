@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Garment Display & Textile Kirana Racks | Store Shelving Units</title>
   <meta name="description"
-    content="meta description">
+    content="Explore the textile and garment racks — strong, trendy shelves for clothing stores and boutiques to organize & easily access the products. Visit Kirana Racks.">
   <meta name="keywords"
     content="">
 
@@ -15,7 +15,7 @@
   <meta property="og:title" content="Garment Display & Textile Kirana Racks | Store Shelving Units">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Explore the textile and garment racks — strong, trendy shelves for clothing stores and boutiques to organize & easily access the products. Visit Kirana Racks.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -24,12 +24,12 @@
   <meta name="twitter:title" content="Garment Display & Textile Kirana Racks | Store Shelving Units">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Explore the textile and garment racks — strong, trendy shelves for clothing stores and boutiques to organize & easily access the products. Visit Kirana Racks.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Garment Display & Textile Kirana Racks | Store Shelving Units">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Explore the textile and garment racks — strong, trendy shelves for clothing stores and boutiques to organize & easily access the products. Visit Kirana Racks.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

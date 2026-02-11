@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Custom Shelving Components for Kirana Retail Racks</title>
   <meta name="description"
-    content="meta description">
+    content="Browse through custom racks and accessories - handy shelving systems of supermarkets, kirana stores and super shops. Contact Kirana Racks for details.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Custom Shelving Components for Kirana Retail Racks">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Browse through custom racks and accessories - handy shelving systems of supermarkets, kirana stores and super shops. Contact Kirana Racks for details.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Custom Shelving Components for Kirana Retail Racks">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Browse through custom racks and accessories - handy shelving systems of supermarkets, kirana stores and super shops. Contact Kirana Racks for details.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Custom Shelving Components for Kirana Retail Racks">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Browse through custom racks and accessories - handy shelving systems of supermarkets, kirana stores and super shops. Contact Kirana Racks for details.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

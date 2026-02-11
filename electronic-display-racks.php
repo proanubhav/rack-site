@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Electronic Display Kirana Racks | Retail Shelving for Gadgets</title>
   <meta name="description"
-    content="meta description">
+    content="Shop custom electronic display racks — high quality shelf system used to feature electronics and accessories. Contact Kirana Racks for a quote today.">
   <meta name="keywords"
     content="">
 
@@ -15,7 +15,7 @@
   <meta property="og:title" content="Electronic Display Kirana Racks | Retail Shelving for Gadgets">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Shop custom electronic display racks — high quality shelf system used to feature electronics and accessories. Contact Kirana Racks for a quote today.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -24,12 +24,12 @@
   <meta name="twitter:title" content="Electronic Display Kirana Racks | Retail Shelving for Gadgets">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Shop custom electronic display racks — high quality shelf system used to feature electronics and accessories. Contact Kirana Racks for a quote today.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Electronic Display Kirana Racks | Retail Shelving for Gadgets">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Shop custom electronic display racks — high quality shelf system used to feature electronics and accessories. Contact Kirana Racks for a quote today.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

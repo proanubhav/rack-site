@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Contact Kirana Racks | Retail & Supermarket Rack Solutions</title>
   <meta name="description"
-    content="meta description">
+    content="Need a quote or have questions regarding retail shelving, display or storage racks? Contact Kirana Racks - we are there to guide you through">
   <meta name="keywords"
     content="">
 
@@ -14,7 +14,7 @@
   <meta property="og:title" content="Contact Kirana Racks | Retail & Supermarket Rack Solutions">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Need a quote or have questions regarding retail shelving, display or storage racks? Contact Kirana Racks - we are there to guide you through">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -23,12 +23,12 @@
   <meta name="twitter:title" content="Contact Kirana Racks | Retail & Supermarket Rack Solutions">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Need a quote or have questions regarding retail shelving, display or storage racks? Contact Kirana Racks - we are there to guide you through">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Contact Kirana Racks | Retail & Supermarket Rack Solutions">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Need a quote or have questions regarding retail shelving, display or storage racks? Contact Kirana Racks - we are there to guide you through">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

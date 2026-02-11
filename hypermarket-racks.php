@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Hypermarket Racks by Kirana Racks | Retail Solutions India</title>
   <meta name="description"
-    content="meta description">
+    content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Hypermarket Racks by Kirana Racks | Retail Solutions India">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Shop custom hypermarket racks - heavyweight, high-performance store shelf racks suitable to large stores in retail & grocery segments. Contact Kirana Racks now.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

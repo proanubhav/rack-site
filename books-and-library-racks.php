@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Library Shelving & Book Display Kirana Racks | Durable Units</title>
   <meta name="description"
-    content="meta description">
+    content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta name="keywords"
     content="">
 
@@ -15,7 +15,7 @@
   <meta property="og:title" content="Library Shelving & Book Display Kirana Racks | Durable Units">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -24,12 +24,12 @@
   <meta name="twitter:title" content="Library Shelving & Book Display Kirana Racks | Durable Units">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Library Shelving & Book Display Kirana Racks | Durable Units">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Find books and library shelves - clever space saving shelving to make collections neat, out in reach and to browse easily. Contact Kirana Racks for details.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Durable Glass counters by Kirana Racks for Retail Stores</title>
   <meta name="description"
-    content="meta description">
+    content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Durable Glass counters by Kirana Racks for Retail Stores">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Durable Glass counters by Kirana Racks for Retail Stores">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Durable Glass counters by Kirana Racks for Retail Stores">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

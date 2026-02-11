@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Custom Fancy Store Kirana Racks | Elegant Retail Display India</title>
   <meta name="description"
-    content="meta description">
+    content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Custom Fancy Store Kirana Racks | Elegant Retail Display India">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Install fancy store racks  — beautiful, high-quality shelving to display goods in a beautiful way. Get designs and quotations. Contact Kirana Racks today.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

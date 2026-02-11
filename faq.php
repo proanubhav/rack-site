@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kirana Racks Frequently Asked Questions | Customer Support</title>
   <meta name="description"
-    content="meta description">
+    content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta name="keywords"
     content="">
 
@@ -15,7 +15,7 @@
   <meta property="og:title" content="Kirana Racks Frequently Asked Questions | Customer Support">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -24,12 +24,12 @@
   <meta name="twitter:title" content="Kirana Racks Frequently Asked Questions | Customer Support">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Kirana Racks Frequently Asked Questions | Customer Support">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Need information about display products, customization or ordering? Find answers to the most popular FAQs at Kirana Racks to select suitable shelf solutions.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

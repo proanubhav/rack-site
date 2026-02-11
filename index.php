@@ -7,7 +7,7 @@
   
   <title>Quality Supermarket & Retail Racks | Kirana Racks India</title>
   <meta name="description"
-    content="meta description">
+    content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Quality Supermarket & Retail Racks | Kirana Racks India">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Quality Supermarket & Retail Racks | Kirana Racks India">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Quality Supermarket & Retail Racks | Kirana Racks India">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Looking for quality display racks? Get kirana racks for your kirana stores, malls and warehouses in India. Contact Kirana Racks for customized solutions.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 

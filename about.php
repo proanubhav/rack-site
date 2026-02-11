@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Kirana Racks – About Us | Trusted Retail Rack Manufacturer</title>
   <meta name="description"
-    content="meta description">
+    content="Get to know the makers of personalized supermarket display and retails rack shelving made to lodge durability. Trust Kirana Racks for your storage needs.">
   <meta name="keywords"
     content="">
 
@@ -16,7 +16,7 @@
   <meta property="og:title" content="Kirana Racks – About Us | Trusted Retail Rack Manufacturer">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
-    content="meta description">
+    content="Get to know the makers of personalized supermarket display and retails rack shelving made to lodge durability. Trust Kirana Racks for your storage needs.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
@@ -25,12 +25,12 @@
   <meta name="twitter:title" content="Kirana Racks – About Us | Trusted Retail Rack Manufacturer">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
-    content="meta description">
+    content="Get to know the makers of personalized supermarket display and retails rack shelving made to lodge durability. Trust Kirana Racks for your storage needs.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Kirana Racks – About Us | Trusted Retail Rack Manufacturer">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
-    content="meta description">
+    content="Get to know the makers of personalized supermarket display and retails rack shelving made to lodge durability. Trust Kirana Racks for your storage needs.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <link rel="canonical" href="https://www.kiranaracks.com">
 
