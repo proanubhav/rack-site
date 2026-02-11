@@ -53,7 +53,7 @@
                         <div class="banner-content">
                             <h1>Contact Us</h1>
                             <ul class="breadcrumb-list">
-                                <li><a href="index">Home</a></li>
+                                <li><a href="https://kiranaracks.com">Home</a></li>
                                 <li>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -191,7 +191,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="cdn-cgi/l/email-protection#abc2c5cdc4ebced3cac6dbc7ce85c8c4c6"><span class="__cf_email__" data-cfemail="3f565159507f5a475e524f535a115c5052">support@rack.com</span></a>
+                                    <a href="javascript:void(0)"><span class="__cf_email__" data-cfemail="3f565159507f5a475e524f535a115c5052">support@rack.com</span></a>
                                 </li>
                                 <li>
                                     <div class="icon">
@@ -202,7 +202,7 @@
                                                 fill="#F84E1D" fill-opacity="0.7" />
                                         </svg>
                                     </div>
-                                    <a href="cdn-cgi/l/email-protection#345c5158585b74514c55594458511a575b59"><span class="__cf_email__" data-cfemail="0b636e6767644b6e736a667b676e25686466">support@rack.in</span></a>
+                                    <a href="javascript:void(0)"><span class="__cf_email__" data-cfemail="0b636e6767644b6e736a667b676e25686466">support@rack.in</span></a>
                                 </li>
                             </ul>
                         </div>

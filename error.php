@@ -21,7 +21,7 @@
                         <h3>Sorry! We Can't Find That Page.</h3>
                         <p>OPPS! Something went wrong, web page that is displayed to the user when the server cannot
                             find the requested page.</p>
-                        <a href="index" class="primary-btn1">Back To Home page</a>
+                        <a href="https://kiranaracks.com" class="primary-btn1">Back To Home page</a>
                     </div>
                 </div>
             </div>

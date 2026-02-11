@@ -53,7 +53,7 @@
                         <div class="banner-content">
                             <h1>Service Details</h1>
                             <ul class="breadcrumb-list">
-                                <li><a href="index">Home</a></li>
+                                <li><a href="https://kiranaracks.com">Home</a></li>
                                 <li>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
