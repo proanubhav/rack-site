@@ -14,25 +14,25 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Durable Glass counters by Kirana Racks for Retail Stores">
-  <meta property="og:url" content="https://www.kiranaracks.com">
+  <meta property="og:url" content="https://www.kiranaracks.com/glass-counter">
   <meta property="og:description"
     content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:domain" content="www.kiranaracks.com">
+  <meta name="twitter:domain" content="www.kiranaracks.com/glass-counter">
   <meta name="twitter:title" content="Durable Glass counters by Kirana Racks for Retail Stores">
-  <meta name="twitter:url" content="https://www.kiranaracks.com">
+  <meta name="twitter:url" content="https://www.kiranaracks.com/glass-counter">
   <meta name="twitter:description"
     content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Durable Glass counters by Kirana Racks for Retail Stores">
-  <meta itemprop="url" content="https://www.kiranaracks.com">
+  <meta itemprop="url" content="https://www.kiranaracks.com/glass-counter">
   <meta itemprop="description"
     content="Learn about durable glass counters - elegant, sound showcase racks perfect for retail outlets and boutiques to display their goods safely. Visit Kirana Racks.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com">
+  <link rel="canonical" href="https://www.kiranaracks.com/glass-counter">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">

@@ -13,25 +13,25 @@
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
   <meta property="og:title" content="Custom Bag Kirana Racks | Stylish Display Solutions India">
-  <meta property="og:url" content="https://www.kiranaracks.com">
+  <meta property="og:url" content="https://www.kiranaracks.com/bag-racks">
   <meta property="og:description"
     content="Browse custom bag racks for retail stores and warehouses - high end shelving to display bags and accessories in stores. Contact Kirana Racks for design & quote.">
   <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta property="og:image:alt" content="Kirana Racks">
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:domain" content="www.kiranaracks.com">
+  <meta name="twitter:domain" content="www.kiranaracks.com/bag-racks">
   <meta name="twitter:title" content="Custom Bag Kirana Racks | Stylish Display Solutions India">
-  <meta name="twitter:url" content="https://www.kiranaracks.com">
+  <meta name="twitter:url" content="https://www.kiranaracks.com/bag-racks">
   <meta name="twitter:description"
     content="Browse custom bag racks for retail stores and warehouses - high end shelving to display bags and accessories in stores. Contact Kirana Racks for design & quote.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
   <meta itemprop="name" content="Custom Bag Kirana Racks | Stylish Display Solutions India">
-  <meta itemprop="url" content="https://www.kiranaracks.com">
+  <meta itemprop="url" content="https://www.kiranaracks.com/bag-racks">
   <meta itemprop="description"
     content="Browse custom bag racks for retail stores and warehouses - high end shelving to display bags and accessories in stores. Contact Kirana Racks for design & quote.">
   <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <link rel="canonical" href="https://www.kiranaracks.com">
+  <link rel="canonical" href="https://www.kiranaracks.com/bag-racks">
 
   <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
   <meta name="robots" content="index, follow">
