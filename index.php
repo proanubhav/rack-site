@@ -1,10 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>meta title</title>
+  <meta name="description"
+    content="meta description">
+  <meta name="keywords"
+    content="">
+
+  <meta property="og:site_name" content="Kirana Racks">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="meta title">
+  <meta property="og:url" content="https://www.kiranaracks.com">
+  <meta property="og:description"
+    content="meta description">
+  <meta property="og:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
+  <meta property="og:image:alt" content="Kirana Racks">
+  <meta property="og:type" content="service">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:domain" content="www.kiranaracks.com">
+  <meta name="twitter:title" content="meta title">
+  <meta name="twitter:url" content="https://www.kiranaracks.com">
+  <meta name="twitter:description"
+    content="meta description">
+  <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
+  <meta itemprop="name" content="meta description">
+  <meta itemprop="url" content="https://www.kiranaracks.com">
+  <meta itemprop="description"
+    content="meta description">
+  <meta itemprop="image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
+  <link rel="canonical" href="https://www.kiranaracks.com">
+
+  <link rel="icon" href="./assets/image/kirana-racks-favicon.svg" sizes="16x16" type="image/png">
+  <meta name="robots" content="index, follow">
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="pragma" content="no-cache" />
+
   <?php include 'common/css.php'; ?>
 </head>
 
@@ -26,7 +61,7 @@
     <p>Kirana Racks delivers durable, space-saving supermarket racks and retail storage solutions designed for modern stores.</p>
     <p>Kirana Racks brings you high-quality supermarket racks built for strength, style, and smarter merchandising.</p>
     <p>South India’s trusted supermarket racks manufacturer for durable and modern storage solutions.</p>
-    <a href="shop-list.php" class="primary-btn1">Explore Racking Solutions</a>
+    <a href="shop-list" class="primary-btn1">Explore Racking Solutions</a>
   </div>
 
   <div class="right-side-area">
@@ -72,7 +107,7 @@
            <p>At Kirana Racks, we understand that no two businesses are the same. That’s why we offer customised racking solutions—designed to maximise space, improve product visibility, and enhance your store’s efficiency. With a focus on affordability, robustness, and precision, we deliver storage systems that help businesses organise better and grow faster.</p>
            
 </div>
-              <a href="shop-list.php" class="primary-btn1 secondary-btn">Explore Services</a>
+              <a href="shop-list" class="primary-btn1 secondary-btn">Explore Services</a>
             </div>
           </div>
         </div>
@@ -99,7 +134,7 @@
       </div>
     </div>
     <div class="green-container-image wow animate fadeInDown" data-wow-delay="200ms" data-wow-duration="1500ms">
-      <img src="assets/image/banner-img/green-container.php" alt="">
+      <img src="assets/image/banner-img/green-container" alt="">
     </div>
     <div class="car-shape">
       <img src="assets/image/banner-img/about-us-one-shape.png" alt="">
@@ -160,12 +195,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>01.</span>
-                                                    <h4><a href="supermarket-racks.php">SUPERMARKET RACKS</a></h4>
+                                                    <h4><a href="supermarket-racks">SUPERMARKET RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a supermarket racks.</p>
-                                                    <a href="supermarket-racks.php" class="view-btn-two">
+                                                    <a href="supermarket-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -234,12 +269,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>02.</span>
-                                                    <h4><a href="fruits-and-vegetable-racks.php">FRUITS & VEGETABLES RACKS</a></h4>
+                                                    <h4><a href="fruits-and-vegetable-racks">FRUITS & VEGETABLES RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a fruits and vegetable racks.</p>
-                                                    <a href="fruits-and-vegetable-racks.php" class="view-btn-two">
+                                                    <a href="fruits-and-vegetable-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -275,12 +310,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>03.</span>
-                                                    <h4><a href="medical-store-racks.php">MEDICAL STORE RACKS</a></h4>
+                                                    <h4><a href="medical-store-racks">MEDICAL STORE RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a medical racks.</p>
-                                                    <a href="medical-store-racks.php" class="view-btn-two">
+                                                    <a href="medical-store-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -322,12 +357,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>04.</span>
-                                                    <h4><a href="textile-and-garment-racks.php">TEXTILE & GARMENT RACKS</a></h4>
+                                                    <h4><a href="textile-and-garment-racks">TEXTILE & GARMENT RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a textile and garment racks.</p>
-                                                    <a href="textile-and-garment-racks.php" class="view-btn-two">
+                                                    <a href="textile-and-garment-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -396,12 +431,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>05.</span>
-                                                    <h4><a href="heavy-duty-racks.php">INDUSTRIAL RACKS</a></h4>
+                                                    <h4><a href="heavy-duty-racks">INDUSTRIAL RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a industrial racks.</p>
-                                                    <a href="heavy-duty-racks.php" class="view-btn-two">
+                                                    <a href="heavy-duty-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"
@@ -437,12 +472,12 @@
                                             <div class="service-content">
                                                 <div class="number-and-title">
                                                     <span>06.</span>
-                                                    <h4><a href="electronic-display-racks.php">ELECTRONIC DISPLAY RACKS</a></h4>
+                                                    <h4><a href="electronic-display-racks">ELECTRONIC DISPLAY RACKS</a></h4>
                                                 </div>
                                                 <div class="hidden-content">
                                                     <p>Racks Indiaa are working in the industry as the manufacturer and
                                                         supplier of a electronic display racks.</p>
-                                                    <a href="electronic-display-racks.php" class="view-btn-two">
+                                                    <a href="electronic-display-racks" class="view-btn-two">
                                                         View Details
                                                         <div class="icon">
                                                             <svg width="8" height="8" viewBox="0 0 8 8" fill="none"

@@ -21,7 +21,7 @@
                         <div class="banner-content">
                             <h1>About Us</h1>
                             <ul class="breadcrumb-list">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index">Home</a></li>
                                 <li>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -114,7 +114,7 @@
                             </div>
 
                         </div>
-                        <a href="shop-list.php" class="primary-btn1 secondary-btn">Learn More</a>
+                        <a href="shop-list" class="primary-btn1 secondary-btn">Learn More</a>
                     </div>
                 </div>
             </div>

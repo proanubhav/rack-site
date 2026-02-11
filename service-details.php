@@ -19,7 +19,7 @@
                         <div class="banner-content">
                             <h1>Service Details</h1>
                             <ul class="breadcrumb-list">
-                                <li><a href="index.php">Home</a></li>
+                                <li><a href="index">Home</a></li>
                                 <li>
                                     <svg width="21" height="21" viewBox="0 0 21 21" fill="none"
                                         xmlns="http://www.w3.org/2000/svg">
@@ -197,7 +197,7 @@
                                     <ul>
                                         <li>
                                             <span>Ocean Cargo</span>
-                                            <a href="service-details.php">
+                                            <a href="service-details">
                                                 <div class="icon">
                                                     <svg width="9" height="9" viewBox="0 0 9 9" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -210,7 +210,7 @@
                                         </li>
                                         <li>
                                             <span>Road Cargo</span>
-                                            <a href="service-details.php">
+                                            <a href="service-details">
                                                 <div class="icon">
                                                     <svg width="9" height="9" viewBox="0 0 9 9" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -223,7 +223,7 @@
                                         </li>
                                         <li>
                                             <span>Rail Cargo</span>
-                                            <a href="service-details.php">
+                                            <a href="service-details">
                                                 <div class="icon">
                                                     <svg width="9" height="9" viewBox="0 0 9 9" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -236,7 +236,7 @@
                                         </li>
                                         <li>
                                             <span>Warehousing</span>
-                                            <a href="service-details.php">
+                                            <a href="service-details">
                                                 <div class="icon">
                                                     <svg width="9" height="9" viewBox="0 0 9 9" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -249,7 +249,7 @@
                                         </li>
                                         <li>
                                             <span>Distribution</span>
-                                            <a href="service-details.php">
+                                            <a href="service-details">
                                                 <div class="icon">
                                                     <svg width="9" height="9" viewBox="0 0 9 9" fill="none"
                                                         xmlns="http://www.w3.org/2000/svg">
@@ -269,7 +269,7 @@
                                     </div>
                                     <div class="air-contact-info">
                                         <h4>Get a quote for fast And hassle free logistics! </h4>
-                                        <a href="contact.php" class="primary-btn1 contact-btn">Contact Us</a>
+                                        <a href="contact" class="primary-btn1 contact-btn">Contact Us</a>
                                     </div>
                                 </div>
                             </div>

@@ -60,12 +60,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about1.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">01. Rack Design & Consultation</a>
+                                <a href="service-details">01. Rack Design & Consultation</a>
                             </h5>
                             <p>Expert store layout planning and custom rack design to suit your business needs.</p>
                         </div>
@@ -74,12 +74,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about2.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">02. Manufacturing & Fabrication</a>
+                                <a href="service-details">02. Manufacturing & Fabrication</a>
                             </h5>
                             <p>Durable steel racks with powder coating and modular fabrication for long-lasting use.</p>
                         </div>
@@ -88,12 +88,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about3.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">03. Rack Installation Services</a>
+                                <a href="service-details">03. Rack Installation Services</a>
                             </h5>
                             <p>On-site installation, professional fitting, and safety compliance checks.</p>
                         </div>
@@ -102,12 +102,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about3.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">04. Customization & Branding</a>
+                                <a href="service-details">04. Customization & Branding</a>
                             </h5>
                             <p>Customized racks with different sizes, colors, and branding options.</p>
                         </div>
@@ -116,12 +116,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about1.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">05. Maintenance & Repair</a>
+                                <a href="service-details">05. Maintenance & Repair</a>
                             </h5>
                             <p>Rack servicing, repairing, and repainting to keep your setup strong and reliable.</p>
                         </div>
@@ -130,12 +130,12 @@
                 <div class="col-lg-4 wow animate fadeInLeft" data-wow-delay="600ms" data-wow-duration="1500ms">
                     <div class="service-card-two">
                         <div class="service-card-img-wrap">
-                            <a href="service-details.php" class="card-img"><img
+                            <a href="service-details" class="card-img"><img
                                     src="assets/images-rack/about/about2.png" alt="" /></a>
                         </div>
                         <div class="service-card-content">
                             <h5>
-                                <a href="service-details.php">06. Warehousing & Retail Setup</a>
+                                <a href="service-details">06. Warehousing & Retail Setup</a>
                             </h5>
                             <p>End-to-end solutions for supermarket, retail, and warehouse rack installations.</p>
                         </div>

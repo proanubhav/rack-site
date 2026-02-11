@@ -53,12 +53,12 @@
 <header class="header-area style-1">
     <div class="container-fluid p-0 container-custom d-flex flex-nowrap align-items-center justify-content-between">
         <div class="header-logo">
-            <a href="index.php"><img alt="image" class="img-fluid" src="assets/image/kirana-racks-logo.svg" /></a>
+            <a href="index"><img alt="image" class="img-fluid" src="assets/image/kirana-racks-logo.svg" /></a>
         </div>
         <div class="main-menu">
             <div class="mobile-logo-area d-lg-none d-flex justify-content-between">
                 <div class="mobile-logo-wrap">
-                    <a href="index.php"><img alt="image" class="img-fluid"
+                    <a href="index"><img alt="image" class="img-fluid"
                             src="./assets/image/kirana-racks-logo.svg" /></a>
                 </div>
                 <div class="menu-close-btn">
@@ -66,36 +66,36 @@
                 </div>
             </div>
             <ul class="menu-list">
-                <li><a href="index.php" class="drop-down">Home</a></li>
-                <li><a href="about.php" class="drop-down">About</a></li>
+                <li><a href="index" class="drop-down">Home</a></li>
+                <li><a href="about" class="drop-down">About</a></li>
                   <li class="menu-item-has-children">
                     <a href="#" class="drop-down">Retail Racks</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="supermarket-racks.php">Supermarket Racks</a></li>
-                        <li><a href="hypermarket-racks.php">Hypermarket Racks</a></li>
-                        <li><a href="display-racks.php">Display Racks</a></li>
-                        <li><a href="fruits-and-vegetable-racks.php">Fruits &amp; Vegetable Racks</a></li>
-                        <li><a href="billing-counter.php">Billing Counter</a></li>
-                        <li><a href="racks-and-accessories.php">Racks &amp; Accessories</a></li>
-                        <li><a href="glass-counter.php">Glass Counter</a></li>
-                        <li><a href="fancy-store-racks.php">Fancy Store Racks</a></li>
-                        <li><a href="medical-store-racks.php">Medical Store Racks</a></li>
-                        <li><a href="electronic-display-racks.php">Electronic Display Racks</a></li>
-                        <li><a href="textile-and-garment-racks.php">Textile &amp; Garment Racks</a></li>
-                        <li><a href="books-and-library-racks.php">Books &amp; Library Racks</a></li>
-                        <li><a href="bag-racks.php">Bag Racks</a></li>
-                        <li><a href="footwear-racks.php">Footwear Racks</a></li>
-                        <li><a href="departmental-store.php">Departmental Store Racks</a></li>
+                        <li><a href="supermarket-racks">Supermarket Racks</a></li>
+                        <li><a href="hypermarket-racks">Hypermarket Racks</a></li>
+                        <li><a href="display-racks">Display Racks</a></li>
+                        <li><a href="fruits-and-vegetable-racks">Fruits &amp; Vegetable Racks</a></li>
+                        <li><a href="billing-counter">Billing Counter</a></li>
+                        <li><a href="racks-and-accessories">Racks &amp; Accessories</a></li>
+                        <li><a href="glass-counter">Glass Counter</a></li>
+                        <li><a href="fancy-store-racks">Fancy Store Racks</a></li>
+                        <li><a href="medical-store-racks">Medical Store Racks</a></li>
+                        <li><a href="electronic-display-racks">Electronic Display Racks</a></li>
+                        <li><a href="textile-and-garment-racks">Textile &amp; Garment Racks</a></li>
+                        <li><a href="books-and-library-racks">Books &amp; Library Racks</a></li>
+                        <li><a href="bag-racks">Bag Racks</a></li>
+                        <li><a href="footwear-racks">Footwear Racks</a></li>
+                        <li><a href="departmental-store">Departmental Store Racks</a></li>
                     </ul>
                 </li>
                 <li class="menu-item-has-children">
                     <a href="#" class="drop-down">Industrial Racks</a><i class="bi bi-plus dropdown-icon"></i>
                     <ul class="sub-menu">
-                        <li><a href="heavy-duty-racks.php">Heavy Duty Racks</a></li>
-                        <li><a href="medium-duty-racks.php">Medium Duty Racks</a></li>
+                        <li><a href="heavy-duty-racks">Heavy Duty Racks</a></li>
+                        <li><a href="medium-duty-racks">Medium Duty Racks</a></li>
                     </ul>
                 </li>
-                <li><a href="contact.php" class="drop-down">Contact</a></li>
+                <li><a href="contact" class="drop-down">Contact</a></li>
             </ul>
             <div class="btn-area d-lg-none d-flex justify-content-center">
                 <a href="#" class="header-btn">Get Quote</a>
