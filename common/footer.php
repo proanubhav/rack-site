@@ -162,8 +162,7 @@
                 </li>
                 <li>
                   <div class="content">
-                    <a href="tel:9879877123">+91 9879877123</a><br>
-                    <a href="tel:1234567890">+91 1234567890</a>
+                    <a href="tel:9311500482">+91 9311500482</a>
                   </div>
                 </li>
               </ul>
@@ -192,8 +191,7 @@
                 <li>
                   <div class="content two">
                     <a
-                      href="https://www.google.com/maps/place/Egens+Lab/@23.8340712,90.3631117,17z/data=!3m1!4b1!4m6!3m5!1s0x3755c14c8682a473:0xa6c74743d52adb88!8m2!3d23.8340663!4d90.3656866!16s%2Fg%2F11rs9vlwsk?entry=ttu">H
-                      G-7, Near Water Tank, Mansarover Garden, Delhi</a>
+                      href="https://www.google.com/maps/place/Airtel+Store+-+Sec+37+Faridabad/@28.4807485,77.3050879,17z/data=!3m1!4b1!4m6!3m5!1s0x390ce7ba75a69efd:0x5424b452502bab47!8m2!3d28.4807438!4d77.3076628!16s%2Fg%2F11q3cnl4wy?entry=ttu&g_ep=EgoyMDI2MDIwOC4wIKXMDSoASAFQAw%3D%3D">12/2 1st Floor, Sapna Market,  Sector 37 Faridabad, Haryana , 121003</a>
                   </div>
                 </li>
               </ul>
