@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>meta title</title>
+  <title>Heavy Duty Rack by Kirana Racks | High-Capacity Shelving</title>
   <meta name="description"
     content="Find heavy duty racks for storage and heavy industrial shelving. Built to suit warehouses & large retail area. Contact Kirana Racks for wide variety of options.">
   <meta name="keywords"
@@ -13,7 +13,7 @@
 
   <meta property="og:site_name" content="Kirana Racks">
   <meta property="og:locale" content="en_US">
-  <meta property="og:title" content="meta title">
+  <meta property="og:title" content="Heavy Duty Rack by Kirana Racks | High-Capacity Shelving">
   <meta property="og:url" content="https://www.kiranaracks.com">
   <meta property="og:description"
     content="Find heavy duty racks for storage and heavy industrial shelving. Built to suit warehouses & large retail area. Contact Kirana Racks for wide variety of options.">
@@ -22,12 +22,12 @@
   <meta property="og:type" content="service">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:domain" content="www.kiranaracks.com">
-  <meta name="twitter:title" content="meta title">
+  <meta name="twitter:title" content="Heavy Duty Rack by Kirana Racks | High-Capacity Shelving">
   <meta name="twitter:url" content="https://www.kiranaracks.com">
   <meta name="twitter:description"
     content="Find heavy duty racks for storage and heavy industrial shelving. Built to suit warehouses & large retail area. Contact Kirana Racks for wide variety of options.">
   <meta name="twitter:image" content="https://kiranaracks.com/assets/image/kirana-racks-logo.svg">
-  <meta itemprop="name" content="meta title">
+  <meta itemprop="name" content="Heavy Duty Rack by Kirana Racks | High-Capacity Shelving">
   <meta itemprop="url" content="https://www.kiranaracks.com">
   <meta itemprop="description"
     content="Find heavy duty racks for storage and heavy industrial shelving. Built to suit warehouses & large retail area. Contact Kirana Racks for wide variety of options.">

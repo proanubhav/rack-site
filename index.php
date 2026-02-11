@@ -61,7 +61,7 @@
     <p>Kirana Racks delivers durable, space-saving supermarket racks and retail storage solutions designed for modern stores.</p>
     <p>Kirana Racks brings you high-quality supermarket racks built for strength, style, and smarter merchandising.</p>
     <p>South India’s trusted supermarket racks manufacturer for durable and modern storage solutions.</p>
-    <a href="shop-list" class="primary-btn1">Explore Racking Solutions</a>
+    <a href="supermarket-racks" class="primary-btn1">Explore Racking Solutions</a>
   </div>
 
   <div class="right-side-area">
@@ -107,7 +107,7 @@
            <p>At Kirana Racks, we understand that no two businesses are the same. That’s why we offer customised racking solutions—designed to maximise space, improve product visibility, and enhance your store’s efficiency. With a focus on affordability, robustness, and precision, we deliver storage systems that help businesses organise better and grow faster.</p>
            
 </div>
-              <a href="shop-list" class="primary-btn1 secondary-btn">Explore Services</a>
+              <a href="supermarket-racks" class="primary-btn1 secondary-btn">Explore Services</a>
             </div>
           </div>
         </div>

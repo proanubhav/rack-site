@@ -148,7 +148,7 @@
                             </div>
 
                         </div>
-                        <a href="shop-list" class="primary-btn1 secondary-btn">Learn More</a>
+                        <a href="supermarket-racks" class="primary-btn1 secondary-btn">Learn More</a>
                     </div>
                 </div>
             </div>
