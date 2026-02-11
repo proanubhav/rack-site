@@ -37,6 +37,26 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://kiranaracks.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Service Provider",
+      "item": "https://kiranaracks.com/contact"
+    }
+  ]
+}
+</script>
      <?php include 'common/css.php'; ?>
 </head>
 

@@ -17,7 +17,7 @@
   <script src="assets/js/swiper-bundle.min.js"></script>
   <script src="assets/js/jquery.fancybox.min.js"></script>
   <script src="assets/js/jquery.nice-select.min.js"></script>
-  <script src="assets/js/splite-type.min.js"></script>
+  <!-- <script src="assets/js/splite-type.min.js"></script> -->
   <!-- Wow  JS -->
   <script src="assets/js/wow.min.js"></script>
   <!-- gsp  JS -->

@@ -39,7 +39,38 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
-
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Kirana Racks",
+  "url": "https://kiranaracks.com/",
+  "logo": "https://kiranaracks.com/assets/image/kirana-racks-logo.svg",
+  "sameAs": [
+    " https://www.facebook.com/kiranaracks",
+    "https://www.instagram.com/kiranaracks/"
+    "https://www.youtube.com/@kiranaracks"
+    " https://x.com/kiranaracks"
+  ],
+  "contactPoint": [{
+    "@type": "ContactPoint",
+    "telephone": "+91 9311500482",
+    "contactType": "customer support"
+  }]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "url": "https://kiranaracks.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://kiranaracks.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
   <?php include 'common/css.php'; ?>
 </head>
 
