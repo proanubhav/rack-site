@@ -1,3 +1,108 @@
+<?php
+$google_sheets_webapp_url = 'https://script.google.com/macros/s/AKfycbzPTs0LCXWavhDTAwK6HLz7k9a0ovJP0_1w8hP2d4NJqeko0EHx3J33Z0cl7Dh9q2jDGA/exec';
+$sheet_status = null;
+$sheet_error = null;
+$form_values = [
+    'name' => '',
+    'email' => '',
+    'phone' => '',
+    'service_type' => '',
+    'message' => '',
+];
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $form_values['name'] = trim($_POST['name'] ?? '');
+    $form_values['email'] = trim($_POST['email'] ?? '');
+    $form_values['phone'] = trim($_POST['phone'] ?? '');
+    $form_values['service_type'] = trim($_POST['service_type'] ?? '');
+    $form_values['message'] = trim($_POST['message'] ?? '');
+
+    $errors = [];
+    if ($form_values['name'] === '') {
+        $errors[] = 'Name is required.';
+    }
+    if ($form_values['email'] === '' || !filter_var($form_values['email'], FILTER_VALIDATE_EMAIL)) {
+        $errors[] = 'A valid email address is required.';
+    }
+    if ($form_values['service_type'] === '') {
+        $errors[] = 'Service type is required.';
+    }
+
+    if (!$errors) {
+        if ($google_sheets_webapp_url === '') {
+            $errors[] = 'Google Sheets webhook is not configured.';
+        } else {
+            $payload = [
+                'name' => $form_values['name'],
+                'email' => $form_values['email'],
+                'phone' => $form_values['phone'],
+                'service_type' => $form_values['service_type'],
+                'message' => $form_values['message'],
+                'source' => 'contact.php',
+                'submitted_at' => date('c'),
+            ];
+
+            $payload_query = http_build_query($payload);
+            $response_body = null;
+            $http_code = null;
+
+            if (function_exists('curl_init')) {
+                $ch = curl_init($google_sheets_webapp_url);
+                curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+                curl_setopt($ch, CURLOPT_POST, true);
+                curl_setopt($ch, CURLOPT_HTTPHEADER, ['Content-Type: application/x-www-form-urlencoded']);
+                curl_setopt($ch, CURLOPT_POSTFIELDS, $payload_query);
+                curl_setopt($ch, CURLOPT_TIMEOUT, 10);
+                $response_body = curl_exec($ch);
+                $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+                $curl_error = curl_error($ch);
+                /** @noinspection PhpDeprecationInspection */
+                // curl_close($ch);
+
+                if ($response_body === false || $http_code >= 400) {
+                    $errors[] = $curl_error ? 'Failed to send your message. Please try again.' : 'Failed to save your message.';
+                }
+            } else {
+                $context = stream_context_create([
+                    'http' => [
+                        'method' => 'POST',
+                        'header' => "Content-Type: application/x-www-form-urlencoded\r\n",
+                        'content' => $payload_query,
+                        'timeout' => 10,
+                    ],
+                ]);
+                $response_body = @file_get_contents($google_sheets_webapp_url, false, $context);
+                if ($response_body === false) {
+                    $errors[] = 'Failed to send your message. Please try again.';
+                } elseif (isset($http_response_header) && is_array($http_response_header)) {
+                    foreach ($http_response_header as $header_line) {
+                        if (preg_match('/HTTP\\/.+\\s(\\d{3})/', $header_line, $matches)) {
+                            $http_code = (int) $matches[1];
+                            break;
+                        }
+                    }
+                    if ($http_code !== null && $http_code >= 400) {
+                        $errors[] = 'Failed to save your message.';
+                    }
+                }
+            }
+        }
+    }
+
+    if ($errors) {
+        $sheet_error = implode(' ', $errors);
+    } else {
+        $sheet_status = 'Thanks! Your message has been sent.';
+        $form_values = [
+            'name' => '',
+            'email' => '',
+            'phone' => '',
+            'service_type' => '',
+            'message' => '',
+        ];
+    }
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -101,46 +206,65 @@
                         <div class="inquiry-form">
                             <h3>Drop us a Line</h3>
                             <p>Drop us an email and we’ll get back to you within 24hrs…</p>
-                            <form>
+                            <form id="contact-form"
+                                data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
+                                action="<?php echo htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8'); ?>#contact-form"
+                                method="post">
+                                <?php
+                                $status_message = $sheet_status ?: $sheet_error;
+                                $status_class = $sheet_status ? 'alert-success' : ($sheet_error ? 'alert-danger' : 'd-none');
+                                ?>
+                                <div id="contact-form-status" class="alert <?php echo $status_class; ?>" role="alert">
+                                    <?php echo htmlspecialchars($status_message ?? '', ENT_QUOTES, 'UTF-8'); ?>
+                                </div>
+                                <input type="hidden" name="source" value="contact.php" />
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Your Name*</label>
-                                            <input placeholder="Enter Name" type="text" />
+                                            <input name="name" placeholder="Enter Name" type="text" required
+                                                value="<?php echo htmlspecialchars($form_values['name'], ENT_QUOTES, 'UTF-8'); ?>" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Email Address*</label>
-                                            <input placeholder="Enter Email Address" type="email" />
+                                            <input name="email" placeholder="Enter Email Address" type="email" required
+                                                value="<?php echo htmlspecialchars($form_values['email'], ENT_QUOTES, 'UTF-8'); ?>" />
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-inner mb-35">
                                             <label>Phone Number</label>
-                                            <input placeholder="Enter Phone Number" type="text" />
+                                            <input name="phone" placeholder="Enter Phone Number" type="tel"
+                                                value="<?php echo htmlspecialchars($form_values['phone'], ENT_QUOTES, 'UTF-8'); ?>" />
                                         </div>
                                     </div>
                                     <div class="col-md-6 mb-35">
                                         <div class="form-inner">
                                             <label>Service Type*</label>
-                                            <select class="nice-select">
-                                                <option>Supermart</option>
-                                                <option>Retail-Shop</option>
+                                            <select name="service_type" class="nice-select" required>
+                                                <option value="">Select Service</option>
+                                                <option value="Supermart" <?php echo $form_values['service_type'] === 'Supermart' ? 'selected' : ''; ?>>
+                                                    Supermart
+                                                </option>
+                                                <option value="Retail-Shop" <?php echo $form_values['service_type'] === 'Retail-Shop' ? 'selected' : ''; ?>>
+                                                    Retail-Shop
+                                                </option>
                                             </select>
                                         </div>
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-inner mb-40">
                                             <label>Your Message</label>
-                                            <textarea placeholder="Write your message...."></textarea>
+                                            <textarea name="message" placeholder="Write your message...."><?php echo htmlspecialchars($form_values['message'], ENT_QUOTES, 'UTF-8'); ?></textarea>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="form-inner">
-                                    <a class="submit-btn four" data-text="Submit" href="#">
+                                    <button class="submit-btn four" data-text="Submit" type="submit">
                                         Submit
-                                    </a>
+                                    </button>
                                 </div>
                             </form>
                         </div>
