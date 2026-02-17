@@ -750,43 +750,52 @@
       <div class="col-xxl-7 col-lg-6 wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
         <div class="inquiry-form">
           <h3>Request Free Quote</h3>
-          <form>
+          <form data-contact-form="true"
+            data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
+            action="contact.php#contact-form"
+            method="post">
+            <div class="alert d-none" role="alert" data-contact-form-status></div>
+            <input type="hidden" name="source" value="home-page" />
             <div class="row">
               <div class="col-md-6">
                 <div class="form-inner mb-35">
-                  <label>Your Name</label>
-                  <input placeholder="John Doe" type="text" />
+                  <label>Your Name*</label>
+                  <input name="name" placeholder="Enter Name" type="text" required />
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-inner mb-35">
-                  <label>Your Email</label>
-                  <input placeholder="hello@example.com" type="email" />
+                  <label>Email Address*</label>
+                  <input name="email" placeholder="Enter Email Address" type="email" required />
                 </div>
               </div>
-              <div class="col-md-12 mb-35">
+              <div class="col-md-6">
+                <div class="form-inner mb-35">
+                  <label>Phone Number</label>
+                  <input name="phone" placeholder="Enter Phone Number" type="tel" />
+                </div>
+              </div>
+              <div class="col-md-6 mb-35">
                 <div class="form-inner">
-                  <label>Rack Type</label>
-                  <select class="nice-select">
-                    <option>- Please choose an option -</option>
-                    <option>Supermarket Racks</option>
-                    <option>Warehouse Racks</option>
-                    <option>Display Racks</option>
-                    <option>Custom Racks</option>
+                  <label>Service Type*</label>
+                  <select name="service_type" class="nice-select" required>
+                    <option value="">Select Service</option>
+                    <option value="Supermart">Supermart</option>
+                    <option value="Retail-Shop">Retail-Shop</option>
                   </select>
                 </div>
               </div>
               <div class="col-md-12">
                 <div class="form-inner mb-40">
-                  <label>Message</label>
-                  <textarea placeholder="Write your requirements...."></textarea>
+                  <label>Your Message</label>
+                  <textarea name="message" placeholder="Write your message...."></textarea>
                 </div>
               </div>
             </div>
             <div class="form-inner">
-              <a class="submit-btn" data-text="Submit" href="#">
-                <span>Submit Request</span>
-              </a>
+              <button class="submit-btn four" data-text="Submit" type="submit">
+                Submit
+              </button>
             </div>
           </form>
         </div>

@@ -1,3 +1,6 @@
+<?php
+$google_sheets_webapp_url = $google_sheets_webapp_url ?? 'https://script.google.com/macros/s/AKfycbzPTs0LCXWavhDTAwK6HLz7k9a0ovJP0_1w8hP2d4NJqeko0EHx3J33Z0cl7Dh9q2jDGA/exec';
+?>
 <div id="magic-cursor">
     <div id="ball"></div>
 </div>

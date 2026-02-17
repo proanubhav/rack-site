@@ -8,79 +8,86 @@
   };
 
   onReady(() => {
-    const form = document.getElementById("contact-form");
-    if (!form) return;
+    const forms = Array.from(document.querySelectorAll("form[data-contact-form]"));
+    const legacyForm = document.getElementById("contact-form");
+    if (legacyForm && !forms.includes(legacyForm)) {
+      forms.push(legacyForm);
+    }
 
-    const endpoint = form.getAttribute("data-endpoint");
-    if (!endpoint) return;
+    if (!forms.length) return;
 
-    const statusEl = document.getElementById("contact-form-status");
-    const submitBtn = form.querySelector('button[type="submit"]');
-    const defaultBtnText = submitBtn ? submitBtn.textContent.trim() : "";
-    const defaultBtnDataText = submitBtn ? submitBtn.getAttribute("data-text") : "";
+    forms.forEach((form) => {
+      const endpoint = form.getAttribute("data-endpoint");
+      if (!endpoint) return;
 
-    const setStatus = (type, message) => {
-      if (!statusEl) return;
-      statusEl.classList.remove("d-none", "alert-success", "alert-danger");
-      statusEl.classList.add(type === "success" ? "alert-success" : "alert-danger");
-      statusEl.textContent = message;
-    };
+      const statusEl = form.querySelector("[data-contact-form-status], #contact-form-status");
+      const submitBtn = form.querySelector('button[type="submit"]');
+      const defaultBtnText = submitBtn ? submitBtn.textContent.trim() : "";
+      const defaultBtnDataText = submitBtn ? submitBtn.getAttribute("data-text") : "";
 
-    const resetNiceSelect = () => {
-      if (window.jQuery && window.jQuery.fn && window.jQuery.fn.niceSelect) {
-        window.jQuery(form).find("select").niceSelect("update");
-      }
-    };
+      const setStatus = (type, message) => {
+        if (!statusEl) return;
+        statusEl.classList.remove("d-none", "alert-success", "alert-danger");
+        statusEl.classList.add(type === "success" ? "alert-success" : "alert-danger");
+        statusEl.textContent = message;
+      };
 
-    form.addEventListener("submit", (event) => {
-      event.preventDefault();
-
-      if (typeof form.reportValidity === "function" && !form.reportValidity()) {
-        return;
-      }
-
-      if (submitBtn) {
-        submitBtn.disabled = true;
-        submitBtn.classList.add("disabled");
-        submitBtn.textContent = "Sending...";
-        if (submitBtn.hasAttribute("data-text")) {
-          submitBtn.setAttribute("data-text", "Sending...");
+      const resetNiceSelect = () => {
+        if (window.jQuery && window.jQuery.fn && window.jQuery.fn.niceSelect) {
+          window.jQuery(form).find("select").niceSelect("update");
         }
-      }
+      };
 
-      if (statusEl) {
-        statusEl.classList.add("d-none");
-        statusEl.textContent = "";
-      }
+      form.addEventListener("submit", (event) => {
+        event.preventDefault();
 
-      const formData = new FormData(form);
-      formData.set("submitted_at", new Date().toISOString());
+        if (typeof form.reportValidity === "function" && !form.reportValidity()) {
+          return;
+        }
 
-      fetch(endpoint, {
-        method: "POST",
-        body: formData,
-        mode: "no-cors",
-      })
-        .then(() => {
-          setStatus("success", "Thanks! Your message has been sent.");
-          form.reset();
-          resetNiceSelect();
-        })
-        .catch(() => {
-          setStatus("error", "Failed to send your message. Please try again.");
-        })
-        .finally(() => {
-          if (submitBtn) {
-            submitBtn.disabled = false;
-            submitBtn.classList.remove("disabled");
-            if (defaultBtnText) {
-              submitBtn.textContent = defaultBtnText;
-            }
-            if (submitBtn.hasAttribute("data-text")) {
-              submitBtn.setAttribute("data-text", defaultBtnDataText || defaultBtnText || "Submit");
-            }
+        if (submitBtn) {
+          submitBtn.disabled = true;
+          submitBtn.classList.add("disabled");
+          submitBtn.textContent = "Sending...";
+          if (submitBtn.hasAttribute("data-text")) {
+            submitBtn.setAttribute("data-text", "Sending...");
           }
-        });
+        }
+
+        if (statusEl) {
+          statusEl.classList.add("d-none");
+          statusEl.textContent = "";
+        }
+
+        const formData = new FormData(form);
+        formData.set("submitted_at", new Date().toISOString());
+
+        fetch(endpoint, {
+          method: "POST",
+          body: formData,
+          mode: "no-cors",
+        })
+          .then(() => {
+            setStatus("success", "Thanks! Your message has been sent.");
+            form.reset();
+            resetNiceSelect();
+          })
+          .catch(() => {
+            setStatus("error", "Failed to send your message. Please try again.");
+          })
+          .finally(() => {
+            if (submitBtn) {
+              submitBtn.disabled = false;
+              submitBtn.classList.remove("disabled");
+              if (defaultBtnText) {
+                submitBtn.textContent = defaultBtnText;
+              }
+              if (submitBtn.hasAttribute("data-text")) {
+                submitBtn.setAttribute("data-text", defaultBtnDataText || defaultBtnText || "Submit");
+              }
+            }
+          });
+      });
     });
   });
 })();

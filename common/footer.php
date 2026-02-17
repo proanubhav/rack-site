@@ -278,35 +278,60 @@
         <h5 class="modal-title" id="contactModalLabel">Get a Free Quote</h5>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
-      <form id="contactForm">
+      <?php
+      $google_sheets_webapp_url = $google_sheets_webapp_url ?? 'https://script.google.com/macros/s/AKfycbzPTs0LCXWavhDTAwK6HLz7k9a0ovJP0_1w8hP2d4NJqeko0EHx3J33Z0cl7Dh9q2jDGA/exec';
+      ?>
+      <form id="contact-form-modal"
+        data-contact-form="true"
+        data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
+        action="contact.php#contact-form"
+        method="post">
         <div class="modal-body">
-          <div class="mb-3">
-            <label for="cfName" class="form-label">Your Name</label>
-            <input type="text" class="form-control" id="cfName" name="name" placeholder="Enter Name" required>
+          <div class="alert d-none" role="alert" data-contact-form-status></div>
+          <input type="hidden" name="source" value="home-popup" />
+          <div class="row">
+            <div class="col-md-6">
+              <div class="form-inner mb-35">
+                <label>Your Name*</label>
+                <input name="name" placeholder="Enter Name" type="text" required />
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-inner mb-35">
+                <label>Email Address*</label>
+                <input name="email" placeholder="Enter Email Address" type="email" required />
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="form-inner mb-35">
+                <label>Phone Number</label>
+                <input name="phone" placeholder="Enter Phone Number" type="tel" />
+              </div>
+            </div>
+            <div class="col-md-6 mb-35">
+              <div class="form-inner">
+                <label>Service Type*</label>
+                <select name="service_type" class="nice-select" required>
+                  <option value="">Select Service</option>
+                  <option value="Supermart">Supermart</option>
+                  <option value="Retail-Shop">Retail-Shop</option>
+                </select>
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div class="form-inner mb-40">
+                <label>Your Message</label>
+                <textarea name="message" placeholder="Write your message...."></textarea>
+              </div>
+            </div>
           </div>
-
-          <div class="mb-3">
-            <label for="cfEmail" class="form-label">Email Address</label>
-            <input type="email" class="form-control" id="cfEmail" name="email" placeholder="Enter Email Address" required>
-          </div>
-
-          <div class="mb-3">
-            <label for="cfPhone" class="form-label">Phone Number</label>
-            <input type="tel" class="form-control" id="cfPhone" name="phone" placeholder="Enter Phone Number" required>
-          </div>
-
-          <div class="mb-3">
-            <label for="cfMessage" class="form-label">Message</label>
-            <textarea class="form-control" id="cfMessage" name="message" rows="4" placeholder="Write your message...." required></textarea>
-          </div>
-
         </div>
 
         <div class="modal-footer">
           <a class="primary-btn1 secondary-btn" data-bs-dismiss="modal">Close</a>
-          <a class="submit-btn four" data-text="Submit" href="#">
-                                        Submit
-                                    </a>
+          <button class="submit-btn four" data-text="Submit" type="submit">
+            Submit
+          </button>
         </div>
       </form>
     </div>
@@ -326,10 +351,5 @@
         }
       }, 1000);
     }
-    document.getElementById('contactForm').addEventListener('submit', function (e) {
-      e.preventDefault();
-      contactModal.hide();
-      this.reset();
-    });
   });
 </script>

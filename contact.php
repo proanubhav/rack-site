@@ -207,6 +207,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                             <h3>Drop us a Line</h3>
                             <p>Drop us an email and we’ll get back to you within 24hrs…</p>
                             <form id="contact-form"
+                                data-contact-form="true"
                                 data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
                                 action="<?php echo htmlspecialchars($_SERVER['REQUEST_URI'], ENT_QUOTES, 'UTF-8'); ?>#contact-form"
                                 method="post">
@@ -214,7 +215,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                                 $status_message = $sheet_status ?: $sheet_error;
                                 $status_class = $sheet_status ? 'alert-success' : ($sheet_error ? 'alert-danger' : 'd-none');
                                 ?>
-                                <div id="contact-form-status" class="alert <?php echo $status_class; ?>" role="alert">
+                                <div id="contact-form-status" class="alert <?php echo $status_class; ?>" role="alert" data-contact-form-status>
                                     <?php echo htmlspecialchars($status_message ?? '', ENT_QUOTES, 'UTF-8'); ?>
                                 </div>
                                 <input type="hidden" name="source" value="contact.php" />

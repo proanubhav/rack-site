@@ -97,60 +97,52 @@
                                     <div class="tab-pane fade active show" id="v-pills-booking" role="tabpanel"
                                         aria-labelledby="v-pills-booking-tab">
                                         <div class="inquiry-form">
-                                            <form>
+                                            <form data-contact-form="true"
+                                                data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
+                                                action="contact.php#contact-form"
+                                                method="post">
+                                                <div class="alert d-none" role="alert" data-contact-form-status></div>
+                                                <input type="hidden" name="source" value="service-details-quote" />
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="form-inner mb-35">
-                                                            <label>Delivery From</label>
-                                                            <input placeholder="Enter location" type="text" />
+                                                            <label>Your Name*</label>
+                                                            <input name="name" placeholder="Enter Name" type="text" required />
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6">
                                                         <div class="form-inner mb-35">
-                                                            <label>Delivery To</label>
-                                                            <input placeholder="Enter location" type="text" />
+                                                            <label>Email Address*</label>
+                                                            <input name="email" placeholder="Enter Email Address" type="email" required />
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-12 mb-35">
+                                                    <div class="col-md-6">
+                                                        <div class="form-inner mb-35">
+                                                            <label>Phone Number</label>
+                                                            <input name="phone" placeholder="Enter Phone Number" type="tel" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 mb-35">
                                                         <div class="form-inner">
-                                                            <label>Freight Type</label>
-                                                            <select class="nice-select">
-                                                                <option>- Please choose an option -</option>
-                                                                <option>Freight And Cargo</option>
-                                                                <option>Ocean Freight</option>
-                                                                <option>Land Freight</option>
+                                                            <label>Service Type*</label>
+                                                            <select name="service_type" class="nice-select" required>
+                                                                <option value="">Select Service</option>
+                                                                <option value="Supermart">Supermart</option>
+                                                                <option value="Retail-Shop">Retail-Shop</option>
                                                             </select>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Weight*</label>
-                                                            <input placeholder="Weight in kg" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Length*</label>
-                                                            <input placeholder="Length in cm" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Your Name</label>
-                                                            <input placeholder="Donald Trump" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Your Email</label>
-                                                            <input placeholder="hello@example.com" type="email" />
+                                                    <div class="col-md-12">
+                                                        <div class="form-inner mb-40">
+                                                            <label>Your Message</label>
+                                                            <textarea name="message" placeholder="Write your message...."></textarea>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="form-inner">
-                                                    <a class="submit-btn two" data-text="Submit" href="#">
-                                                        <span>Submit Respritest</span>
-                                                    </a>
+                                                    <button class="submit-btn four" data-text="Submit" type="submit">
+                                                        Submit
+                                                    </button>
                                                 </div>
                                             </form>
                                         </div>
@@ -158,60 +150,52 @@
                                     <div class="tab-pane fade" id="v-pills-contact" role="tabpanel"
                                         aria-labelledby="v-pills-contact-tab">
                                         <div class="inquiry-form">
-                                            <form>
+                                            <form data-contact-form="true"
+                                                data-endpoint="<?php echo htmlspecialchars($google_sheets_webapp_url, ENT_QUOTES, 'UTF-8'); ?>"
+                                                action="contact.php#contact-form"
+                                                method="post">
+                                                <div class="alert d-none" role="alert" data-contact-form-status></div>
+                                                <input type="hidden" name="source" value="service-details-track" />
                                                 <div class="row">
                                                     <div class="col-md-6">
                                                         <div class="form-inner mb-35">
-                                                            <label>Delivery From</label>
-                                                            <input placeholder="Enter location" type="text" />
+                                                            <label>Your Name*</label>
+                                                            <input name="name" placeholder="Enter Name" type="text" required />
                                                         </div>
                                                     </div>
                                                     <div class="col-md-6">
                                                         <div class="form-inner mb-35">
-                                                            <label>Delivery To</label>
-                                                            <input placeholder="Enter location" type="text" />
+                                                            <label>Email Address*</label>
+                                                            <input name="email" placeholder="Enter Email Address" type="email" required />
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-12 mb-35">
+                                                    <div class="col-md-6">
+                                                        <div class="form-inner mb-35">
+                                                            <label>Phone Number</label>
+                                                            <input name="phone" placeholder="Enter Phone Number" type="tel" />
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-6 mb-35">
                                                         <div class="form-inner">
-                                                            <label>Freight Type</label>
-                                                            <select class="nice-select">
-                                                                <option>- Please choose an option -</option>
-                                                                <option>Freight And Cargo</option>
-                                                                <option>Ocean Freight</option>
-                                                                <option>Land Freight</option>
+                                                            <label>Service Type*</label>
+                                                            <select name="service_type" class="nice-select" required>
+                                                                <option value="">Select Service</option>
+                                                                <option value="Supermart">Supermart</option>
+                                                                <option value="Retail-Shop">Retail-Shop</option>
                                                             </select>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Weight*</label>
-                                                            <input placeholder="Weight in kg" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Length*</label>
-                                                            <input placeholder="Length in cm" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Your Name</label>
-                                                            <input placeholder="Donald Trump" type="text" />
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-6">
-                                                        <div class="form-inner mb-35">
-                                                            <label>Your Email</label>
-                                                            <input placeholder="hello@example.com" type="email" />
+                                                    <div class="col-md-12">
+                                                        <div class="form-inner mb-40">
+                                                            <label>Your Message</label>
+                                                            <textarea name="message" placeholder="Write your message...."></textarea>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="form-inner">
-                                                    <a class="submit-btn two" data-text="Submit" href="#">
-                                                        <span>Submit Respritest</span>
-                                                    </a>
+                                                    <button class="submit-btn four" data-text="Submit" type="submit">
+                                                        Submit
+                                                    </button>
                                                 </div>
                                             </form>
                                         </div>
