@@ -23,3 +23,4 @@
   <!-- gsp  JS -->
   <script src="assets/js/gsap.min.js"></script>
   <script src="assets/js/main.js"></script>
+  <script src="assets/js/contact-form.js"></script>
