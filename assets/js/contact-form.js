@@ -21,9 +21,15 @@
       if (!endpoint) return;
 
       const statusEl = form.querySelector("[data-contact-form-status], #contact-form-status");
-      const submitBtn = form.querySelector('button[type="submit"]');
+      const submitBtn = form.querySelector('button[type="submit"], .submit-btn');
       const defaultBtnText = submitBtn ? submitBtn.textContent.trim() : "";
+      const defaultBtnHtml = submitBtn ? submitBtn.innerHTML : "";
       const defaultBtnDataText = submitBtn ? submitBtn.getAttribute("data-text") : "";
+      const formSource =
+        form.getAttribute("data-source") ||
+        form.getAttribute("id") ||
+        window.location.pathname.replace(/^\/+/, "") ||
+        "unknown";
 
       const setStatus = (type, message) => {
         if (!statusEl) return;
@@ -31,6 +37,31 @@
         statusEl.classList.add(type === "success" ? "alert-success" : "alert-danger");
         statusEl.textContent = message;
       };
+
+      const setSubmitDisabled = (isDisabled) => {
+        if (!submitBtn) return;
+        if ("disabled" in submitBtn) {
+          submitBtn.disabled = isDisabled;
+        }
+        submitBtn.classList.toggle("disabled", isDisabled);
+        if (isDisabled) {
+          submitBtn.setAttribute("aria-disabled", "true");
+        } else {
+          submitBtn.removeAttribute("aria-disabled");
+        }
+      };
+
+      if (submitBtn && submitBtn.tagName.toLowerCase() === "a") {
+        submitBtn.addEventListener("click", (event) => {
+          event.preventDefault();
+          if (submitBtn.classList.contains("disabled")) return;
+          if (typeof form.requestSubmit === "function") {
+            form.requestSubmit();
+          } else {
+            form.dispatchEvent(new Event("submit", { bubbles: true, cancelable: true }));
+          }
+        });
+      }
 
       const resetNiceSelect = () => {
         if (window.jQuery && window.jQuery.fn && window.jQuery.fn.niceSelect) {
@@ -46,8 +77,7 @@
         }
 
         if (submitBtn) {
-          submitBtn.disabled = true;
-          submitBtn.classList.add("disabled");
+          setSubmitDisabled(true);
           submitBtn.textContent = "Sending...";
           if (submitBtn.hasAttribute("data-text")) {
             submitBtn.setAttribute("data-text", "Sending...");
@@ -60,6 +90,9 @@
         }
 
         const formData = new FormData(form);
+        if (!formData.get("source")) {
+          formData.set("source", formSource);
+        }
         formData.set("submitted_at", new Date().toISOString());
 
         fetch(endpoint, {
@@ -77,9 +110,10 @@
           })
           .finally(() => {
             if (submitBtn) {
-              submitBtn.disabled = false;
-              submitBtn.classList.remove("disabled");
-              if (defaultBtnText) {
+              setSubmitDisabled(false);
+              if (defaultBtnHtml) {
+                submitBtn.innerHTML = defaultBtnHtml;
+              } else if (defaultBtnText) {
                 submitBtn.textContent = defaultBtnText;
               }
               if (submitBtn.hasAttribute("data-text")) {
