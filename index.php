@@ -39,6 +39,8 @@
   <meta http-equiv="cache-control" content="max-age=0" />
   <meta http-equiv="cache-control" content="no-cache" />
   <meta http-equiv="pragma" content="no-cache" />
+  <link rel="preload" as="image" href="assets/images-rack/banner6.webp" fetchpriority="high" type="image/webp">
+  <link rel="preload" as="image" href="assets/image/banner-img/banner-bg-one.png" type="image/png">
   <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -100,13 +102,13 @@
       <div class="swiper banner-img-slider">
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner6.webp" alt="Rack Storage Solutions">
+            <img src="assets/images-rack/banner6.webp" alt="Rack Storage Solutions" width="1536" height="1023" loading="eager" decoding="async" fetchpriority="high">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner5.webp" alt="Industrial Racks">
+            <img src="assets/images-rack/banner5.webp" alt="Industrial Racks" width="1536" height="1023" loading="lazy" decoding="async">
           </div>
           <div class="swiper-slide">
-            <img src="assets/images-rack/banner4.webp" alt="Warehouse Racking System">
+            <img src="assets/images-rack/banner4.webp" alt="Warehouse Racking System" width="1536" height="1023" loading="lazy" decoding="async">
           </div>
         </div>
       </div>
